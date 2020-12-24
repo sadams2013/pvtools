@@ -1,0 +1,86 @@
+{
+    "FASTA": {
+        "NG_011745.1": {
+            "File": "NG_011745.1.fasta",
+            "mRNAStarts": [
+                5001,
+                15321,
+                46457,
+                48384,
+                50583,
+                52383,
+                52729,
+                70753,
+                74315,
+                76298,
+                79675,
+                90926,
+                96107,
+                98529,
+                112786
+            ],
+            "mRNAEnds": [
+                5043,
+                15465,
+                46598,
+                48516,
+                50704,
+                52529,
+                52827,
+                70995,
+                74479,
+                76493,
+                79840,
+                91110,
+                96171,
+                98646,
+                113603
+            ],
+            "mRNACount": 15,
+            "CDSStarts": [
+                15382,
+                46457,
+                48384,
+                50583,
+                52383,
+                52729,
+                70753,
+                74315,
+                76298,
+                79675,
+                90926,
+                96107,
+                98529,
+                112786
+            ],
+            "CDSEnds": [
+                15465,
+                46598,
+                48516,
+                50704,
+                52529,
+                52827,
+                70995,
+                74479,
+                76493,
+                79840,
+                91110,
+                96171,
+                98646,
+                112996
+            ],
+            "CDSCount": 14,
+            "Protein": "MDQNQHLNKTAEAQPSENKKTRYCNGLKMFLAALSLSFIAKTLGAIIMKSSIIHIERRFEISSSLVGFIDGSFEIGNLLVIVFVSYFGSKLHRPKLIGIGCFIMGIGGVLTALPHFFMGYYRYSKETNINSSENSTSTLSTCLINQILSLNRASPEIVGKGCLKESGSYMWIYVFMGNMLRGIGETPIVPLGLSYIDDFAKEGHSSLYLGILNAIAMIGPIIGFTLGSLFSKMYVDIGYVDLSTIRITPTDSRWVGAWWLNFLVSGLFSIISSIPFFFLPQTPNKPQKERKASLSLHVLETNDEKDQTANLTNQGKNITKNVTGFFQSFKSILTNPLYVMFVLLTLLQVSSYIGAFTYVFKYVEQQYGQPSSKANILLGVITIPIFASGMFLGGYIIKKFKLNTVGIAKFSCFTAVMSLSFYLLYFFILCENKSVAGLTMTYDGNNPVTSHRDVPLSYCNSDCNCDESQWEPVCGNNGITYISPCLAGCKSSSGNKKPIVFYNCSCLEVTGLQNRNYSAHLGECPRDDACTRKFYFFVAIQVLNLFFSALGGTSHVMLIVKIVQPELKSLALGFHSMVIRALGGILAPIYFGALIDTTCIKWSTNNCGTRGSCRTYNSTSFSRVYLGLSSMLRVSSLVLYIILIYAMKKKYQEKDINASENGSVMDEANLESLNKNKHFVPSAGADSETHC"
+        },
+        "NM_006446.5": {
+            "File": "NM_006446.5.fasta",
+            "CDSStarts": [
+                105
+            ],
+            "CDSEnds": [
+                2180
+            ],
+            "CDSCount": 1
+        }
+    }
+}
