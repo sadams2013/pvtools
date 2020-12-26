@@ -1,0 +1,3501 @@
+Position1	Position2	Allele	Annotation1	Annotation2	Position3
+1	-350	G	Upstream	Upstream	c.-250
+2	-349	A	Upstream	Upstream	c.-249
+3	-348	T	Upstream	Upstream	c.-248
+4	-347	T	Upstream	Upstream	c.-247
+5	-346	C	Upstream	Upstream	c.-246
+6	-345	C	Upstream	Upstream	c.-245
+7	-344	T	Upstream	Upstream	c.-244
+8	-343	C	Upstream	Upstream	c.-243
+9	-342	T	Upstream	Upstream	c.-242
+10	-341	G	Upstream	Upstream	c.-241
+11	-340	C	Upstream	Upstream	c.-240
+12	-339	A	Upstream	Upstream	c.-239
+13	-338	G	Upstream	Upstream	c.-238
+14	-337	T	Upstream	Upstream	c.-237
+15	-336	G	Upstream	Upstream	c.-236
+16	-335	T	Upstream	Upstream	c.-235
+17	-334	A	Upstream	Upstream	c.-234
+18	-333	A	Upstream	Upstream	c.-233
+19	-332	C	Upstream	Upstream	c.-232
+20	-331	T	Upstream	Upstream	c.-231
+21	-330	T	Upstream	Upstream	c.-230
+22	-329	C	Upstream	Upstream	c.-229
+23	-328	A	Upstream	Upstream	c.-228
+24	-327	T	Upstream	Upstream	c.-227
+25	-326	G	Upstream	Upstream	c.-226
+26	-325	G	Upstream	Upstream	c.-225
+27	-324	T	Upstream	Upstream	c.-224
+28	-323	T	Upstream	Upstream	c.-223
+29	-322	T	Upstream	Upstream	c.-222
+30	-321	T	Upstream	Upstream	c.-221
+31	-320	T	Upstream	Upstream	c.-220
+32	-319	G	Upstream	Upstream	c.-219
+33	-318	A	Upstream	Upstream	c.-218
+34	-317	G	Upstream	Upstream	c.-217
+35	-316	G	Upstream	Upstream	c.-216
+36	-315	C	Upstream	Upstream	c.-215
+37	-314	A	Upstream	Upstream	c.-214
+38	-313	A	Upstream	Upstream	c.-213
+39	-312	A	Upstream	Upstream	c.-212
+40	-311	G	Upstream	Upstream	c.-211
+41	-310	G	Upstream	Upstream	c.-210
+42	-309	A	Upstream	Upstream	c.-209
+43	-308	A	Upstream	Upstream	c.-208
+44	-307	G	Upstream	Upstream	c.-207
+45	-306	G	Upstream	Upstream	c.-206
+46	-305	C	Upstream	Upstream	c.-205
+47	-304	T	Upstream	Upstream	c.-204
+48	-303	G	Upstream	Upstream	c.-203
+49	-302	G	Upstream	Upstream	c.-202
+50	-301	C	Upstream	Upstream	c.-201
+51	-300	A	Upstream	Upstream	c.-200
+52	-299	G	Upstream	Upstream	c.-199
+53	-298	T	Upstream	Upstream	c.-198
+54	-297	A	Upstream	Upstream	c.-197
+55	-296	A	Upstream	Upstream	c.-196
+56	-295	A	Upstream	Upstream	c.-195
+57	-294	C	Upstream	Upstream	c.-194
+58	-293	A	Upstream	Upstream	c.-193
+59	-292	A	Upstream	Upstream	c.-192
+60	-291	A	Upstream	Upstream	c.-191
+61	-290	A	Upstream	Upstream	c.-190
+62	-289	T	Upstream	Upstream	c.-189
+63	-288	A	Upstream	Upstream	c.-188
+64	-287	T	Upstream	Upstream	c.-187
+65	-286	G	Upstream	Upstream	c.-186
+66	-285	T	Upstream	Upstream	c.-185
+67	-284	G	Upstream	Upstream	c.-184
+68	-283	A	Upstream	Upstream	c.-183
+69	-282	G	Upstream	Upstream	c.-182
+70	-281	T	Upstream	Upstream	c.-181
+71	-280	A	Upstream	Upstream	c.-180
+72	-279	A	Upstream	Upstream	c.-179
+73	-278	A	Upstream	Upstream	c.-178
+74	-277	A	Upstream	Upstream	c.-177
+75	-276	T	Upstream	Upstream	c.-176
+76	-275	T	Upstream	Upstream	c.-175
+77	-274	T	Upstream	Upstream	c.-174
+78	-273	A	Upstream	Upstream	c.-173
+79	-272	T	Upstream	Upstream	c.-172
+80	-271	A	Upstream	Upstream	c.-171
+81	-270	G	Upstream	Upstream	c.-170
+82	-269	T	Upstream	Upstream	c.-169
+83	-268	A	Upstream	Upstream	c.-168
+84	-267	T	Upstream	Upstream	c.-167
+85	-266	G	Upstream	Upstream	c.-166
+86	-265	A	Upstream	Upstream	c.-165
+87	-264	T	Upstream	Upstream	c.-164
+88	-263	G	Upstream	Upstream	c.-163
+89	-262	G	Upstream	Upstream	c.-162
+90	-261	T	Upstream	Upstream	c.-161
+91	-260	G	Upstream	Upstream	c.-160
+92	-259	A	Upstream	Upstream	c.-159
+93	-258	G	Upstream	Upstream	c.-158
+94	-257	A	Upstream	Upstream	c.-157
+95	-256	G	Upstream	Upstream	c.-156
+96	-255	A	Upstream	Upstream	c.-155
+97	-254	A	Upstream	Upstream	c.-154
+98	-253	T	Upstream	Upstream	c.-153
+99	-252	A	Upstream	Upstream	c.-152
+100	-251	A	Upstream	Upstream	c.-151
+101	-250	A	Exon 1	5' UTR Exon 1	c.-150
+102	-249	A	Exon 1	5' UTR Exon 1	c.-149
+103	-248	A	Exon 1	5' UTR Exon 1	c.-148
+104	-247	T	Exon 1	5' UTR Exon 1	c.-147
+105	-246	T	Exon 1	5' UTR Exon 1	c.-146
+106	-245	G	Exon 1	5' UTR Exon 1	c.-145
+107	-244	A	Exon 1	5' UTR Exon 1	c.-144
+108	-243	G	Exon 1	5' UTR Exon 1	c.-143
+109	-242	T	Exon 1	5' UTR Exon 1	c.-142
+110	-241	G	Exon 1	5' UTR Exon 1	c.-141
+111	-240	T	Exon 1	5' UTR Exon 1	c.-140
+112	-239	C	Exon 1	5' UTR Exon 1	c.-139
+113	-238	A	Exon 1	5' UTR Exon 1	c.-138
+114	-237	A	Exon 1	5' UTR Exon 1	c.-137
+115	-236	A	Exon 1	5' UTR Exon 1	c.-136
+116	-235	G	Exon 1	5' UTR Exon 1	c.-135
+117	-234	G	Exon 1	5' UTR Exon 1	c.-134
+118	-233	G	Exon 1	5' UTR Exon 1	c.-133
+119	-232	A	Exon 1	5' UTR Exon 1	c.-132
+120	-231	G	Exon 1	5' UTR Exon 1	c.-131
+121	-230	T	Exon 1	5' UTR Exon 1	c.-130
+122	-229	A	Exon 1	5' UTR Exon 1	c.-129
+123	-228	A	Exon 1	5' UTR Exon 1	c.-128
+124	-227	T	Exon 1	5' UTR Exon 1	c.-127
+125	-226	A	Exon 1	5' UTR Exon 1	c.-126
+126	-225	T	Exon 1	5' UTR Exon 1	c.-125
+127	-224	T	Exon 1	5' UTR Exon 1	c.-124
+128	-223	A	Exon 1	5' UTR Exon 1	c.-123
+129	-222	A	Exon 1	5' UTR Exon 1	c.-122
+130	-221	A	Exon 1	5' UTR Exon 1	c.-121
+131	-220	A	Exon 1	5' UTR Exon 1	c.-120
+132	-219	A	Exon 1	5' UTR Exon 1	c.-119
+133	-218	A	Exon 1	5' UTR Exon 1	c.-118
+134	-217	T	Exon 1	5' UTR Exon 1	c.-117
+135	-216	T	Exon 1	5' UTR Exon 1	c.-116
+136	-215	G	Exon 1	5' UTR Exon 1	c.-115
+137	-214	T	Exon 1	5' UTR Exon 1	c.-114
+138	-213	T	Exon 1	5' UTR Exon 1	c.-113
+139	-212	A	Exon 1	5' UTR Exon 1	c.-112
+140	-211	G	Exon 1	5' UTR Exon 1	c.-111
+141	-210	A	Exon 1	5' UTR Exon 1	c.-110
+142	-209	G	Exon 1	5' UTR Exon 1	c.-109
+143	-208	A	Exon 1	5' UTR Exon 1	c.-108
+144	-207	A	Exon 1	5' UTR Exon 1	c.-107
+145	-206	G	Exon 1	5' UTR Exon 1	c.-106
+146	-205	A	Exon 1	5' UTR Exon 1	c.-105
+147	-204	C	Exon 1	5' UTR Exon 1	c.-104
+148	-203	T	Exon 1	5' UTR Exon 1	c.-103
+149	-202	T	Exon 1	5' UTR Exon 1	c.-102
+150	-201	C	Exon 1	5' UTR Exon 1	c.-101
+151	-200	G	Exon 1	5' UTR Exon 1	c.-100
+152	-199	C	Exon 1	5' UTR Exon 1	c.-99
+153	-198	T	Exon 1	5' UTR Exon 1	c.-98
+154	-197	G	Exon 1	5' UTR Exon 1	c.-97
+155	-196	G	Exon 1	5' UTR Exon 1	c.-96
+156	-195	G	Exon 1	5' UTR Exon 1	c.-95
+157	-194	A	Exon 1	5' UTR Exon 1	c.-94
+158	-193	A	Exon 1	5' UTR Exon 1	c.-93
+159	-192	A	Exon 1	5' UTR Exon 1	c.-92
+160	-191	G	Exon 1	5' UTR Exon 1	c.-91
+161	-190	T	Exon 1	5' UTR Exon 1	c.-90
+162	-189	G	Exon 1	5' UTR Exon 1	c.-89
+163	-188	T	Exon 1	5' UTR Exon 1	c.-88
+164	-187	C	Exon 1	5' UTR Exon 1	c.-87
+165	-186	A	Exon 1	5' UTR Exon 1	c.-86
+166	-185	T	Exon 1	5' UTR Exon 1	c.-85
+167	-184	T	Exon 1	5' UTR Exon 1	c.-84
+168	-183	T	Exon 1	5' UTR Exon 1	c.-83
+169	-182	G	Exon 1	5' UTR Exon 1	c.-82
+170	-181	T	Exon 1	5' UTR Exon 1	c.-81
+171	-180	T	Exon 1	5' UTR Exon 1	c.-80
+172	-179	T	Exon 1	5' UTR Exon 1	c.-79
+173	-178	G	Exon 1	5' UTR Exon 1	c.-78
+174	-177	G	Exon 1	5' UTR Exon 1	c.-77
+175	-176	G	Exon 1	5' UTR Exon 1	c.-76
+176	-175	T	Exon 1	5' UTR Exon 1	c.-75
+177	-174	A	Exon 1	5' UTR Exon 1	c.-74
+178	-173	C	Exon 1	5' UTR Exon 1	c.-73
+179	-172	T	Exon 1	5' UTR Exon 1	c.-72
+180	-171	A	Exon 1	5' UTR Exon 1	c.-71
+181	-170	G	Exon 1	5' UTR Exon 1	c.-70
+182	-169	A	Exon 1	5' UTR Exon 1	c.-69
+183	-168	A	Exon 1	5' UTR Exon 1	c.-68
+184	-167	T	Exon 1	5' UTR Exon 1	c.-67
+185	-166	A	Exon 1	5' UTR Exon 1	c.-66
+186	-165	T	Exon 1	5' UTR Exon 1	c.-65
+187	-164	G	Exon 1	5' UTR Exon 1	c.-64
+188	-163	G	Exon 1	5' UTR Exon 1	c.-63
+189	-162	T	Exon 1	5' UTR Exon 1	c.-62
+190	-161	G	Exon 1	5' UTR Exon 1	c.-61
+191	-160	A	Exon 1	5' UTR Exon 1	c.-60
+192	-159	G	Exon 1	5' UTR Exon 1	c.-59
+193	-158	G	Exon 1	5' UTR Exon 1	c.-58
+194	-157	G	Exon 1	5' UTR Exon 1	c.-57
+195	-156	A	Exon 1	5' UTR Exon 1	c.-56
+196	-155	G	Exon 1	5' UTR Exon 1	c.-55
+197	-154	T	Exon 1	5' UTR Exon 1	c.-54
+198	-153	A	Exon 1	5' UTR Exon 1	c.-53
+199	-152	A	Exon 1	5' UTR Exon 1	c.-52
+200	-151	G	Exon 1	5' UTR Exon 1	c.-51
+201	-150	T	Intron 1	5' UTR Intron 1	c.-51+1
+202	-149	T	Intron 1	5' UTR Intron 1	c.-51+2
+203	-148	A	Intron 1	5' UTR Intron 1	c.-51+3
+204	-147	T	Intron 1	5' UTR Intron 1	c.-51+4
+205	-146	G	Intron 1	5' UTR Intron 1	c.-51+5
+206	-145	C	Intron 1	5' UTR Intron 1	c.-51+6
+207	-144	A	Intron 1	5' UTR Intron 1	c.-51+7
+208	-143	G	Intron 1	5' UTR Intron 1	c.-51+8
+209	-142	C	Intron 1	5' UTR Intron 1	c.-51+9
+210	-141	T	Intron 1	5' UTR Intron 1	c.-51+10
+211	-140	A	Intron 1	5' UTR Intron 1	c.-51+11
+212	-139	T	Intron 1	5' UTR Intron 1	c.-51+12
+213	-138	A	Intron 1	5' UTR Intron 1	c.-51+13
+214	-137	G	Intron 1	5' UTR Intron 1	c.-51+14
+215	-136	G	Intron 1	5' UTR Intron 1	c.-51+15
+216	-135	G	Intron 1	5' UTR Intron 1	c.-51+16
+217	-134	A	Intron 1	5' UTR Intron 1	c.-51+17
+218	-133	A	Intron 1	5' UTR Intron 1	c.-51+18
+219	-132	A	Intron 1	5' UTR Intron 1	c.-51+19
+220	-131	G	Intron 1	5' UTR Intron 1	c.-51+20
+221	-130	A	Intron 1	5' UTR Intron 1	c.-51+21
+222	-129	A	Intron 1	5' UTR Intron 1	c.-51+22
+223	-128	C	Intron 1	5' UTR Intron 1	c.-51+23
+224	-127	A	Intron 1	5' UTR Intron 1	c.-51+24
+225	-126	T	Intron 1	5' UTR Intron 1	c.-51+25
+226	-125	T	Intron 1	5' UTR Intron 1	c.-51+26
+227	-124	C	Intron 1	5' UTR Intron 1	c.-51+27
+228	-123	C	Intron 1	5' UTR Intron 1	c.-51+28
+229	-122	A	Intron 1	5' UTR Intron 1	c.-51+29
+230	-121	G	Intron 1	5' UTR Intron 1	c.-51+30
+231	-120	A	Intron 1	5' UTR Intron 1	c.-51+31
+232	-119	C	Intron 1	5' UTR Intron 1	c.-51+32
+233	-118	A	Intron 1	5' UTR Intron 1	c.-51+33
+234	-117	G	Intron 1	5' UTR Intron 1	c.-51+34
+235	-116	A	Intron 1	5' UTR Intron 1	c.-51+35
+236	-115	A	Intron 1	5' UTR Intron 1	c.-51+36
+237	-114	A	Intron 1	5' UTR Intron 1	c.-51+37
+238	-113	G	Intron 1	5' UTR Intron 1	c.-51+38
+239	-112	A	Intron 1	5' UTR Intron 1	c.-51+39
+240	-111	A	Intron 1	5' UTR Intron 1	c.-51+40
+241	-110	A	Intron 1	5' UTR Intron 1	c.-51+41
+242	-109	A	Intron 1	5' UTR Intron 1	c.-51+42
+243	-108	A	Intron 1	5' UTR Intron 1	c.-51+43
+244	-107	T	Intron 1	5' UTR Intron 1	c.-51+44
+245	-106	A	Intron 1	5' UTR Intron 1	c.-51+45
+246	-105	G	Intron 1	5' UTR Intron 1	c.-51+46
+247	-104	G	Intron 1	5' UTR Intron 1	c.-51+47
+248	-103	A	Intron 1	5' UTR Intron 1	c.-51+48
+249	-102	A	Intron 1	5' UTR Intron 1	c.-51+49
+250	-101	C	Intron 1	5' UTR Intron 1	c.-51+50
+251	-100	A	Intron 1	5' UTR Intron 1	c.-51+51
+252	-99	A	Intron 1	5' UTR Intron 1	c.-51+52
+253	-98	A	Intron 1	5' UTR Intron 1	c.-51+53
+254	-97	G	Intron 1	5' UTR Intron 1	c.-51+54
+255	-96	A	Intron 1	5' UTR Intron 1	c.-51+55
+256	-95	T	Intron 1	5' UTR Intron 1	c.-51+56
+257	-94	T	Intron 1	5' UTR Intron 1	c.-51+57
+258	-93	C	Intron 1	5' UTR Intron 1	c.-51+58
+259	-92	T	Intron 1	5' UTR Intron 1	c.-51+59
+260	-91	C	Intron 1	5' UTR Intron 1	c.-51+60
+261	-90	A	Intron 1	5' UTR Intron 1	c.-51+61
+262	-89	G	Intron 1	5' UTR Intron 1	c.-51+62
+263	-88	T	Intron 1	5' UTR Intron 1	c.-51+63
+264	-87	A	Intron 1	5' UTR Intron 1	c.-51+64
+265	-86	G	Intron 1	5' UTR Intron 1	c.-51+65
+266	-85	A	Intron 1	5' UTR Intron 1	c.-51+66
+267	-84	G	Intron 1	5' UTR Intron 1	c.-51+67
+268	-83	G	Intron 1	5' UTR Intron 1	c.-51+68
+269	-82	A	Intron 1	5' UTR Intron 1	c.-51+69
+270	-81	T	Intron 1	5' UTR Intron 1	c.-51+70
+271	-80	C	Intron 1	5' UTR Intron 1	c.-51+71
+272	-79	T	Intron 1	5' UTR Intron 1	c.-51+72
+273	-78	A	Intron 1	5' UTR Intron 1	c.-51+73
+274	-77	T	Intron 1	5' UTR Intron 1	c.-51+74
+275	-76	A	Intron 1	5' UTR Intron 1	c.-51+75
+276	-75	A	Intron 1	5' UTR Intron 1	c.-51+76
+277	-74	C	Intron 1	5' UTR Intron 1	c.-51+77
+278	-73	T	Intron 1	5' UTR Intron 1	c.-51+78
+279	-72	T	Intron 1	5' UTR Intron 1	c.-51+79
+280	-71	A	Intron 1	5' UTR Intron 1	c.-51+80
+281	-70	T	Intron 1	5' UTR Intron 1	c.-51+81
+282	-69	A	Intron 1	5' UTR Intron 1	c.-51+82
+283	-68	A	Intron 1	5' UTR Intron 1	c.-51+83
+284	-67	G	Intron 1	5' UTR Intron 1	c.-51+84
+285	-66	G	Intron 1	5' UTR Intron 1	c.-51+85
+286	-65	C	Intron 1	5' UTR Intron 1	c.-51+86
+287	-64	C	Intron 1	5' UTR Intron 1	c.-51+87
+288	-63	T	Intron 1	5' UTR Intron 1	c.-51+88
+289	-62	T	Intron 1	5' UTR Intron 1	c.-51+89
+290	-61	A	Intron 1	5' UTR Intron 1	c.-51+90
+291	-60	A	Intron 1	5' UTR Intron 1	c.-51+91
+292	-59	A	Intron 1	5' UTR Intron 1	c.-51+92
+293	-58	G	Intron 1	5' UTR Intron 1	c.-51+93
+294	-57	C	Intron 1	5' UTR Intron 1	c.-51+94
+295	-56	T	Intron 1	5' UTR Intron 1	c.-51+95
+296	-55	G	Intron 1	5' UTR Intron 1	c.-51+96
+297	-54	T	Intron 1	5' UTR Intron 1	c.-51+97
+298	-53	T	Intron 1	5' UTR Intron 1	c.-51+98
+299	-52	C	Intron 1	5' UTR Intron 1	c.-51+99
+300	-51	T	Intron 1	5' UTR Intron 1	c.-51+100
+301	-50	T	Exon 2	5' UTR Exon 2	c.-50
+302	-49	T	Exon 2	5' UTR Exon 2	c.-49
+303	-48	G	Exon 2	5' UTR Exon 2	c.-48
+304	-47	G	Exon 2	5' UTR Exon 2	c.-47
+305	-46	A	Exon 2	5' UTR Exon 2	c.-46
+306	-45	T	Exon 2	5' UTR Exon 2	c.-45
+307	-44	T	Exon 2	5' UTR Exon 2	c.-44
+308	-43	T	Exon 2	5' UTR Exon 2	c.-43
+309	-42	T	Exon 2	5' UTR Exon 2	c.-42
+310	-41	T	Exon 2	5' UTR Exon 2	c.-41
+311	-40	G	Exon 2	5' UTR Exon 2	c.-40
+312	-39	A	Exon 2	5' UTR Exon 2	c.-39
+313	-38	G	Exon 2	5' UTR Exon 2	c.-38
+314	-37	T	Exon 2	5' UTR Exon 2	c.-37
+315	-36	G	Exon 2	5' UTR Exon 2	c.-36
+316	-35	A	Exon 2	5' UTR Exon 2	c.-35
+317	-34	T	Exon 2	5' UTR Exon 2	c.-34
+318	-33	A	Exon 2	5' UTR Exon 2	c.-33
+319	-32	T	Exon 2	5' UTR Exon 2	c.-32
+320	-31	G	Exon 2	5' UTR Exon 2	c.-31
+321	-30	T	Exon 2	5' UTR Exon 2	c.-30
+322	-29	G	Exon 2	5' UTR Exon 2	c.-29
+323	-28	A	Exon 2	5' UTR Exon 2	c.-28
+324	-27	A	Exon 2	5' UTR Exon 2	c.-27
+325	-26	G	Exon 2	5' UTR Exon 2	c.-26
+326	-25	C	Exon 2	5' UTR Exon 2	c.-25
+327	-24	C	Exon 2	5' UTR Exon 2	c.-24
+328	-23	A	Exon 2	5' UTR Exon 2	c.-23
+329	-22	A	Exon 2	5' UTR Exon 2	c.-22
+330	-21	T	Exon 2	5' UTR Exon 2	c.-21
+331	-20	G	Exon 2	5' UTR Exon 2	c.-20
+332	-19	G	Exon 2	5' UTR Exon 2	c.-19
+333	-18	G	Exon 2	5' UTR Exon 2	c.-18
+334	-17	G	Exon 2	5' UTR Exon 2	c.-17
+335	-16	G	Exon 2	5' UTR Exon 2	c.-16
+336	-15	A	Exon 2	5' UTR Exon 2	c.-15
+337	-14	T	Exon 2	5' UTR Exon 2	c.-14
+338	-13	T	Exon 2	5' UTR Exon 2	c.-13
+339	-12	T	Exon 2	5' UTR Exon 2	c.-12
+340	-11	G	Exon 2	5' UTR Exon 2	c.-11
+341	-10	A	Exon 2	5' UTR Exon 2	c.-10
+342	-9	G	Exon 2	5' UTR Exon 2	c.-9
+343	-8	C	Exon 2	5' UTR Exon 2	c.-8
+344	-7	A	Exon 2	5' UTR Exon 2	c.-7
+345	-6	G	Exon 2	5' UTR Exon 2	c.-6
+346	-5	A	Exon 2	5' UTR Exon 2	c.-5
+347	-4	G	Exon 2	5' UTR Exon 2	c.-4
+348	-3	C	Exon 2	5' UTR Exon 2	c.-3
+349	-2	T	Exon 2	5' UTR Exon 2	c.-2
+350	-1	A	Exon 2	5' UTR Exon 2	c.-1
+351	0	T	Exon 2	CDS 1	c.1
+352	1	G	Exon 2	CDS 1	c.2
+353	2	A	Exon 2	CDS 1	c.3
+354	3	C	Exon 2	CDS 1	c.4
+355	4	A	Exon 2	CDS 1	c.5
+356	5	T	Exon 2	CDS 1	c.6
+357	6	G	Exon 2	CDS 1	c.7
+358	7	G	Exon 2	CDS 1	c.8
+359	8	T	Exon 2	CDS 1	c.9
+360	9	A	Exon 2	CDS 1	c.10
+361	10	T	Exon 2	CDS 1	c.11
+362	11	G	Exon 2	CDS 1	c.12
+363	12	A	Exon 2	CDS 1	c.13
+364	13	C	Exon 2	CDS 1	c.14
+365	14	C	Exon 2	CDS 1	c.15
+366	15	C	Exon 2	CDS 1	c.16
+367	16	T	Exon 2	CDS 1	c.17
+368	17	C	Exon 2	CDS 1	c.18
+369	18	A	Exon 2	CDS 1	c.19
+370	19	C	Exon 2	CDS 1	c.20
+371	20	T	Exon 2	CDS 1	c.21
+372	21	T	Exon 2	CDS 1	c.22
+373	22	A	Exon 2	CDS 1	c.23
+374	23	T	Exon 2	CDS 1	c.24
+375	24	A	Exon 2	CDS 1	c.25
+376	25	T	Exon 2	CDS 1	c.26
+377	26	G	Exon 2	CDS 1	c.27
+378	27	T	Exon 2	CDS 1	c.28
+379	28	T	Exon 2	CDS 1	c.29
+380	29	A	Exon 2	CDS 1	c.30
+381	30	A	Exon 2	CDS 1	c.31
+382	31	G	Exon 2	CDS 1	c.32
+383	32	A	Exon 2	CDS 1	c.33
+384	33	T	Exon 2	CDS 1	c.34
+385	34	T	Exon 2	CDS 1	c.35
+386	35	T	Exon 2	CDS 1	c.36
+387	36	A	Exon 2	CDS 1	c.37
+388	37	C	Exon 2	CDS 1	c.38
+389	38	A	Exon 2	CDS 1	c.39
+390	39	C	Exon 2	CDS 1	c.40
+391	40	A	Exon 2	CDS 1	c.41
+392	41	G	Exon 2	CDS 1	c.42
+393	42	G	Exon 2	CDS 1	c.43
+394	43	G	Exon 2	CDS 1	c.44
+395	44	G	Exon 2	CDS 1	c.45
+396	45	A	Exon 2	CDS 1	c.46
+397	46	A	Exon 2	CDS 1	c.47
+398	47	G	Exon 2	CDS 1	c.48
+399	48	G	Exon 2	CDS 1	c.49
+400	49	A	Exon 2	CDS 1	c.50
+401	50	G	Intron 2	Intron 1	c.50+1
+402	51	G	Intron 2	Intron 1	c.50+2
+403	52	T	Intron 2	Intron 1	c.50+3
+404	53	T	Intron 2	Intron 1	c.50+4
+405	54	G	Intron 2	Intron 1	c.50+5
+406	55	G	Intron 2	Intron 1	c.50+6
+407	56	G	Intron 2	Intron 1	c.50+7
+408	57	G	Intron 2	Intron 1	c.50+8
+409	58	A	Intron 2	Intron 1	c.50+9
+410	59	A	Intron 2	Intron 1	c.50+10
+411	60	G	Intron 2	Intron 1	c.50+11
+412	61	A	Intron 2	Intron 1	c.50+12
+413	62	G	Intron 2	Intron 1	c.50+13
+414	63	G	Intron 2	Intron 1	c.50+14
+415	64	G	Intron 2	Intron 1	c.50+15
+416	65	G	Intron 2	Intron 1	c.50+16
+417	66	C	Intron 2	Intron 1	c.50+17
+418	67	T	Intron 2	Intron 1	c.50+18
+419	68	G	Intron 2	Intron 1	c.50+19
+420	69	T	Intron 2	Intron 1	c.50+20
+421	70	G	Intron 2	Intron 1	c.50+21
+422	71	A	Intron 2	Intron 1	c.50+22
+423	72	G	Intron 2	Intron 1	c.50+23
+424	73	T	Intron 2	Intron 1	c.50+24
+425	74	G	Intron 2	Intron 1	c.50+25
+426	75	G	Intron 2	Intron 1	c.50+26
+427	76	T	Intron 2	Intron 1	c.50+27
+428	77	C	Intron 2	Intron 1	c.50+28
+429	78	A	Intron 2	Intron 1	c.50+29
+430	79	G	Intron 2	Intron 1	c.50+30
+431	80	G	Intron 2	Intron 1	c.50+31
+432	81	A	Intron 2	Intron 1	c.50+32
+433	82	G	Intron 2	Intron 1	c.50+33
+434	83	G	Intron 2	Intron 1	c.50+34
+435	84	A	Intron 2	Intron 1	c.50+35
+436	85	A	Intron 2	Intron 1	c.50+36
+437	86	A	Intron 2	Intron 1	c.50+37
+438	87	G	Intron 2	Intron 1	c.50+38
+439	88	C	Intron 2	Intron 1	c.50+39
+440	89	T	Intron 2	Intron 1	c.50+40
+441	90	G	Intron 2	Intron 1	c.50+41
+442	91	A	Intron 2	Intron 1	c.50+42
+443	92	G	Intron 2	Intron 1	c.50+43
+444	93	A	Intron 2	Intron 1	c.50+44
+445	94	T	Intron 2	Intron 1	c.50+45
+446	95	A	Intron 2	Intron 1	c.50+46
+447	96	C	Intron 2	Intron 1	c.50+47
+448	97	A	Intron 2	Intron 1	c.50+48
+449	98	A	Intron 2	Intron 1	c.50+49
+450	99	G	Intron 2	Intron 1	c.50+50
+451	100	T	Intron 2	Intron 1	c.50+51
+452	101	A	Intron 2	Intron 1	c.50+52
+453	102	T	Intron 2	Intron 1	c.50+53
+454	103	G	Intron 2	Intron 1	c.50+54
+455	104	A	Intron 2	Intron 1	c.50+55
+456	105	G	Intron 2	Intron 1	c.50+56
+457	106	G	Intron 2	Intron 1	c.50+57
+458	107	G	Intron 2	Intron 1	c.50+58
+459	108	T	Intron 2	Intron 1	c.50+59
+460	109	A	Intron 2	Intron 1	c.50+60
+461	110	T	Intron 2	Intron 1	c.50+61
+462	111	T	Intron 2	Intron 1	c.50+62
+463	112	G	Intron 2	Intron 1	c.50+63
+464	113	C	Intron 2	Intron 1	c.50+64
+465	114	A	Intron 2	Intron 1	c.50+65
+466	115	A	Intron 2	Intron 1	c.50+66
+467	116	T	Intron 2	Intron 1	c.50+67
+468	117	A	Intron 2	Intron 1	c.50+68
+469	118	A	Intron 2	Intron 1	c.50+69
+470	119	T	Intron 2	Intron 1	c.50+70
+471	120	T	Intron 2	Intron 1	c.50+71
+472	121	C	Intron 2	Intron 1	c.50+72
+473	122	A	Intron 2	Intron 1	c.50+73
+474	123	G	Intron 2	Intron 1	c.50+74
+475	124	G	Intron 2	Intron 1	c.50+75
+476	125	A	Intron 2	Intron 1	c.50+76
+477	126	C	Intron 2	Intron 1	c.50+77
+478	127	C	Intron 2	Intron 1	c.50+78
+479	128	A	Intron 2	Intron 1	c.50+79
+480	129	G	Intron 2	Intron 1	c.50+80
+481	130	C	Intron 2	Intron 1	c.50+81
+482	131	C	Intron 2	Intron 1	c.50+82
+483	132	T	Intron 2	Intron 1	c.50+83
+484	133	G	Intron 2	Intron 1	c.50+84
+485	134	A	Intron 2	Intron 1	c.50+85
+486	135	A	Intron 2	Intron 1	c.50+86
+487	136	A	Intron 2	Intron 1	c.50+87
+488	137	G	Intron 2	Intron 1	c.50+88
+489	138	T	Intron 2	Intron 1	c.50+89
+490	139	T	Intron 2	Intron 1	c.50+90
+491	140	G	Intron 2	Intron 1	c.50+91
+492	141	T	Intron 2	Intron 1	c.50+92
+493	142	G	Intron 2	Intron 1	c.50+93
+494	143	G	Intron 2	Intron 1	c.50+94
+495	144	A	Intron 2	Intron 1	c.50+95
+496	145	G	Intron 2	Intron 1	c.50+96
+497	146	G	Intron 2	Intron 1	c.50+97
+498	147	A	Intron 2	Intron 1	c.50+98
+499	148	G	Intron 2	Intron 1	c.50+99
+500	149	G	Intron 2	Intron 1	c.50+100
+501	150	T	Exon 3	CDS 2	c.51
+502	151	A	Exon 3	CDS 2	c.52
+503	152	A	Exon 3	CDS 2	c.53
+504	153	G	Exon 3	CDS 2	c.54
+505	154	A	Exon 3	CDS 2	c.55
+506	155	A	Exon 3	CDS 2	c.56
+507	156	A	Exon 3	CDS 2	c.57
+508	157	T	Exon 3	CDS 2	c.58
+509	158	C	Exon 3	CDS 2	c.59
+510	159	A	Exon 3	CDS 2	c.60
+511	160	T	Exon 3	CDS 2	c.61
+512	161	C	Exon 3	CDS 2	c.62
+513	162	A	Exon 3	CDS 2	c.63
+514	163	G	Exon 3	CDS 2	c.64
+515	164	A	Exon 3	CDS 2	c.65
+516	165	T	Exon 3	CDS 2	c.66
+517	166	T	Exon 3	CDS 2	c.67
+518	167	C	Exon 3	CDS 2	c.68
+519	168	T	Exon 3	CDS 2	c.69
+520	169	G	Exon 3	CDS 2	c.70
+521	170	G	Exon 3	CDS 2	c.71
+522	171	G	Exon 3	CDS 2	c.72
+523	172	T	Exon 3	CDS 2	c.73
+524	173	A	Exon 3	CDS 2	c.74
+525	174	T	Exon 3	CDS 2	c.75
+526	175	A	Exon 3	CDS 2	c.76
+527	176	T	Exon 3	CDS 2	c.77
+528	177	T	Exon 3	CDS 2	c.78
+529	178	T	Exon 3	CDS 2	c.79
+530	179	G	Exon 3	CDS 2	c.80
+531	180	G	Exon 3	CDS 2	c.81
+532	181	A	Exon 3	CDS 2	c.82
+533	182	A	Exon 3	CDS 2	c.83
+534	183	A	Exon 3	CDS 2	c.84
+535	184	T	Exon 3	CDS 2	c.85
+536	185	T	Exon 3	CDS 2	c.86
+537	186	A	Exon 3	CDS 2	c.87
+538	187	G	Exon 3	CDS 2	c.88
+539	188	A	Exon 3	CDS 2	c.89
+540	189	G	Exon 3	CDS 2	c.90
+541	190	C	Exon 3	CDS 2	c.91
+542	191	C	Exon 3	CDS 2	c.92
+543	192	T	Exon 3	CDS 2	c.93
+544	193	A	Exon 3	CDS 2	c.94
+545	194	A	Exon 3	CDS 2	c.95
+546	195	T	Exon 3	CDS 2	c.96
+547	196	G	Exon 3	CDS 2	c.97
+548	197	T	Exon 3	CDS 2	c.98
+549	198	G	Exon 3	CDS 2	c.99
+550	199	A	Exon 3	CDS 2	c.100
+551	200	G	Exon 3	CDS 2	c.101
+552	201	T	Exon 3	CDS 2	c.102
+553	202	G	Exon 3	CDS 2	c.103
+554	203	T	Exon 3	CDS 2	c.104
+555	204	G	Exon 3	CDS 2	c.105
+556	205	A	Exon 3	CDS 2	c.106
+557	206	G	Exon 3	CDS 2	c.107
+558	207	A	Exon 3	CDS 2	c.108
+559	208	A	Exon 3	CDS 2	c.109
+560	209	A	Exon 3	CDS 2	c.110
+561	210	T	Exon 3	CDS 2	c.111
+562	211	A	Exon 3	CDS 2	c.112
+563	212	G	Exon 3	CDS 2	c.113
+564	213	A	Exon 3	CDS 2	c.114
+565	214	G	Exon 3	CDS 2	c.115
+566	215	A	Exon 3	CDS 2	c.116
+567	216	A	Exon 3	CDS 2	c.117
+568	217	G	Exon 3	CDS 2	c.118
+569	218	A	Exon 3	CDS 2	c.119
+570	219	A	Exon 3	CDS 2	c.120
+571	220	T	Exon 3	CDS 2	c.121
+572	221	G	Exon 3	CDS 2	c.122
+573	222	A	Exon 3	CDS 2	c.123
+574	223	T	Exon 3	CDS 2	c.124
+575	224	T	Exon 3	CDS 2	c.125
+576	225	C	Exon 3	CDS 2	c.126
+577	226	T	Exon 3	CDS 2	c.127
+578	227	A	Exon 3	CDS 2	c.128
+579	228	A	Exon 3	CDS 2	c.129
+580	229	T	Exon 3	CDS 2	c.130
+581	230	A	Exon 3	CDS 2	c.131
+582	231	T	Exon 3	CDS 2	c.132
+583	232	T	Exon 3	CDS 2	c.133
+584	233	G	Exon 3	CDS 2	c.134
+585	234	T	Exon 3	CDS 2	c.135
+586	235	A	Exon 3	CDS 2	c.136
+587	236	T	Exon 3	CDS 2	c.137
+588	237	G	Exon 3	CDS 2	c.138
+589	238	T	Exon 3	CDS 2	c.139
+590	239	G	Exon 3	CDS 2	c.140
+591	240	G	Exon 3	CDS 2	c.141
+592	241	C	Exon 3	CDS 2	c.142
+593	242	T	Exon 3	CDS 2	c.143
+594	243	G	Exon 3	CDS 2	c.144
+595	244	T	Exon 3	CDS 2	c.145
+596	245	G	Exon 3	CDS 2	c.146
+597	246	C	Exon 3	CDS 2	c.147
+598	247	A	Exon 3	CDS 2	c.148
+599	248	T	Exon 3	CDS 2	c.149
+600	249	G	Exon 3	CDS 2	c.150
+601	250	T	Intron 3	Intron 2	c.150+1
+602	251	G	Intron 3	Intron 2	c.150+2
+603	252	C	Intron 3	Intron 2	c.150+3
+604	253	A	Intron 3	Intron 2	c.150+4
+605	254	C	Intron 3	Intron 2	c.150+5
+606	255	G	Intron 3	Intron 2	c.150+6
+607	256	C	Intron 3	Intron 2	c.150+7
+608	257	A	Intron 3	Intron 2	c.150+8
+609	258	T	Intron 3	Intron 2	c.150+9
+610	259	G	Intron 3	Intron 2	c.150+10
+611	260	T	Intron 3	Intron 2	c.150+11
+612	261	G	Intron 3	Intron 2	c.150+12
+613	262	T	Intron 3	Intron 2	c.150+13
+614	263	G	Intron 3	Intron 2	c.150+14
+615	264	C	Intron 3	Intron 2	c.150+15
+616	265	A	Intron 3	Intron 2	c.150+16
+617	266	A	Intron 3	Intron 2	c.150+17
+618	267	C	Intron 3	Intron 2	c.150+18
+619	268	T	Intron 3	Intron 2	c.150+19
+620	269	G	Intron 3	Intron 2	c.150+20
+621	270	G	Intron 3	Intron 2	c.150+21
+622	271	A	Intron 3	Intron 2	c.150+22
+623	272	A	Intron 3	Intron 2	c.150+23
+624	273	T	Intron 3	Intron 2	c.150+24
+625	274	G	Intron 3	Intron 2	c.150+25
+626	275	A	Intron 3	Intron 2	c.150+26
+627	276	C	Intron 3	Intron 2	c.150+27
+628	277	A	Intron 3	Intron 2	c.150+28
+629	278	G	Intron 3	Intron 2	c.150+29
+630	279	A	Intron 3	Intron 2	c.150+30
+631	280	A	Intron 3	Intron 2	c.150+31
+632	281	T	Intron 3	Intron 2	c.150+32
+633	282	T	Intron 3	Intron 2	c.150+33
+634	283	A	Intron 3	Intron 2	c.150+34
+635	284	C	Intron 3	Intron 2	c.150+35
+636	285	A	Intron 3	Intron 2	c.150+36
+637	286	A	Intron 3	Intron 2	c.150+37
+638	287	T	Intron 3	Intron 2	c.150+38
+639	288	G	Intron 3	Intron 2	c.150+39
+640	289	T	Intron 3	Intron 2	c.150+40
+641	290	A	Intron 3	Intron 2	c.150+41
+642	291	T	Intron 3	Intron 2	c.150+42
+643	292	G	Intron 3	Intron 2	c.150+43
+644	293	G	Intron 3	Intron 2	c.150+44
+645	294	G	Intron 3	Intron 2	c.150+45
+646	295	G	Intron 3	Intron 2	c.150+46
+647	296	A	Intron 3	Intron 2	c.150+47
+648	297	T	Intron 3	Intron 2	c.150+48
+649	298	T	Intron 3	Intron 2	c.150+49
+650	299	A	Intron 3	Intron 2	c.150+50
+651	300	T	Intron 3	Intron 2	c.150+51
+652	301	T	Intron 3	Intron 2	c.150+52
+653	302	G	Intron 3	Intron 2	c.150+53
+654	303	T	Intron 3	Intron 2	c.150+54
+655	304	C	Intron 3	Intron 2	c.150+55
+656	305	T	Intron 3	Intron 2	c.150+56
+657	306	T	Intron 3	Intron 2	c.150+57
+658	307	C	Intron 3	Intron 2	c.150+58
+659	308	C	Intron 3	Intron 2	c.150+59
+660	309	C	Intron 3	Intron 2	c.150+60
+661	310	T	Intron 3	Intron 2	c.150+61
+662	311	G	Intron 3	Intron 2	c.150+62
+663	312	G	Intron 3	Intron 2	c.150+63
+664	313	A	Intron 3	Intron 2	c.150+64
+665	314	C	Intron 3	Intron 2	c.150+65
+666	315	A	Intron 3	Intron 2	c.150+66
+667	316	A	Intron 3	Intron 2	c.150+67
+668	317	T	Intron 3	Intron 2	c.150+68
+669	318	A	Intron 3	Intron 2	c.150+69
+670	319	A	Intron 3	Intron 2	c.150+70
+671	320	T	Intron 3	Intron 2	c.150+71
+672	321	C	Intron 3	Intron 2	c.150+72
+673	322	C	Intron 3	Intron 2	c.150+73
+674	323	C	Intron 3	Intron 2	c.150+74
+675	324	T	Intron 3	Intron 2	c.150+75
+676	325	G	Intron 3	Intron 2	c.150+76
+677	326	G	Intron 3	Intron 2	c.150+77
+678	327	A	Intron 3	Intron 2	c.150+78
+679	328	A	Intron 3	Intron 2	c.150+79
+680	329	A	Intron 3	Intron 2	c.150+80
+681	330	T	Intron 3	Intron 2	c.150+81
+682	331	G	Intron 3	Intron 2	c.150+82
+683	332	G	Intron 3	Intron 2	c.150+83
+684	333	G	Intron 3	Intron 2	c.150+84
+685	334	G	Intron 3	Intron 2	c.150+85
+686	335	A	Intron 3	Intron 2	c.150+86
+687	336	T	Intron 3	Intron 2	c.150+87
+688	337	T	Intron 3	Intron 2	c.150+88
+689	338	A	Intron 3	Intron 2	c.150+89
+690	339	T	Intron 3	Intron 2	c.150+90
+691	340	T	Intron 3	Intron 2	c.150+91
+692	341	A	Intron 3	Intron 2	c.150+92
+693	342	C	Intron 3	Intron 2	c.150+93
+694	343	A	Intron 3	Intron 2	c.150+94
+695	344	A	Intron 3	Intron 2	c.150+95
+696	345	G	Intron 3	Intron 2	c.150+96
+697	346	A	Intron 3	Intron 2	c.150+97
+698	347	G	Intron 3	Intron 2	c.150+98
+699	348	G	Intron 3	Intron 2	c.150+99
+700	349	A	Intron 3	Intron 2	c.150+100
+701	350	G	Exon 4	CDS 3	c.151
+702	351	A	Exon 4	CDS 3	c.152
+703	352	G	Exon 4	CDS 3	c.153
+704	353	G	Exon 4	CDS 3	c.154
+705	354	T	Exon 4	CDS 3	c.155
+706	355	T	Exon 4	CDS 3	c.156
+707	356	G	Exon 4	CDS 3	c.157
+708	357	G	Exon 4	CDS 3	c.158
+709	358	G	Exon 4	CDS 3	c.159
+710	359	G	Exon 4	CDS 3	c.160
+711	360	A	Exon 4	CDS 3	c.161
+712	361	A	Exon 4	CDS 3	c.162
+713	362	G	Exon 4	CDS 3	c.163
+714	363	G	Exon 4	CDS 3	c.164
+715	364	A	Exon 4	CDS 3	c.165
+716	365	A	Exon 4	CDS 3	c.166
+717	366	A	Exon 4	CDS 3	c.167
+718	367	G	Exon 4	CDS 3	c.168
+719	368	A	Exon 4	CDS 3	c.169
+720	369	C	Exon 4	CDS 3	c.170
+721	370	A	Exon 4	CDS 3	c.171
+722	371	A	Exon 4	CDS 3	c.172
+723	372	A	Exon 4	CDS 3	c.173
+724	373	G	Exon 4	CDS 3	c.174
+725	374	A	Exon 4	CDS 3	c.175
+726	375	T	Exon 4	CDS 3	c.176
+727	376	A	Exon 4	CDS 3	c.177
+728	377	C	Exon 4	CDS 3	c.178
+729	378	C	Exon 4	CDS 3	c.179
+730	379	A	Exon 4	CDS 3	c.180
+731	380	T	Exon 4	CDS 3	c.181
+732	381	G	Exon 4	CDS 3	c.182
+733	382	T	Exon 4	CDS 3	c.183
+734	383	T	Exon 4	CDS 3	c.184
+735	384	A	Exon 4	CDS 3	c.185
+736	385	G	Exon 4	CDS 3	c.186
+737	386	A	Exon 4	CDS 3	c.187
+738	387	A	Exon 4	CDS 3	c.188
+739	388	A	Exon 4	CDS 3	c.189
+740	389	A	Exon 4	CDS 3	c.190
+741	390	T	Exon 4	CDS 3	c.191
+742	391	A	Exon 4	CDS 3	c.192
+743	392	T	Exon 4	CDS 3	c.193
+744	393	T	Exon 4	CDS 3	c.194
+745	394	A	Exon 4	CDS 3	c.195
+746	395	A	Exon 4	CDS 3	c.196
+747	396	G	Exon 4	CDS 3	c.197
+748	397	T	Exon 4	CDS 3	c.198
+749	398	G	Exon 4	CDS 3	c.199
+750	399	T	Exon 4	CDS 3	c.200
+751	400	A	Exon 4	CDS 3	c.201
+752	401	A	Exon 4	CDS 3	c.202
+753	402	G	Exon 4	CDS 3	c.203
+754	403	A	Exon 4	CDS 3	c.204
+755	404	T	Exon 4	CDS 3	c.205
+756	405	G	Exon 4	CDS 3	c.206
+757	406	C	Exon 4	CDS 3	c.207
+758	407	C	Exon 4	CDS 3	c.208
+759	408	T	Exon 4	CDS 3	c.209
+760	409	A	Exon 4	CDS 3	c.210
+761	410	T	Exon 4	CDS 3	c.211
+762	411	T	Exon 4	CDS 3	c.212
+763	412	A	Exon 4	CDS 3	c.213
+764	413	G	Exon 4	CDS 3	c.214
+765	414	A	Exon 4	CDS 3	c.215
+766	415	G	Exon 4	CDS 3	c.216
+767	416	A	Exon 4	CDS 3	c.217
+768	417	T	Exon 4	CDS 3	c.218
+769	418	A	Exon 4	CDS 3	c.219
+770	419	T	Exon 4	CDS 3	c.220
+771	420	A	Exon 4	CDS 3	c.221
+772	421	T	Exon 4	CDS 3	c.222
+773	422	A	Exon 4	CDS 3	c.223
+774	423	G	Exon 4	CDS 3	c.224
+775	424	G	Exon 4	CDS 3	c.225
+776	425	A	Exon 4	CDS 3	c.226
+777	426	A	Exon 4	CDS 3	c.227
+778	427	G	Exon 4	CDS 3	c.228
+779	428	A	Exon 4	CDS 3	c.229
+780	429	T	Exon 4	CDS 3	c.230
+781	430	G	Exon 4	CDS 3	c.231
+782	431	G	Exon 4	CDS 3	c.232
+783	432	T	Exon 4	CDS 3	c.233
+784	433	G	Exon 4	CDS 3	c.234
+785	434	A	Exon 4	CDS 3	c.235
+786	435	G	Exon 4	CDS 3	c.236
+787	436	A	Exon 4	CDS 3	c.237
+788	437	A	Exon 4	CDS 3	c.238
+789	438	G	Exon 4	CDS 3	c.239
+790	439	T	Exon 4	CDS 3	c.240
+791	440	C	Exon 4	CDS 3	c.241
+792	441	A	Exon 4	CDS 3	c.242
+793	442	A	Exon 4	CDS 3	c.243
+794	443	T	Exon 4	CDS 3	c.244
+795	444	G	Exon 4	CDS 3	c.245
+796	445	G	Exon 4	CDS 3	c.246
+797	446	A	Exon 4	CDS 3	c.247
+798	447	T	Exon 4	CDS 3	c.248
+799	448	A	Exon 4	CDS 3	c.249
+800	449	A	Exon 4	CDS 3	c.250
+801	450	A	Intron 4	Intron 3	c.250+1
+802	451	T	Intron 4	Intron 3	c.250+2
+803	452	C	Intron 4	Intron 3	c.250+3
+804	453	T	Intron 4	Intron 3	c.250+4
+805	454	A	Intron 4	Intron 3	c.250+5
+806	455	G	Intron 4	Intron 3	c.250+6
+807	456	A	Intron 4	Intron 3	c.250+7
+808	457	G	Intron 4	Intron 3	c.250+8
+809	458	T	Intron 4	Intron 3	c.250+9
+810	459	T	Intron 4	Intron 3	c.250+10
+811	460	C	Intron 4	Intron 3	c.250+11
+812	461	A	Intron 4	Intron 3	c.250+12
+813	462	T	Intron 4	Intron 3	c.250+13
+814	463	G	Intron 4	Intron 3	c.250+14
+815	464	A	Intron 4	Intron 3	c.250+15
+816	465	G	Intron 4	Intron 3	c.250+16
+817	466	T	Intron 4	Intron 3	c.250+17
+818	467	A	Intron 4	Intron 3	c.250+18
+819	468	A	Intron 4	Intron 3	c.250+19
+820	469	C	Intron 4	Intron 3	c.250+20
+821	470	T	Intron 4	Intron 3	c.250+21
+822	471	T	Intron 4	Intron 3	c.250+22
+823	472	G	Intron 4	Intron 3	c.250+23
+824	473	G	Intron 4	Intron 3	c.250+24
+825	474	C	Intron 4	Intron 3	c.250+25
+826	475	T	Intron 4	Intron 3	c.250+26
+827	476	A	Intron 4	Intron 3	c.250+27
+828	477	G	Intron 4	Intron 3	c.250+28
+829	478	A	Intron 4	Intron 3	c.250+29
+830	479	G	Intron 4	Intron 3	c.250+30
+831	480	A	Intron 4	Intron 3	c.250+31
+832	481	A	Intron 4	Intron 3	c.250+32
+833	482	A	Intron 4	Intron 3	c.250+33
+834	483	A	Intron 4	Intron 3	c.250+34
+835	484	A	Intron 4	Intron 3	c.250+35
+836	485	A	Intron 4	Intron 3	c.250+36
+837	486	T	Intron 4	Intron 3	c.250+37
+838	487	T	Intron 4	Intron 3	c.250+38
+839	488	T	Intron 4	Intron 3	c.250+39
+840	489	T	Intron 4	Intron 3	c.250+40
+841	490	G	Intron 4	Intron 3	c.250+41
+842	491	G	Intron 4	Intron 3	c.250+42
+843	492	A	Intron 4	Intron 3	c.250+43
+844	493	A	Intron 4	Intron 3	c.250+44
+845	494	T	Intron 4	Intron 3	c.250+45
+846	495	T	Intron 4	Intron 3	c.250+46
+847	496	A	Intron 4	Intron 3	c.250+47
+848	497	T	Intron 4	Intron 3	c.250+48
+849	498	C	Intron 4	Intron 3	c.250+49
+850	499	A	Intron 4	Intron 3	c.250+50
+851	500	A	Intron 4	Intron 3	c.250+51
+852	501	C	Intron 4	Intron 3	c.250+52
+853	502	G	Intron 4	Intron 3	c.250+53
+854	503	T	Intron 4	Intron 3	c.250+54
+855	504	A	Intron 4	Intron 3	c.250+55
+856	505	T	Intron 4	Intron 3	c.250+56
+857	506	G	Intron 4	Intron 3	c.250+57
+858	507	G	Intron 4	Intron 3	c.250+58
+859	508	A	Intron 4	Intron 3	c.250+59
+860	509	T	Intron 4	Intron 3	c.250+60
+861	510	A	Intron 4	Intron 3	c.250+61
+862	511	A	Intron 4	Intron 3	c.250+62
+863	512	G	Intron 4	Intron 3	c.250+63
+864	513	A	Intron 4	Intron 3	c.250+64
+865	514	T	Intron 4	Intron 3	c.250+65
+866	515	T	Intron 4	Intron 3	c.250+66
+867	516	T	Intron 4	Intron 3	c.250+67
+868	517	A	Intron 4	Intron 3	c.250+68
+869	518	A	Intron 4	Intron 3	c.250+69
+870	519	A	Intron 4	Intron 3	c.250+70
+871	520	G	Intron 4	Intron 3	c.250+71
+872	521	A	Intron 4	Intron 3	c.250+72
+873	522	C	Intron 4	Intron 3	c.250+73
+874	523	A	Intron 4	Intron 3	c.250+74
+875	524	T	Intron 4	Intron 3	c.250+75
+876	525	G	Intron 4	Intron 3	c.250+76
+877	526	A	Intron 4	Intron 3	c.250+77
+878	527	G	Intron 4	Intron 3	c.250+78
+879	528	A	Intron 4	Intron 3	c.250+79
+880	529	A	Intron 4	Intron 3	c.250+80
+881	530	T	Intron 4	Intron 3	c.250+81
+882	531	A	Intron 4	Intron 3	c.250+82
+883	532	G	Intron 4	Intron 3	c.250+83
+884	533	A	Intron 4	Intron 3	c.250+84
+885	534	T	Intron 4	Intron 3	c.250+85
+886	535	G	Intron 4	Intron 3	c.250+86
+887	536	A	Intron 4	Intron 3	c.250+87
+888	537	G	Intron 4	Intron 3	c.250+88
+889	538	G	Intron 4	Intron 3	c.250+89
+890	539	T	Intron 4	Intron 3	c.250+90
+891	540	C	Intron 4	Intron 3	c.250+91
+892	541	A	Intron 4	Intron 3	c.250+92
+893	542	C	Intron 4	Intron 3	c.250+93
+894	543	A	Intron 4	Intron 3	c.250+94
+895	544	A	Intron 4	Intron 3	c.250+95
+896	545	A	Intron 4	Intron 3	c.250+96
+897	546	C	Intron 4	Intron 3	c.250+97
+898	547	A	Intron 4	Intron 3	c.250+98
+899	548	C	Intron 4	Intron 3	c.250+99
+900	549	A	Intron 4	Intron 3	c.250+100
+901	550	C	Exon 5	CDS 4	c.251
+902	551	A	Exon 5	CDS 4	c.252
+903	552	C	Exon 5	CDS 4	c.253
+904	553	A	Exon 5	CDS 4	c.254
+905	554	G	Exon 5	CDS 4	c.255
+906	555	T	Exon 5	CDS 4	c.256
+907	556	A	Exon 5	CDS 4	c.257
+908	557	A	Exon 5	CDS 4	c.258
+909	558	G	Exon 5	CDS 4	c.259
+910	559	G	Exon 5	CDS 4	c.260
+911	560	T	Exon 5	CDS 4	c.261
+912	561	T	Exon 5	CDS 4	c.262
+913	562	A	Exon 5	CDS 4	c.263
+914	563	T	Exon 5	CDS 4	c.264
+915	564	T	Exon 5	CDS 4	c.265
+916	565	G	Exon 5	CDS 4	c.266
+917	566	T	Exon 5	CDS 4	c.267
+918	567	C	Exon 5	CDS 4	c.268
+919	568	T	Exon 5	CDS 4	c.269
+920	569	G	Exon 5	CDS 4	c.270
+921	570	A	Exon 5	CDS 4	c.271
+922	571	C	Exon 5	CDS 4	c.272
+923	572	A	Exon 5	CDS 4	c.273
+924	573	T	Exon 5	CDS 4	c.274
+925	574	G	Exon 5	CDS 4	c.275
+926	575	C	Exon 5	CDS 4	c.276
+927	576	T	Exon 5	CDS 4	c.277
+928	577	T	Exon 5	CDS 4	c.278
+929	578	C	Exon 5	CDS 4	c.279
+930	579	A	Exon 5	CDS 4	c.280
+931	580	A	Exon 5	CDS 4	c.281
+932	581	T	Exon 5	CDS 4	c.282
+933	582	T	Exon 5	CDS 4	c.283
+934	583	T	Exon 5	CDS 4	c.284
+935	584	A	Exon 5	CDS 4	c.285
+936	585	G	Exon 5	CDS 4	c.286
+937	586	A	Exon 5	CDS 4	c.287
+938	587	A	Exon 5	CDS 4	c.288
+939	588	G	Exon 5	CDS 4	c.289
+940	589	A	Exon 5	CDS 4	c.290
+941	590	C	Exon 5	CDS 4	c.291
+942	591	A	Exon 5	CDS 4	c.292
+943	592	A	Exon 5	CDS 4	c.293
+944	593	A	Exon 5	CDS 4	c.294
+945	594	G	Exon 5	CDS 4	c.295
+946	595	A	Exon 5	CDS 4	c.296
+947	596	T	Exon 5	CDS 4	c.297
+948	597	A	Exon 5	CDS 4	c.298
+949	598	A	Exon 5	CDS 4	c.299
+950	599	A	Exon 5	CDS 4	c.300
+951	600	G	Exon 5	CDS 4	c.301
+952	601	A	Exon 5	CDS 4	c.302
+953	602	A	Exon 5	CDS 4	c.303
+954	603	T	Exon 5	CDS 4	c.304
+955	604	T	Exon 5	CDS 4	c.305
+956	605	T	Exon 5	CDS 4	c.306
+957	606	A	Exon 5	CDS 4	c.307
+958	607	G	Exon 5	CDS 4	c.308
+959	608	A	Exon 5	CDS 4	c.309
+960	609	G	Exon 5	CDS 4	c.310
+961	610	T	Exon 5	CDS 4	c.311
+962	611	A	Exon 5	CDS 4	c.312
+963	612	A	Exon 5	CDS 4	c.313
+964	613	A	Exon 5	CDS 4	c.314
+965	614	T	Exon 5	CDS 4	c.315
+966	615	G	Exon 5	CDS 4	c.316
+967	616	A	Exon 5	CDS 4	c.317
+968	617	A	Exon 5	CDS 4	c.318
+969	618	G	Exon 5	CDS 4	c.319
+970	619	T	Exon 5	CDS 4	c.320
+971	620	G	Exon 5	CDS 4	c.321
+972	621	T	Exon 5	CDS 4	c.322
+973	622	A	Exon 5	CDS 4	c.323
+974	623	A	Exon 5	CDS 4	c.324
+975	624	A	Exon 5	CDS 4	c.325
+976	625	T	Exon 5	CDS 4	c.326
+977	626	A	Exon 5	CDS 4	c.327
+978	627	A	Exon 5	CDS 4	c.328
+979	628	G	Exon 5	CDS 4	c.329
+980	629	T	Exon 5	CDS 4	c.330
+981	630	A	Exon 5	CDS 4	c.331
+982	631	A	Exon 5	CDS 4	c.332
+983	632	G	Exon 5	CDS 4	c.333
+984	633	T	Exon 5	CDS 4	c.334
+985	634	C	Exon 5	CDS 4	c.335
+986	635	A	Exon 5	CDS 4	c.336
+987	636	G	Exon 5	CDS 4	c.337
+988	637	T	Exon 5	CDS 4	c.338
+989	638	G	Exon 5	CDS 4	c.339
+990	639	A	Exon 5	CDS 4	c.340
+991	640	G	Exon 5	CDS 4	c.341
+992	641	T	Exon 5	CDS 4	c.342
+993	642	T	Exon 5	CDS 4	c.343
+994	643	A	Exon 5	CDS 4	c.344
+995	644	G	Exon 5	CDS 4	c.345
+996	645	A	Exon 5	CDS 4	c.346
+997	646	A	Exon 5	CDS 4	c.347
+998	647	G	Exon 5	CDS 4	c.348
+999	648	G	Exon 5	CDS 4	c.349
+1000	649	C	Exon 5	CDS 4	c.350
+1001	650	A	Intron 5	Intron 4	c.350+1
+1002	651	A	Intron 5	Intron 4	c.350+2
+1003	652	A	Intron 5	Intron 4	c.350+3
+1004	653	C	Intron 5	Intron 4	c.350+4
+1005	654	C	Intron 5	Intron 4	c.350+5
+1006	655	A	Intron 5	Intron 4	c.350+6
+1007	656	C	Intron 5	Intron 4	c.350+7
+1008	657	A	Intron 5	Intron 4	c.350+8
+1009	658	A	Intron 5	Intron 4	c.350+9
+1010	659	A	Intron 5	Intron 4	c.350+10
+1011	660	G	Intron 5	Intron 4	c.350+11
+1012	661	G	Intron 5	Intron 4	c.350+12
+1013	662	G	Intron 5	Intron 4	c.350+13
+1014	663	T	Intron 5	Intron 4	c.350+14
+1015	664	A	Intron 5	Intron 4	c.350+15
+1016	665	G	Intron 5	Intron 4	c.350+16
+1017	666	T	Intron 5	Intron 4	c.350+17
+1018	667	G	Intron 5	Intron 4	c.350+18
+1019	668	T	Intron 5	Intron 4	c.350+19
+1020	669	C	Intron 5	Intron 4	c.350+20
+1021	670	C	Intron 5	Intron 4	c.350+21
+1022	671	T	Intron 5	Intron 4	c.350+22
+1023	672	G	Intron 5	Intron 4	c.350+23
+1024	673	C	Intron 5	Intron 4	c.350+24
+1025	674	A	Intron 5	Intron 4	c.350+25
+1026	675	A	Intron 5	Intron 4	c.350+26
+1027	676	A	Intron 5	Intron 4	c.350+27
+1028	677	G	Intron 5	Intron 4	c.350+28
+1029	678	T	Intron 5	Intron 4	c.350+29
+1030	679	T	Intron 5	Intron 4	c.350+30
+1031	680	T	Intron 5	Intron 4	c.350+31
+1032	681	T	Intron 5	Intron 4	c.350+32
+1033	682	G	Intron 5	Intron 4	c.350+33
+1034	683	C	Intron 5	Intron 4	c.350+34
+1035	684	T	Intron 5	Intron 4	c.350+35
+1036	685	T	Intron 5	Intron 4	c.350+36
+1037	686	A	Intron 5	Intron 4	c.350+37
+1038	687	G	Intron 5	Intron 4	c.350+38
+1039	688	G	Intron 5	Intron 4	c.350+39
+1040	689	G	Intron 5	Intron 4	c.350+40
+1041	690	A	Intron 5	Intron 4	c.350+41
+1042	691	G	Intron 5	Intron 4	c.350+42
+1043	692	G	Intron 5	Intron 4	c.350+43
+1044	693	G	Intron 5	Intron 4	c.350+44
+1045	694	A	Intron 5	Intron 4	c.350+45
+1046	695	A	Intron 5	Intron 4	c.350+46
+1047	696	T	Intron 5	Intron 4	c.350+47
+1048	697	T	Intron 5	Intron 4	c.350+48
+1049	698	C	Intron 5	Intron 4	c.350+49
+1050	699	T	Intron 5	Intron 4	c.350+50
+1051	700	C	Intron 5	Intron 4	c.350+51
+1052	701	A	Intron 5	Intron 4	c.350+52
+1053	702	G	Intron 5	Intron 4	c.350+53
+1054	703	T	Intron 5	Intron 4	c.350+54
+1055	704	T	Intron 5	Intron 4	c.350+55
+1056	705	C	Intron 5	Intron 4	c.350+56
+1057	706	T	Intron 5	Intron 4	c.350+57
+1058	707	G	Intron 5	Intron 4	c.350+58
+1059	708	A	Intron 5	Intron 4	c.350+59
+1060	709	A	Intron 5	Intron 4	c.350+60
+1061	710	A	Intron 5	Intron 4	c.350+61
+1062	711	A	Intron 5	Intron 4	c.350+62
+1063	712	A	Intron 5	Intron 4	c.350+63
+1064	713	T	Intron 5	Intron 4	c.350+64
+1065	714	G	Intron 5	Intron 4	c.350+65
+1066	715	C	Intron 5	Intron 4	c.350+66
+1067	716	T	Intron 5	Intron 4	c.350+67
+1068	717	G	Intron 5	Intron 4	c.350+68
+1069	718	C	Intron 5	Intron 4	c.350+69
+1070	719	T	Intron 5	Intron 4	c.350+70
+1071	720	A	Intron 5	Intron 4	c.350+71
+1072	721	A	Intron 5	Intron 4	c.350+72
+1073	722	T	Intron 5	Intron 4	c.350+73
+1074	723	A	Intron 5	Intron 4	c.350+74
+1075	724	G	Intron 5	Intron 4	c.350+75
+1076	725	T	Intron 5	Intron 4	c.350+76
+1077	726	T	Intron 5	Intron 4	c.350+77
+1078	727	C	Intron 5	Intron 4	c.350+78
+1079	728	A	Intron 5	Intron 4	c.350+79
+1080	729	A	Intron 5	Intron 4	c.350+80
+1081	730	G	Intron 5	Intron 4	c.350+81
+1082	731	T	Intron 5	Intron 4	c.350+82
+1083	732	C	Intron 5	Intron 4	c.350+83
+1084	733	A	Intron 5	Intron 4	c.350+84
+1085	734	G	Intron 5	Intron 4	c.350+85
+1086	735	A	Intron 5	Intron 4	c.350+86
+1087	736	T	Intron 5	Intron 4	c.350+87
+1088	737	G	Intron 5	Intron 4	c.350+88
+1089	738	A	Intron 5	Intron 4	c.350+89
+1090	739	G	Intron 5	Intron 4	c.350+90
+1091	740	G	Intron 5	Intron 4	c.350+91
+1092	741	A	Intron 5	Intron 4	c.350+92
+1093	742	C	Intron 5	Intron 4	c.350+93
+1094	743	T	Intron 5	Intron 4	c.350+94
+1095	744	A	Intron 5	Intron 4	c.350+95
+1096	745	T	Intron 5	Intron 4	c.350+96
+1097	746	T	Intron 5	Intron 4	c.350+97
+1098	747	A	Intron 5	Intron 4	c.350+98
+1099	748	G	Intron 5	Intron 4	c.350+99
+1100	749	A	Intron 5	Intron 4	c.350+100
+1101	750	T	Exon 6	CDS 5	c.351
+1102	751	G	Exon 6	CDS 5	c.352
+1103	752	T	Exon 6	CDS 5	c.353
+1104	753	A	Exon 6	CDS 5	c.354
+1105	754	G	Exon 6	CDS 5	c.355
+1106	755	C	Exon 6	CDS 5	c.356
+1107	756	A	Exon 6	CDS 5	c.357
+1108	757	T	Exon 6	CDS 5	c.358
+1109	758	T	Exon 6	CDS 5	c.359
+1110	759	T	Exon 6	CDS 5	c.360
+1111	760	A	Exon 6	CDS 5	c.361
+1112	761	G	Exon 6	CDS 5	c.362
+1113	762	G	Exon 6	CDS 5	c.363
+1114	763	T	Exon 6	CDS 5	c.364
+1115	764	A	Exon 6	CDS 5	c.365
+1116	765	A	Exon 6	CDS 5	c.366
+1117	766	T	Exon 6	CDS 5	c.367
+1118	767	T	Exon 6	CDS 5	c.368
+1119	768	T	Exon 6	CDS 5	c.369
+1120	769	A	Exon 6	CDS 5	c.370
+1121	770	T	Exon 6	CDS 5	c.371
+1122	771	G	Exon 6	CDS 5	c.372
+1123	772	A	Exon 6	CDS 5	c.373
+1124	773	C	Exon 6	CDS 5	c.374
+1125	774	T	Exon 6	CDS 5	c.375
+1126	775	T	Exon 6	CDS 5	c.376
+1127	776	A	Exon 6	CDS 5	c.377
+1128	777	G	Exon 6	CDS 5	c.378
+1129	778	G	Exon 6	CDS 5	c.379
+1130	779	A	Exon 6	CDS 5	c.380
+1131	780	A	Exon 6	CDS 5	c.381
+1132	781	A	Exon 6	CDS 5	c.382
+1133	782	A	Exon 6	CDS 5	c.383
+1134	783	G	Exon 6	CDS 5	c.384
+1135	784	T	Exon 6	CDS 5	c.385
+1136	785	A	Exon 6	CDS 5	c.386
+1137	786	G	Exon 6	CDS 5	c.387
+1138	787	T	Exon 6	CDS 5	c.388
+1139	788	T	Exon 6	CDS 5	c.389
+1140	789	T	Exon 6	CDS 5	c.390
+1141	790	C	Exon 6	CDS 5	c.391
+1142	791	A	Exon 6	CDS 5	c.392
+1143	792	G	Exon 6	CDS 5	c.393
+1144	793	T	Exon 6	CDS 5	c.394
+1145	794	G	Exon 6	CDS 5	c.395
+1146	795	G	Exon 6	CDS 5	c.396
+1147	796	A	Exon 6	CDS 5	c.397
+1148	797	A	Exon 6	CDS 5	c.398
+1149	798	A	Exon 6	CDS 5	c.399
+1150	799	T	Exon 6	CDS 5	c.400
+1151	800	T	Exon 6	CDS 5	c.401
+1152	801	T	Exon 6	CDS 5	c.402
+1153	802	G	Exon 6	CDS 5	c.403
+1154	803	G	Exon 6	CDS 5	c.404
+1155	804	G	Exon 6	CDS 5	c.405
+1156	805	G	Exon 6	CDS 5	c.406
+1157	806	G	Exon 6	CDS 5	c.407
+1158	807	C	Exon 6	CDS 5	c.408
+1159	808	A	Exon 6	CDS 5	c.409
+1160	809	A	Exon 6	CDS 5	c.410
+1161	810	A	Exon 6	CDS 5	c.411
+1162	811	A	Exon 6	CDS 5	c.412
+1163	812	G	Exon 6	CDS 5	c.413
+1164	813	C	Exon 6	CDS 5	c.414
+1165	814	C	Exon 6	CDS 5	c.415
+1166	815	T	Exon 6	CDS 5	c.416
+1167	816	G	Exon 6	CDS 5	c.417
+1168	817	A	Exon 6	CDS 5	c.418
+1169	818	T	Exon 6	CDS 5	c.419
+1170	819	A	Exon 6	CDS 5	c.420
+1171	820	A	Exon 6	CDS 5	c.421
+1172	821	G	Exon 6	CDS 5	c.422
+1173	822	A	Exon 6	CDS 5	c.423
+1174	823	G	Exon 6	CDS 5	c.424
+1175	824	T	Exon 6	CDS 5	c.425
+1176	825	G	Exon 6	CDS 5	c.426
+1177	826	T	Exon 6	CDS 5	c.427
+1178	827	G	Exon 6	CDS 5	c.428
+1179	828	C	Exon 6	CDS 5	c.429
+1180	829	T	Exon 6	CDS 5	c.430
+1181	830	C	Exon 6	CDS 5	c.431
+1182	831	A	Exon 6	CDS 5	c.432
+1183	832	A	Exon 6	CDS 5	c.433
+1184	833	G	Exon 6	CDS 5	c.434
+1185	834	A	Exon 6	CDS 5	c.435
+1186	835	G	Exon 6	CDS 5	c.436
+1187	836	A	Exon 6	CDS 5	c.437
+1188	837	G	Exon 6	CDS 5	c.438
+1189	838	A	Exon 6	CDS 5	c.439
+1190	839	A	Exon 6	CDS 5	c.440
+1191	840	T	Exon 6	CDS 5	c.441
+1192	841	G	Exon 6	CDS 5	c.442
+1193	842	T	Exon 6	CDS 5	c.443
+1194	843	A	Exon 6	CDS 5	c.444
+1195	844	G	Exon 6	CDS 5	c.445
+1196	845	A	Exon 6	CDS 5	c.446
+1197	846	G	Exon 6	CDS 5	c.447
+1198	847	A	Exon 6	CDS 5	c.448
+1199	848	G	Exon 6	CDS 5	c.449
+1200	849	A	Exon 6	CDS 5	c.450
+1201	850	G	Intron 6	Intron 5	c.450+1
+1202	851	A	Intron 6	Intron 5	c.450+2
+1203	852	G	Intron 6	Intron 5	c.450+3
+1204	853	A	Intron 6	Intron 5	c.450+4
+1205	854	T	Intron 6	Intron 5	c.450+5
+1206	855	T	Intron 6	Intron 5	c.450+6
+1207	856	G	Intron 6	Intron 5	c.450+7
+1208	857	A	Intron 6	Intron 5	c.450+8
+1209	858	A	Intron 6	Intron 5	c.450+9
+1210	859	A	Intron 6	Intron 5	c.450+10
+1211	860	G	Intron 6	Intron 5	c.450+11
+1212	861	C	Intron 6	Intron 5	c.450+12
+1213	862	A	Intron 6	Intron 5	c.450+13
+1214	863	A	Intron 6	Intron 5	c.450+14
+1215	864	T	Intron 6	Intron 5	c.450+15
+1216	865	A	Intron 6	Intron 5	c.450+16
+1217	866	A	Intron 6	Intron 5	c.450+17
+1218	867	T	Intron 6	Intron 5	c.450+18
+1219	868	T	Intron 6	Intron 5	c.450+19
+1220	869	A	Intron 6	Intron 5	c.450+20
+1221	870	G	Intron 6	Intron 5	c.450+21
+1222	871	A	Intron 6	Intron 5	c.450+22
+1223	872	C	Intron 6	Intron 5	c.450+23
+1224	873	A	Intron 6	Intron 5	c.450+24
+1225	874	A	Intron 6	Intron 5	c.450+25
+1226	875	G	Intron 6	Intron 5	c.450+26
+1227	876	C	Intron 6	Intron 5	c.450+27
+1228	877	T	Intron 6	Intron 5	c.450+28
+1229	878	A	Intron 6	Intron 5	c.450+29
+1230	879	T	Intron 6	Intron 5	c.450+30
+1231	880	T	Intron 6	Intron 5	c.450+31
+1232	881	T	Intron 6	Intron 5	c.450+32
+1233	882	C	Intron 6	Intron 5	c.450+33
+1234	883	T	Intron 6	Intron 5	c.450+34
+1235	884	C	Intron 6	Intron 5	c.450+35
+1236	885	T	Intron 6	Intron 5	c.450+36
+1237	886	G	Intron 6	Intron 5	c.450+37
+1238	887	T	Intron 6	Intron 5	c.450+38
+1239	888	A	Intron 6	Intron 5	c.450+39
+1240	889	A	Intron 6	Intron 5	c.450+40
+1241	890	A	Intron 6	Intron 5	c.450+41
+1242	891	A	Intron 6	Intron 5	c.450+42
+1243	892	A	Intron 6	Intron 5	c.450+43
+1244	893	T	Intron 6	Intron 5	c.450+44
+1245	894	A	Intron 6	Intron 5	c.450+45
+1246	895	G	Intron 6	Intron 5	c.450+46
+1247	896	C	Intron 6	Intron 5	c.450+47
+1248	897	A	Intron 6	Intron 5	c.450+48
+1249	898	C	Intron 6	Intron 5	c.450+49
+1250	899	A	Intron 6	Intron 5	c.450+50
+1251	900	G	Intron 6	Intron 5	c.450+51
+1252	901	A	Intron 6	Intron 5	c.450+52
+1253	902	A	Intron 6	Intron 5	c.450+53
+1254	903	A	Intron 6	Intron 5	c.450+54
+1255	904	T	Intron 6	Intron 5	c.450+55
+1256	905	A	Intron 6	Intron 5	c.450+56
+1257	906	G	Intron 6	Intron 5	c.450+57
+1258	907	G	Intron 6	Intron 5	c.450+58
+1259	908	G	Intron 6	Intron 5	c.450+59
+1260	909	C	Intron 6	Intron 5	c.450+60
+1261	910	A	Intron 6	Intron 5	c.450+61
+1262	911	A	Intron 6	Intron 5	c.450+62
+1263	912	T	Intron 6	Intron 5	c.450+63
+1264	913	A	Intron 6	Intron 5	c.450+64
+1265	914	T	Intron 6	Intron 5	c.450+65
+1266	915	T	Intron 6	Intron 5	c.450+66
+1267	916	A	Intron 6	Intron 5	c.450+67
+1268	917	G	Intron 6	Intron 5	c.450+68
+1269	918	G	Intron 6	Intron 5	c.450+69
+1270	919	A	Intron 6	Intron 5	c.450+70
+1271	920	A	Intron 6	Intron 5	c.450+71
+1272	921	A	Intron 6	Intron 5	c.450+72
+1273	922	A	Intron 6	Intron 5	c.450+73
+1274	923	A	Intron 6	Intron 5	c.450+74
+1275	924	A	Intron 6	Intron 5	c.450+75
+1276	925	T	Intron 6	Intron 5	c.450+76
+1277	926	G	Intron 6	Intron 5	c.450+77
+1278	927	G	Intron 6	Intron 5	c.450+78
+1279	928	G	Intron 6	Intron 5	c.450+79
+1280	929	A	Intron 6	Intron 5	c.450+80
+1281	930	T	Intron 6	Intron 5	c.450+81
+1282	931	C	Intron 6	Intron 5	c.450+82
+1283	932	A	Intron 6	Intron 5	c.450+83
+1284	933	A	Intron 6	Intron 5	c.450+84
+1285	934	A	Intron 6	Intron 5	c.450+85
+1286	935	A	Intron 6	Intron 5	c.450+86
+1287	936	G	Intron 6	Intron 5	c.450+87
+1288	937	A	Intron 6	Intron 5	c.450+88
+1289	938	G	Intron 6	Intron 5	c.450+89
+1290	939	A	Intron 6	Intron 5	c.450+90
+1291	940	G	Intron 6	Intron 5	c.450+91
+1292	941	A	Intron 6	Intron 5	c.450+92
+1293	942	T	Intron 6	Intron 5	c.450+93
+1294	943	T	Intron 6	Intron 5	c.450+94
+1295	944	T	Intron 6	Intron 5	c.450+95
+1296	945	T	Intron 6	Intron 5	c.450+96
+1297	946	T	Intron 6	Intron 5	c.450+97
+1298	947	G	Intron 6	Intron 5	c.450+98
+1299	948	G	Intron 6	Intron 5	c.450+99
+1300	949	A	Intron 6	Intron 5	c.450+100
+1301	950	A	Exon 7	CDS 6	c.451
+1302	951	G	Exon 7	CDS 6	c.452
+1303	952	A	Exon 7	CDS 6	c.453
+1304	953	T	Exon 7	CDS 6	c.454
+1305	954	G	Exon 7	CDS 6	c.455
+1306	955	A	Exon 7	CDS 6	c.456
+1307	956	A	Exon 7	CDS 6	c.457
+1308	957	A	Exon 7	CDS 6	c.458
+1309	958	A	Exon 7	CDS 6	c.459
+1310	959	A	Exon 7	CDS 6	c.460
+1311	960	G	Exon 7	CDS 6	c.461
+1312	961	T	Exon 7	CDS 6	c.462
+1313	962	G	Exon 7	CDS 6	c.463
+1314	963	A	Exon 7	CDS 6	c.464
+1315	964	C	Exon 7	CDS 6	c.465
+1316	965	A	Exon 7	CDS 6	c.466
+1317	966	G	Exon 7	CDS 6	c.467
+1318	967	C	Exon 7	CDS 6	c.468
+1319	968	A	Exon 7	CDS 6	c.469
+1320	969	T	Exon 7	CDS 6	c.470
+1321	970	T	Exon 7	CDS 6	c.471
+1322	971	C	Exon 7	CDS 6	c.472
+1323	972	T	Exon 7	CDS 6	c.473
+1324	973	T	Exon 7	CDS 6	c.474
+1325	974	A	Exon 7	CDS 6	c.475
+1326	975	C	Exon 7	CDS 6	c.476
+1327	976	A	Exon 7	CDS 6	c.477
+1328	977	T	Exon 7	CDS 6	c.478
+1329	978	G	Exon 7	CDS 6	c.479
+1330	979	C	Exon 7	CDS 6	c.480
+1331	980	T	Exon 7	CDS 6	c.481
+1332	981	G	Exon 7	CDS 6	c.482
+1333	982	A	Exon 7	CDS 6	c.483
+1334	983	T	Exon 7	CDS 6	c.484
+1335	984	G	Exon 7	CDS 6	c.485
+1336	985	G	Exon 7	CDS 6	c.486
+1337	986	A	Exon 7	CDS 6	c.487
+1338	987	A	Exon 7	CDS 6	c.488
+1339	988	A	Exon 7	CDS 6	c.489
+1340	989	C	Exon 7	CDS 6	c.490
+1341	990	A	Exon 7	CDS 6	c.491
+1342	991	T	Exon 7	CDS 6	c.492
+1343	992	T	Exon 7	CDS 6	c.493
+1344	993	T	Exon 7	CDS 6	c.494
+1345	994	A	Exon 7	CDS 6	c.495
+1346	995	A	Exon 7	CDS 6	c.496
+1347	996	A	Exon 7	CDS 6	c.497
+1348	997	A	Exon 7	CDS 6	c.498
+1349	998	A	Exon 7	CDS 6	c.499
+1350	999	G	Exon 7	CDS 6	c.500
+1351	1000	A	Exon 7	3' UTR Exon 1	c.*1
+1352	1001	G	Exon 7	3' UTR Exon 1	c.*2
+1353	1002	G	Exon 7	3' UTR Exon 1	c.*3
+1354	1003	A	Exon 7	3' UTR Exon 1	c.*4
+1355	1004	T	Exon 7	3' UTR Exon 1	c.*5
+1356	1005	A	Exon 7	3' UTR Exon 1	c.*6
+1357	1006	G	Exon 7	3' UTR Exon 1	c.*7
+1358	1007	T	Exon 7	3' UTR Exon 1	c.*8
+1359	1008	G	Exon 7	3' UTR Exon 1	c.*9
+1360	1009	C	Exon 7	3' UTR Exon 1	c.*10
+1361	1010	T	Exon 7	3' UTR Exon 1	c.*11
+1362	1011	A	Exon 7	3' UTR Exon 1	c.*12
+1363	1012	T	Exon 7	3' UTR Exon 1	c.*13
+1364	1013	C	Exon 7	3' UTR Exon 1	c.*14
+1365	1014	C	Exon 7	3' UTR Exon 1	c.*15
+1366	1015	T	Exon 7	3' UTR Exon 1	c.*16
+1367	1016	T	Exon 7	3' UTR Exon 1	c.*17
+1368	1017	A	Exon 7	3' UTR Exon 1	c.*18
+1369	1018	A	Exon 7	3' UTR Exon 1	c.*19
+1370	1019	A	Exon 7	3' UTR Exon 1	c.*20
+1371	1020	A	Exon 7	3' UTR Exon 1	c.*21
+1372	1021	A	Exon 7	3' UTR Exon 1	c.*22
+1373	1022	C	Exon 7	3' UTR Exon 1	c.*23
+1374	1023	A	Exon 7	3' UTR Exon 1	c.*24
+1375	1024	C	Exon 7	3' UTR Exon 1	c.*25
+1376	1025	A	Exon 7	3' UTR Exon 1	c.*26
+1377	1026	A	Exon 7	3' UTR Exon 1	c.*27
+1378	1027	G	Exon 7	3' UTR Exon 1	c.*28
+1379	1028	G	Exon 7	3' UTR Exon 1	c.*29
+1380	1029	G	Exon 7	3' UTR Exon 1	c.*30
+1381	1030	G	Exon 7	3' UTR Exon 1	c.*31
+1382	1031	A	Exon 7	3' UTR Exon 1	c.*32
+1383	1032	G	Exon 7	3' UTR Exon 1	c.*33
+1384	1033	G	Exon 7	3' UTR Exon 1	c.*34
+1385	1034	A	Exon 7	3' UTR Exon 1	c.*35
+1386	1035	G	Exon 7	3' UTR Exon 1	c.*36
+1387	1036	T	Exon 7	3' UTR Exon 1	c.*37
+1388	1037	C	Exon 7	3' UTR Exon 1	c.*38
+1389	1038	A	Exon 7	3' UTR Exon 1	c.*39
+1390	1039	A	Exon 7	3' UTR Exon 1	c.*40
+1391	1040	T	Exon 7	3' UTR Exon 1	c.*41
+1392	1041	G	Exon 7	3' UTR Exon 1	c.*42
+1393	1042	T	Exon 7	3' UTR Exon 1	c.*43
+1394	1043	C	Exon 7	3' UTR Exon 1	c.*44
+1395	1044	A	Exon 7	3' UTR Exon 1	c.*45
+1396	1045	T	Exon 7	3' UTR Exon 1	c.*46
+1397	1046	A	Exon 7	3' UTR Exon 1	c.*47
+1398	1047	T	Exon 7	3' UTR Exon 1	c.*48
+1399	1048	G	Exon 7	3' UTR Exon 1	c.*49
+1400	1049	C	Exon 7	3' UTR Exon 1	c.*50
+1401	1050	A	Intron 7	3' UTR Intron 1	c.*50+1
+1402	1051	A	Intron 7	3' UTR Intron 1	c.*50+2
+1403	1052	G	Intron 7	3' UTR Intron 1	c.*50+3
+1404	1053	T	Intron 7	3' UTR Intron 1	c.*50+4
+1405	1054	G	Intron 7	3' UTR Intron 1	c.*50+5
+1406	1055	G	Intron 7	3' UTR Intron 1	c.*50+6
+1407	1056	A	Intron 7	3' UTR Intron 1	c.*50+7
+1408	1057	G	Intron 7	3' UTR Intron 1	c.*50+8
+1409	1058	A	Intron 7	3' UTR Intron 1	c.*50+9
+1410	1059	T	Intron 7	3' UTR Intron 1	c.*50+10
+1411	1060	T	Intron 7	3' UTR Intron 1	c.*50+11
+1412	1061	G	Intron 7	3' UTR Intron 1	c.*50+12
+1413	1062	G	Intron 7	3' UTR Intron 1	c.*50+13
+1414	1063	C	Intron 7	3' UTR Intron 1	c.*50+14
+1415	1064	C	Intron 7	3' UTR Intron 1	c.*50+15
+1416	1065	T	Intron 7	3' UTR Intron 1	c.*50+16
+1417	1066	T	Intron 7	3' UTR Intron 1	c.*50+17
+1418	1067	A	Intron 7	3' UTR Intron 1	c.*50+18
+1419	1068	G	Intron 7	3' UTR Intron 1	c.*50+19
+1420	1069	C	Intron 7	3' UTR Intron 1	c.*50+20
+1421	1070	T	Intron 7	3' UTR Intron 1	c.*50+21
+1422	1071	T	Intron 7	3' UTR Intron 1	c.*50+22
+1423	1072	A	Intron 7	3' UTR Intron 1	c.*50+23
+1424	1073	A	Intron 7	3' UTR Intron 1	c.*50+24
+1425	1074	A	Intron 7	3' UTR Intron 1	c.*50+25
+1426	1075	C	Intron 7	3' UTR Intron 1	c.*50+26
+1427	1076	T	Intron 7	3' UTR Intron 1	c.*50+27
+1428	1077	T	Intron 7	3' UTR Intron 1	c.*50+28
+1429	1078	G	Intron 7	3' UTR Intron 1	c.*50+29
+1430	1079	G	Intron 7	3' UTR Intron 1	c.*50+30
+1431	1080	G	Intron 7	3' UTR Intron 1	c.*50+31
+1432	1081	T	Intron 7	3' UTR Intron 1	c.*50+32
+1433	1082	A	Intron 7	3' UTR Intron 1	c.*50+33
+1434	1083	G	Intron 7	3' UTR Intron 1	c.*50+34
+1435	1084	T	Intron 7	3' UTR Intron 1	c.*50+35
+1436	1085	T	Intron 7	3' UTR Intron 1	c.*50+36
+1437	1086	C	Intron 7	3' UTR Intron 1	c.*50+37
+1438	1087	A	Intron 7	3' UTR Intron 1	c.*50+38
+1439	1088	C	Intron 7	3' UTR Intron 1	c.*50+39
+1440	1089	T	Intron 7	3' UTR Intron 1	c.*50+40
+1441	1090	A	Intron 7	3' UTR Intron 1	c.*50+41
+1442	1091	A	Intron 7	3' UTR Intron 1	c.*50+42
+1443	1092	G	Intron 7	3' UTR Intron 1	c.*50+43
+1444	1093	G	Intron 7	3' UTR Intron 1	c.*50+44
+1445	1094	C	Intron 7	3' UTR Intron 1	c.*50+45
+1446	1095	A	Intron 7	3' UTR Intron 1	c.*50+46
+1447	1096	G	Intron 7	3' UTR Intron 1	c.*50+47
+1448	1097	A	Intron 7	3' UTR Intron 1	c.*50+48
+1449	1098	C	Intron 7	3' UTR Intron 1	c.*50+49
+1450	1099	C	Intron 7	3' UTR Intron 1	c.*50+50
+1451	1100	A	Intron 7	3' UTR Intron 1	c.*50+51
+1452	1101	T	Intron 7	3' UTR Intron 1	c.*50+52
+1453	1102	G	Intron 7	3' UTR Intron 1	c.*50+53
+1454	1103	T	Intron 7	3' UTR Intron 1	c.*50+54
+1455	1104	G	Intron 7	3' UTR Intron 1	c.*50+55
+1456	1105	G	Intron 7	3' UTR Intron 1	c.*50+56
+1457	1106	T	Intron 7	3' UTR Intron 1	c.*50+57
+1458	1107	G	Intron 7	3' UTR Intron 1	c.*50+58
+1459	1108	G	Intron 7	3' UTR Intron 1	c.*50+59
+1460	1109	T	Intron 7	3' UTR Intron 1	c.*50+60
+1461	1110	A	Intron 7	3' UTR Intron 1	c.*50+61
+1462	1111	C	Intron 7	3' UTR Intron 1	c.*50+62
+1463	1112	T	Intron 7	3' UTR Intron 1	c.*50+63
+1464	1113	G	Intron 7	3' UTR Intron 1	c.*50+64
+1465	1114	G	Intron 7	3' UTR Intron 1	c.*50+65
+1466	1115	G	Intron 7	3' UTR Intron 1	c.*50+66
+1467	1116	G	Intron 7	3' UTR Intron 1	c.*50+67
+1468	1117	C	Intron 7	3' UTR Intron 1	c.*50+68
+1469	1118	T	Intron 7	3' UTR Intron 1	c.*50+69
+1470	1119	T	Intron 7	3' UTR Intron 1	c.*50+70
+1471	1120	T	Intron 7	3' UTR Intron 1	c.*50+71
+1472	1121	A	Intron 7	3' UTR Intron 1	c.*50+72
+1473	1122	C	Intron 7	3' UTR Intron 1	c.*50+73
+1474	1123	A	Intron 7	3' UTR Intron 1	c.*50+74
+1475	1124	T	Intron 7	3' UTR Intron 1	c.*50+75
+1476	1125	A	Intron 7	3' UTR Intron 1	c.*50+76
+1477	1126	G	Intron 7	3' UTR Intron 1	c.*50+77
+1478	1127	A	Intron 7	3' UTR Intron 1	c.*50+78
+1479	1128	T	Intron 7	3' UTR Intron 1	c.*50+79
+1480	1129	A	Intron 7	3' UTR Intron 1	c.*50+80
+1481	1130	A	Intron 7	3' UTR Intron 1	c.*50+81
+1482	1131	A	Intron 7	3' UTR Intron 1	c.*50+82
+1483	1132	T	Intron 7	3' UTR Intron 1	c.*50+83
+1484	1133	G	Intron 7	3' UTR Intron 1	c.*50+84
+1485	1134	T	Intron 7	3' UTR Intron 1	c.*50+85
+1486	1135	G	Intron 7	3' UTR Intron 1	c.*50+86
+1487	1136	G	Intron 7	3' UTR Intron 1	c.*50+87
+1488	1137	T	Intron 7	3' UTR Intron 1	c.*50+88
+1489	1138	C	Intron 7	3' UTR Intron 1	c.*50+89
+1490	1139	A	Intron 7	3' UTR Intron 1	c.*50+90
+1491	1140	A	Intron 7	3' UTR Intron 1	c.*50+91
+1492	1141	G	Intron 7	3' UTR Intron 1	c.*50+92
+1493	1142	G	Intron 7	3' UTR Intron 1	c.*50+93
+1494	1143	G	Intron 7	3' UTR Intron 1	c.*50+94
+1495	1144	A	Intron 7	3' UTR Intron 1	c.*50+95
+1496	1145	G	Intron 7	3' UTR Intron 1	c.*50+96
+1497	1146	C	Intron 7	3' UTR Intron 1	c.*50+97
+1498	1147	T	Intron 7	3' UTR Intron 1	c.*50+98
+1499	1148	T	Intron 7	3' UTR Intron 1	c.*50+99
+1500	1149	T	Intron 7	3' UTR Intron 1	c.*50+100
+1501	1150	T	Exon 8	3' UTR Exon 2	c.*51
+1502	1151	G	Exon 8	3' UTR Exon 2	c.*52
+1503	1152	A	Exon 8	3' UTR Exon 2	c.*53
+1504	1153	A	Exon 8	3' UTR Exon 2	c.*54
+1505	1154	G	Exon 8	3' UTR Exon 2	c.*55
+1506	1155	T	Exon 8	3' UTR Exon 2	c.*56
+1507	1156	T	Exon 8	3' UTR Exon 2	c.*57
+1508	1157	T	Exon 8	3' UTR Exon 2	c.*58
+1509	1158	C	Exon 8	3' UTR Exon 2	c.*59
+1510	1159	T	Exon 8	3' UTR Exon 2	c.*60
+1511	1160	T	Exon 8	3' UTR Exon 2	c.*61
+1512	1161	C	Exon 8	3' UTR Exon 2	c.*62
+1513	1162	T	Exon 8	3' UTR Exon 2	c.*63
+1514	1163	T	Exon 8	3' UTR Exon 2	c.*64
+1515	1164	T	Exon 8	3' UTR Exon 2	c.*65
+1516	1165	A	Exon 8	3' UTR Exon 2	c.*66
+1517	1166	T	Exon 8	3' UTR Exon 2	c.*67
+1518	1167	T	Exon 8	3' UTR Exon 2	c.*68
+1519	1168	T	Exon 8	3' UTR Exon 2	c.*69
+1520	1169	A	Exon 8	3' UTR Exon 2	c.*70
+1521	1170	T	Exon 8	3' UTR Exon 2	c.*71
+1522	1171	T	Exon 8	3' UTR Exon 2	c.*72
+1523	1172	T	Exon 8	3' UTR Exon 2	c.*73
+1524	1173	A	Exon 8	3' UTR Exon 2	c.*74
+1525	1174	T	Exon 8	3' UTR Exon 2	c.*75
+1526	1175	T	Exon 8	3' UTR Exon 2	c.*76
+1527	1176	T	Exon 8	3' UTR Exon 2	c.*77
+1528	1177	T	Exon 8	3' UTR Exon 2	c.*78
+1529	1178	T	Exon 8	3' UTR Exon 2	c.*79
+1530	1179	T	Exon 8	3' UTR Exon 2	c.*80
+1531	1180	C	Exon 8	3' UTR Exon 2	c.*81
+1532	1181	A	Exon 8	3' UTR Exon 2	c.*82
+1533	1182	G	Exon 8	3' UTR Exon 2	c.*83
+1534	1183	T	Exon 8	3' UTR Exon 2	c.*84
+1535	1184	A	Exon 8	3' UTR Exon 2	c.*85
+1536	1185	A	Exon 8	3' UTR Exon 2	c.*86
+1537	1186	A	Exon 8	3' UTR Exon 2	c.*87
+1538	1187	A	Exon 8	3' UTR Exon 2	c.*88
+1539	1188	T	Exon 8	3' UTR Exon 2	c.*89
+1540	1189	A	Exon 8	3' UTR Exon 2	c.*90
+1541	1190	A	Exon 8	3' UTR Exon 2	c.*91
+1542	1191	T	Exon 8	3' UTR Exon 2	c.*92
+1543	1192	T	Exon 8	3' UTR Exon 2	c.*93
+1544	1193	C	Exon 8	3' UTR Exon 2	c.*94
+1545	1194	A	Exon 8	3' UTR Exon 2	c.*95
+1546	1195	T	Exon 8	3' UTR Exon 2	c.*96
+1547	1196	C	Exon 8	3' UTR Exon 2	c.*97
+1548	1197	A	Exon 8	3' UTR Exon 2	c.*98
+1549	1198	G	Exon 8	3' UTR Exon 2	c.*99
+1550	1199	C	Exon 8	3' UTR Exon 2	c.*100
+1551	1200	T	Exon 8	3' UTR Exon 2	c.*101
+1552	1201	G	Exon 8	3' UTR Exon 2	c.*102
+1553	1202	A	Exon 8	3' UTR Exon 2	c.*103
+1554	1203	A	Exon 8	3' UTR Exon 2	c.*104
+1555	1204	G	Exon 8	3' UTR Exon 2	c.*105
+1556	1205	G	Exon 8	3' UTR Exon 2	c.*106
+1557	1206	T	Exon 8	3' UTR Exon 2	c.*107
+1558	1207	G	Exon 8	3' UTR Exon 2	c.*108
+1559	1208	G	Exon 8	3' UTR Exon 2	c.*109
+1560	1209	G	Exon 8	3' UTR Exon 2	c.*110
+1561	1210	G	Exon 8	3' UTR Exon 2	c.*111
+1562	1211	A	Exon 8	3' UTR Exon 2	c.*112
+1563	1212	A	Exon 8	3' UTR Exon 2	c.*113
+1564	1213	G	Exon 8	3' UTR Exon 2	c.*114
+1565	1214	G	Exon 8	3' UTR Exon 2	c.*115
+1566	1215	G	Exon 8	3' UTR Exon 2	c.*116
+1567	1216	A	Exon 8	3' UTR Exon 2	c.*117
+1568	1217	T	Exon 8	3' UTR Exon 2	c.*118
+1569	1218	G	Exon 8	3' UTR Exon 2	c.*119
+1570	1219	T	Exon 8	3' UTR Exon 2	c.*120
+1571	1220	A	Exon 8	3' UTR Exon 2	c.*121
+1572	1221	T	Exon 8	3' UTR Exon 2	c.*122
+1573	1222	T	Exon 8	3' UTR Exon 2	c.*123
+1574	1223	A	Exon 8	3' UTR Exon 2	c.*124
+1575	1224	G	Exon 8	3' UTR Exon 2	c.*125
+1576	1225	A	Exon 8	3' UTR Exon 2	c.*126
+1577	1226	A	Exon 8	3' UTR Exon 2	c.*127
+1578	1227	T	Exon 8	3' UTR Exon 2	c.*128
+1579	1228	T	Exon 8	3' UTR Exon 2	c.*129
+1580	1229	T	Exon 8	3' UTR Exon 2	c.*130
+1581	1230	C	Exon 8	3' UTR Exon 2	c.*131
+1582	1231	A	Exon 8	3' UTR Exon 2	c.*132
+1583	1232	A	Exon 8	3' UTR Exon 2	c.*133
+1584	1233	A	Exon 8	3' UTR Exon 2	c.*134
+1585	1234	A	Exon 8	3' UTR Exon 2	c.*135
+1586	1235	A	Exon 8	3' UTR Exon 2	c.*136
+1587	1236	A	Exon 8	3' UTR Exon 2	c.*137
+1588	1237	A	Exon 8	3' UTR Exon 2	c.*138
+1589	1238	A	Exon 8	3' UTR Exon 2	c.*139
+1590	1239	A	Exon 8	3' UTR Exon 2	c.*140
+1591	1240	A	Exon 8	3' UTR Exon 2	c.*141
+1592	1241	A	Exon 8	3' UTR Exon 2	c.*142
+1593	1242	A	Exon 8	3' UTR Exon 2	c.*143
+1594	1243	A	Exon 8	3' UTR Exon 2	c.*144
+1595	1244	A	Exon 8	3' UTR Exon 2	c.*145
+1596	1245	A	Exon 8	3' UTR Exon 2	c.*146
+1597	1246	A	Exon 8	3' UTR Exon 2	c.*147
+1598	1247	G	Exon 8	3' UTR Exon 2	c.*148
+1599	1248	A	Exon 8	3' UTR Exon 2	c.*149
+1600	1249	T	Exon 8	3' UTR Exon 2	c.*150
+1601	1250	G	Intron 8	3' UTR Intron 2	c.*150+1
+1602	1251	A	Intron 8	3' UTR Intron 2	c.*150+2
+1603	1252	A	Intron 8	3' UTR Intron 2	c.*150+3
+1604	1253	G	Intron 8	3' UTR Intron 2	c.*150+4
+1605	1254	G	Intron 8	3' UTR Intron 2	c.*150+5
+1606	1255	C	Intron 8	3' UTR Intron 2	c.*150+6
+1607	1256	A	Intron 8	3' UTR Intron 2	c.*150+7
+1608	1257	C	Intron 8	3' UTR Intron 2	c.*150+8
+1609	1258	A	Intron 8	3' UTR Intron 2	c.*150+9
+1610	1259	A	Intron 8	3' UTR Intron 2	c.*150+10
+1611	1260	A	Intron 8	3' UTR Intron 2	c.*150+11
+1612	1261	A	Intron 8	3' UTR Intron 2	c.*150+12
+1613	1262	T	Intron 8	3' UTR Intron 2	c.*150+13
+1614	1263	G	Intron 8	3' UTR Intron 2	c.*150+14
+1615	1264	C	Intron 8	3' UTR Intron 2	c.*150+15
+1616	1265	T	Intron 8	3' UTR Intron 2	c.*150+16
+1617	1266	C	Intron 8	3' UTR Intron 2	c.*150+17
+1618	1267	A	Intron 8	3' UTR Intron 2	c.*150+18
+1619	1268	G	Intron 8	3' UTR Intron 2	c.*150+19
+1620	1269	A	Intron 8	3' UTR Intron 2	c.*150+20
+1621	1270	G	Intron 8	3' UTR Intron 2	c.*150+21
+1622	1271	T	Intron 8	3' UTR Intron 2	c.*150+22
+1623	1272	G	Intron 8	3' UTR Intron 2	c.*150+23
+1624	1273	C	Intron 8	3' UTR Intron 2	c.*150+24
+1625	1274	A	Intron 8	3' UTR Intron 2	c.*150+25
+1626	1275	A	Intron 8	3' UTR Intron 2	c.*150+26
+1627	1276	A	Intron 8	3' UTR Intron 2	c.*150+27
+1628	1277	A	Intron 8	3' UTR Intron 2	c.*150+28
+1629	1278	T	Intron 8	3' UTR Intron 2	c.*150+29
+1630	1279	G	Intron 8	3' UTR Intron 2	c.*150+30
+1631	1280	G	Intron 8	3' UTR Intron 2	c.*150+31
+1632	1281	C	Intron 8	3' UTR Intron 2	c.*150+32
+1633	1282	G	Intron 8	3' UTR Intron 2	c.*150+33
+1634	1283	T	Intron 8	3' UTR Intron 2	c.*150+34
+1635	1284	G	Intron 8	3' UTR Intron 2	c.*150+35
+1636	1285	A	Intron 8	3' UTR Intron 2	c.*150+36
+1637	1286	A	Intron 8	3' UTR Intron 2	c.*150+37
+1638	1287	T	Intron 8	3' UTR Intron 2	c.*150+38
+1639	1288	G	Intron 8	3' UTR Intron 2	c.*150+39
+1640	1289	A	Intron 8	3' UTR Intron 2	c.*150+40
+1641	1290	T	Intron 8	3' UTR Intron 2	c.*150+41
+1642	1291	T	Intron 8	3' UTR Intron 2	c.*150+42
+1643	1292	T	Intron 8	3' UTR Intron 2	c.*150+43
+1644	1293	C	Intron 8	3' UTR Intron 2	c.*150+44
+1645	1294	T	Intron 8	3' UTR Intron 2	c.*150+45
+1646	1295	T	Intron 8	3' UTR Intron 2	c.*150+46
+1647	1296	G	Intron 8	3' UTR Intron 2	c.*150+47
+1648	1297	G	Intron 8	3' UTR Intron 2	c.*150+48
+1649	1298	C	Intron 8	3' UTR Intron 2	c.*150+49
+1650	1299	A	Intron 8	3' UTR Intron 2	c.*150+50
+1651	1300	A	Intron 8	3' UTR Intron 2	c.*150+51
+1652	1301	A	Intron 8	3' UTR Intron 2	c.*150+52
+1653	1302	A	Intron 8	3' UTR Intron 2	c.*150+53
+1654	1303	T	Intron 8	3' UTR Intron 2	c.*150+54
+1655	1304	G	Intron 8	3' UTR Intron 2	c.*150+55
+1656	1305	A	Intron 8	3' UTR Intron 2	c.*150+56
+1657	1306	A	Intron 8	3' UTR Intron 2	c.*150+57
+1658	1307	A	Intron 8	3' UTR Intron 2	c.*150+58
+1659	1308	G	Intron 8	3' UTR Intron 2	c.*150+59
+1660	1309	G	Intron 8	3' UTR Intron 2	c.*150+60
+1661	1310	T	Intron 8	3' UTR Intron 2	c.*150+61
+1662	1311	C	Intron 8	3' UTR Intron 2	c.*150+62
+1663	1312	C	Intron 8	3' UTR Intron 2	c.*150+63
+1664	1313	A	Intron 8	3' UTR Intron 2	c.*150+64
+1665	1314	T	Intron 8	3' UTR Intron 2	c.*150+65
+1666	1315	T	Intron 8	3' UTR Intron 2	c.*150+66
+1667	1316	T	Intron 8	3' UTR Intron 2	c.*150+67
+1668	1317	G	Intron 8	3' UTR Intron 2	c.*150+68
+1669	1318	G	Intron 8	3' UTR Intron 2	c.*150+69
+1670	1319	G	Intron 8	3' UTR Intron 2	c.*150+70
+1671	1320	C	Intron 8	3' UTR Intron 2	c.*150+71
+1672	1321	T	Intron 8	3' UTR Intron 2	c.*150+72
+1673	1322	T	Intron 8	3' UTR Intron 2	c.*150+73
+1674	1323	C	Intron 8	3' UTR Intron 2	c.*150+74
+1675	1324	C	Intron 8	3' UTR Intron 2	c.*150+75
+1676	1325	T	Intron 8	3' UTR Intron 2	c.*150+76
+1677	1326	A	Intron 8	3' UTR Intron 2	c.*150+77
+1678	1327	A	Intron 8	3' UTR Intron 2	c.*150+78
+1679	1328	T	Intron 8	3' UTR Intron 2	c.*150+79
+1680	1329	C	Intron 8	3' UTR Intron 2	c.*150+80
+1681	1330	A	Intron 8	3' UTR Intron 2	c.*150+81
+1682	1331	T	Intron 8	3' UTR Intron 2	c.*150+82
+1683	1332	A	Intron 8	3' UTR Intron 2	c.*150+83
+1684	1333	C	Intron 8	3' UTR Intron 2	c.*150+84
+1685	1334	G	Intron 8	3' UTR Intron 2	c.*150+85
+1686	1335	T	Intron 8	3' UTR Intron 2	c.*150+86
+1687	1336	T	Intron 8	3' UTR Intron 2	c.*150+87
+1688	1337	T	Intron 8	3' UTR Intron 2	c.*150+88
+1689	1338	A	Intron 8	3' UTR Intron 2	c.*150+89
+1690	1339	A	Intron 8	3' UTR Intron 2	c.*150+90
+1691	1340	A	Intron 8	3' UTR Intron 2	c.*150+91
+1692	1341	G	Intron 8	3' UTR Intron 2	c.*150+92
+1693	1342	T	Intron 8	3' UTR Intron 2	c.*150+93
+1694	1343	C	Intron 8	3' UTR Intron 2	c.*150+94
+1695	1344	A	Intron 8	3' UTR Intron 2	c.*150+95
+1696	1345	G	Intron 8	3' UTR Intron 2	c.*150+96
+1697	1346	C	Intron 8	3' UTR Intron 2	c.*150+97
+1698	1347	A	Intron 8	3' UTR Intron 2	c.*150+98
+1699	1348	T	Intron 8	3' UTR Intron 2	c.*150+99
+1700	1349	G	Intron 8	3' UTR Intron 2	c.*150+100
+1701	1350	G	Exon 9	3' UTR Exon 3	c.*151
+1702	1351	T	Exon 9	3' UTR Exon 3	c.*152
+1703	1352	T	Exon 9	3' UTR Exon 3	c.*153
+1704	1353	G	Exon 9	3' UTR Exon 3	c.*154
+1705	1354	A	Exon 9	3' UTR Exon 3	c.*155
+1706	1355	G	Exon 9	3' UTR Exon 3	c.*156
+1707	1356	A	Exon 9	3' UTR Exon 3	c.*157
+1708	1357	G	Exon 9	3' UTR Exon 3	c.*158
+1709	1358	A	Exon 9	3' UTR Exon 3	c.*159
+1710	1359	T	Exon 9	3' UTR Exon 3	c.*160
+1711	1360	T	Exon 9	3' UTR Exon 3	c.*161
+1712	1361	T	Exon 9	3' UTR Exon 3	c.*162
+1713	1362	T	Exon 9	3' UTR Exon 3	c.*163
+1714	1363	C	Exon 9	3' UTR Exon 3	c.*164
+1715	1364	C	Exon 9	3' UTR Exon 3	c.*165
+1716	1365	T	Exon 9	3' UTR Exon 3	c.*166
+1717	1366	C	Exon 9	3' UTR Exon 3	c.*167
+1718	1367	A	Exon 9	3' UTR Exon 3	c.*168
+1719	1368	G	Exon 9	3' UTR Exon 3	c.*169
+1720	1369	T	Exon 9	3' UTR Exon 3	c.*170
+1721	1370	T	Exon 9	3' UTR Exon 3	c.*171
+1722	1371	A	Exon 9	3' UTR Exon 3	c.*172
+1723	1372	C	Exon 9	3' UTR Exon 3	c.*173
+1724	1373	A	Exon 9	3' UTR Exon 3	c.*174
+1725	1374	T	Exon 9	3' UTR Exon 3	c.*175
+1726	1375	T	Exon 9	3' UTR Exon 3	c.*176
+1727	1376	T	Exon 9	3' UTR Exon 3	c.*177
+1728	1377	A	Exon 9	3' UTR Exon 3	c.*178
+1729	1378	G	Exon 9	3' UTR Exon 3	c.*179
+1730	1379	C	Exon 9	3' UTR Exon 3	c.*180
+1731	1380	T	Exon 9	3' UTR Exon 3	c.*181
+1732	1381	T	Exon 9	3' UTR Exon 3	c.*182
+1733	1382	C	Exon 9	3' UTR Exon 3	c.*183
+1734	1383	A	Exon 9	3' UTR Exon 3	c.*184
+1735	1384	T	Exon 9	3' UTR Exon 3	c.*185
+1736	1385	A	Exon 9	3' UTR Exon 3	c.*186
+1737	1386	A	Exon 9	3' UTR Exon 3	c.*187
+1738	1387	G	Exon 9	3' UTR Exon 3	c.*188
+1739	1388	G	Exon 9	3' UTR Exon 3	c.*189
+1740	1389	G	Exon 9	3' UTR Exon 3	c.*190
+1741	1390	A	Exon 9	3' UTR Exon 3	c.*191
+1742	1391	A	Exon 9	3' UTR Exon 3	c.*192
+1743	1392	A	Exon 9	3' UTR Exon 3	c.*193
+1744	1393	T	Exon 9	3' UTR Exon 3	c.*194
+1745	1394	G	Exon 9	3' UTR Exon 3	c.*195
+1746	1395	T	Exon 9	3' UTR Exon 3	c.*196
+1747	1396	G	Exon 9	3' UTR Exon 3	c.*197
+1748	1397	C	Exon 9	3' UTR Exon 3	c.*198
+1749	1398	A	Exon 9	3' UTR Exon 3	c.*199
+1750	1399	G	Exon 9	3' UTR Exon 3	c.*200
+1751	1400	A	Exon 9	3' UTR Exon 3	c.*201
+1752	1401	G	Exon 9	3' UTR Exon 3	c.*202
+1753	1402	T	Exon 9	3' UTR Exon 3	c.*203
+1754	1403	T	Exon 9	3' UTR Exon 3	c.*204
+1755	1404	A	Exon 9	3' UTR Exon 3	c.*205
+1756	1405	T	Exon 9	3' UTR Exon 3	c.*206
+1757	1406	T	Exon 9	3' UTR Exon 3	c.*207
+1758	1407	T	Exon 9	3' UTR Exon 3	c.*208
+1759	1408	G	Exon 9	3' UTR Exon 3	c.*209
+1760	1409	A	Exon 9	3' UTR Exon 3	c.*210
+1761	1410	G	Exon 9	3' UTR Exon 3	c.*211
+1762	1411	A	Exon 9	3' UTR Exon 3	c.*212
+1763	1412	G	Exon 9	3' UTR Exon 3	c.*213
+1764	1413	T	Exon 9	3' UTR Exon 3	c.*214
+1765	1414	T	Exon 9	3' UTR Exon 3	c.*215
+1766	1415	A	Exon 9	3' UTR Exon 3	c.*216
+1767	1416	A	Exon 9	3' UTR Exon 3	c.*217
+1768	1417	A	Exon 9	3' UTR Exon 3	c.*218
+1769	1418	T	Exon 9	3' UTR Exon 3	c.*219
+1770	1419	T	Exon 9	3' UTR Exon 3	c.*220
+1771	1420	T	Exon 9	3' UTR Exon 3	c.*221
+1772	1421	A	Exon 9	3' UTR Exon 3	c.*222
+1773	1422	A	Exon 9	3' UTR Exon 3	c.*223
+1774	1423	T	Exon 9	3' UTR Exon 3	c.*224
+1775	1424	C	Exon 9	3' UTR Exon 3	c.*225
+1776	1425	A	Exon 9	3' UTR Exon 3	c.*226
+1777	1426	A	Exon 9	3' UTR Exon 3	c.*227
+1778	1427	G	Exon 9	3' UTR Exon 3	c.*228
+1779	1428	A	Exon 9	3' UTR Exon 3	c.*229
+1780	1429	T	Exon 9	3' UTR Exon 3	c.*230
+1781	1430	T	Exon 9	3' UTR Exon 3	c.*231
+1782	1431	G	Exon 9	3' UTR Exon 3	c.*232
+1783	1432	T	Exon 9	3' UTR Exon 3	c.*233
+1784	1433	G	Exon 9	3' UTR Exon 3	c.*234
+1785	1434	G	Exon 9	3' UTR Exon 3	c.*235
+1786	1435	C	Exon 9	3' UTR Exon 3	c.*236
+1787	1436	T	Exon 9	3' UTR Exon 3	c.*237
+1788	1437	T	Exon 9	3' UTR Exon 3	c.*238
+1789	1438	T	Exon 9	3' UTR Exon 3	c.*239
+1790	1439	G	Exon 9	3' UTR Exon 3	c.*240
+1791	1440	A	Exon 9	3' UTR Exon 3	c.*241
+1792	1441	C	Exon 9	3' UTR Exon 3	c.*242
+1793	1442	A	Exon 9	3' UTR Exon 3	c.*243
+1794	1443	T	Exon 9	3' UTR Exon 3	c.*244
+1795	1444	G	Exon 9	3' UTR Exon 3	c.*245
+1796	1445	C	Exon 9	3' UTR Exon 3	c.*246
+1797	1446	A	Exon 9	3' UTR Exon 3	c.*247
+1798	1447	A	Exon 9	3' UTR Exon 3	c.*248
+1799	1448	T	Exon 9	3' UTR Exon 3	c.*249
+1800	1449	T	Exon 9	3' UTR Exon 3	c.*250
+1801	1450	A	Downstream	Downstream	c.*251
+1802	1451	A	Downstream	Downstream	c.*252
+1803	1452	A	Downstream	Downstream	c.*253
+1804	1453	A	Downstream	Downstream	c.*254
+1805	1454	T	Downstream	Downstream	c.*255
+1806	1455	A	Downstream	Downstream	c.*256
+1807	1456	A	Downstream	Downstream	c.*257
+1808	1457	T	Downstream	Downstream	c.*258
+1809	1458	G	Downstream	Downstream	c.*259
+1810	1459	C	Downstream	Downstream	c.*260
+1811	1460	A	Downstream	Downstream	c.*261
+1812	1461	A	Downstream	Downstream	c.*262
+1813	1462	A	Downstream	Downstream	c.*263
+1814	1463	A	Downstream	Downstream	c.*264
+1815	1464	C	Downstream	Downstream	c.*265
+1816	1465	A	Downstream	Downstream	c.*266
+1817	1466	G	Downstream	Downstream	c.*267
+1818	1467	T	Downstream	Downstream	c.*268
+1819	1468	C	Downstream	Downstream	c.*269
+1820	1469	A	Downstream	Downstream	c.*270
+1821	1470	A	Downstream	Downstream	c.*271
+1822	1471	A	Downstream	Downstream	c.*272
+1823	1472	A	Downstream	Downstream	c.*273
+1824	1473	T	Downstream	Downstream	c.*274
+1825	1474	T	Downstream	Downstream	c.*275
+1826	1475	A	Downstream	Downstream	c.*276
+1827	1476	T	Downstream	Downstream	c.*277
+1828	1477	A	Downstream	Downstream	c.*278
+1829	1478	T	Downstream	Downstream	c.*279
+1830	1479	G	Downstream	Downstream	c.*280
+1831	1480	A	Downstream	Downstream	c.*281
+1832	1481	A	Downstream	Downstream	c.*282
+1833	1482	G	Downstream	Downstream	c.*283
+1834	1483	T	Downstream	Downstream	c.*284
+1835	1484	T	Downstream	Downstream	c.*285
+1836	1485	A	Downstream	Downstream	c.*286
+1837	1486	T	Downstream	Downstream	c.*287
+1838	1487	A	Downstream	Downstream	c.*288
+1839	1488	T	Downstream	Downstream	c.*289
+1840	1489	A	Downstream	Downstream	c.*290
+1841	1490	G	Downstream	Downstream	c.*291
+1842	1491	A	Downstream	Downstream	c.*292
+1843	1492	A	Downstream	Downstream	c.*293
+1844	1493	G	Downstream	Downstream	c.*294
+1845	1494	A	Downstream	Downstream	c.*295
+1846	1495	G	Downstream	Downstream	c.*296
+1847	1496	A	Downstream	Downstream	c.*297
+1848	1497	G	Downstream	Downstream	c.*298
+1849	1498	T	Downstream	Downstream	c.*299
+1850	1499	G	Downstream	Downstream	c.*300
+1851	1500	A	Downstream	Downstream	c.*301
+1852	1501	T	Downstream	Downstream	c.*302
+1853	1502	T	Downstream	Downstream	c.*303
+1854	1503	A	Downstream	Downstream	c.*304
+1855	1504	C	Downstream	Downstream	c.*305
+1856	1505	C	Downstream	Downstream	c.*306
+1857	1506	G	Downstream	Downstream	c.*307
+1858	1507	T	Downstream	Downstream	c.*308
+1859	1508	G	Downstream	Downstream	c.*309
+1860	1509	A	Downstream	Downstream	c.*310
+1861	1510	C	Downstream	Downstream	c.*311
+1862	1511	C	Downstream	Downstream	c.*312
+1863	1512	A	Downstream	Downstream	c.*313
+1864	1513	T	Downstream	Downstream	c.*314
+1865	1514	T	Downstream	Downstream	c.*315
+1866	1515	A	Downstream	Downstream	c.*316
+1867	1516	A	Downstream	Downstream	c.*317
+1868	1517	A	Downstream	Downstream	c.*318
+1869	1518	T	Downstream	Downstream	c.*319
+1870	1519	T	Downstream	Downstream	c.*320
+1871	1520	A	Downstream	Downstream	c.*321
+1872	1521	A	Downstream	Downstream	c.*322
+1873	1522	C	Downstream	Downstream	c.*323
+1874	1523	C	Downstream	Downstream	c.*324
+1875	1524	C	Downstream	Downstream	c.*325
+1876	1525	A	Downstream	Downstream	c.*326
+1877	1526	G	Downstream	Downstream	c.*327
+1878	1527	A	Downstream	Downstream	c.*328
+1879	1528	T	Downstream	Downstream	c.*329
+1880	1529	G	Downstream	Downstream	c.*330
+1881	1530	T	Downstream	Downstream	c.*331
+1882	1531	A	Downstream	Downstream	c.*332
+1883	1532	T	Downstream	Downstream	c.*333
+1884	1533	A	Downstream	Downstream	c.*334
+1885	1534	G	Downstream	Downstream	c.*335
+1886	1535	A	Downstream	Downstream	c.*336
+1887	1536	T	Downstream	Downstream	c.*337
+1888	1537	A	Downstream	Downstream	c.*338
+1889	1538	A	Downstream	Downstream	c.*339
+1890	1539	G	Downstream	Downstream	c.*340
+1891	1540	G	Downstream	Downstream	c.*341
+1892	1541	A	Downstream	Downstream	c.*342
+1893	1542	A	Downstream	Downstream	c.*343
+1894	1543	C	Downstream	Downstream	c.*344
+1895	1544	A	Downstream	Downstream	c.*345
+1896	1545	C	Downstream	Downstream	c.*346
+1897	1546	C	Downstream	Downstream	c.*347
+1898	1547	G	Downstream	Downstream	c.*348
+1899	1548	A	Downstream	Downstream	c.*349
+1900	1549	A	Downstream	Downstream	c.*350
+1901	1550	A	Downstream	Downstream	c.*351
+1902	1551	T	Downstream	Downstream	c.*352
+1903	1552	C	Downstream	Downstream	c.*353
+1904	1553	T	Downstream	Downstream	c.*354
+1905	1554	C	Downstream	Downstream	c.*355
+1906	1555	T	Downstream	Downstream	c.*356
+1907	1556	G	Downstream	Downstream	c.*357
+1908	1557	G	Downstream	Downstream	c.*358
+1909	1558	C	Downstream	Downstream	c.*359
+1910	1559	A	Downstream	Downstream	c.*360
+1911	1560	A	Downstream	Downstream	c.*361
+1912	1561	A	Downstream	Downstream	c.*362
+1913	1562	A	Downstream	Downstream	c.*363
+1914	1563	T	Downstream	Downstream	c.*364
+1915	1564	C	Downstream	Downstream	c.*365
+1916	1565	A	Downstream	Downstream	c.*366
+1917	1566	A	Downstream	Downstream	c.*367
+1918	1567	A	Downstream	Downstream	c.*368
+1919	1568	T	Downstream	Downstream	c.*369
+1920	1569	T	Downstream	Downstream	c.*370
+1921	1570	G	Downstream	Downstream	c.*371
+1922	1571	T	Downstream	Downstream	c.*372
+1923	1572	A	Downstream	Downstream	c.*373
+1924	1573	G	Downstream	Downstream	c.*374
+1925	1574	G	Downstream	Downstream	c.*375
+1926	1575	T	Downstream	Downstream	c.*376
+1927	1576	T	Downstream	Downstream	c.*377
+1928	1577	A	Downstream	Downstream	c.*378
+1929	1578	T	Downstream	Downstream	c.*379
+1930	1579	A	Downstream	Downstream	c.*380
+1931	1580	C	Downstream	Downstream	c.*381
+1932	1581	A	Downstream	Downstream	c.*382
+1933	1582	T	Downstream	Downstream	c.*383
+1934	1583	C	Downstream	Downstream	c.*384
+1935	1584	C	Downstream	Downstream	c.*385
+1936	1585	T	Downstream	Downstream	c.*386
+1937	1586	G	Downstream	Downstream	c.*387
+1938	1587	G	Downstream	Downstream	c.*388
+1939	1588	T	Downstream	Downstream	c.*389
+1940	1589	C	Downstream	Downstream	c.*390
+1941	1590	A	Downstream	Downstream	c.*391
+1942	1591	G	Downstream	Downstream	c.*392
+1943	1592	T	Downstream	Downstream	c.*393
+1944	1593	G	Downstream	Downstream	c.*394
+1945	1594	G	Downstream	Downstream	c.*395
+1946	1595	A	Downstream	Downstream	c.*396
+1947	1596	A	Downstream	Downstream	c.*397
+1948	1597	G	Downstream	Downstream	c.*398
+1949	1598	C	Downstream	Downstream	c.*399
+1950	1599	A	Downstream	Downstream	c.*400
+1951	1600	T	Downstream	Downstream	c.*401
+1952	1601	G	Downstream	Downstream	c.*402
+1953	1602	T	Downstream	Downstream	c.*403
+1954	1603	G	Downstream	Downstream	c.*404
+1955	1604	G	Downstream	Downstream	c.*405
+1956	1605	A	Downstream	Downstream	c.*406
+1957	1606	T	Downstream	Downstream	c.*407
+1958	1607	C	Downstream	Downstream	c.*408
+1959	1608	T	Downstream	Downstream	c.*409
+1960	1609	A	Downstream	Downstream	c.*410
+1961	1610	G	Downstream	Downstream	c.*411
+1962	1611	G	Downstream	Downstream	c.*412
+1963	1612	G	Downstream	Downstream	c.*413
+1964	1613	T	Downstream	Downstream	c.*414
+1965	1614	G	Downstream	Downstream	c.*415
+1966	1615	T	Downstream	Downstream	c.*416
+1967	1616	T	Downstream	Downstream	c.*417
+1968	1617	A	Downstream	Downstream	c.*418
+1969	1618	C	Downstream	Downstream	c.*419
+1970	1619	T	Downstream	Downstream	c.*420
+1971	1620	G	Downstream	Downstream	c.*421
+1972	1621	A	Downstream	Downstream	c.*422
+1973	1622	G	Downstream	Downstream	c.*423
+1974	1623	T	Downstream	Downstream	c.*424
+1975	1624	G	Downstream	Downstream	c.*425
+1976	1625	T	Downstream	Downstream	c.*426
+1977	1626	G	Downstream	Downstream	c.*427
+1978	1627	A	Downstream	Downstream	c.*428
+1979	1628	G	Downstream	Downstream	c.*429
+1980	1629	C	Downstream	Downstream	c.*430
+1981	1630	T	Downstream	Downstream	c.*431
+1982	1631	A	Downstream	Downstream	c.*432
+1983	1632	G	Downstream	Downstream	c.*433
+1984	1633	G	Downstream	Downstream	c.*434
+1985	1634	A	Downstream	Downstream	c.*435
+1986	1635	G	Downstream	Downstream	c.*436
+1987	1636	T	Downstream	Downstream	c.*437
+1988	1637	G	Downstream	Downstream	c.*438
+1989	1638	A	Downstream	Downstream	c.*439
+1990	1639	T	Downstream	Downstream	c.*440
+1991	1640	A	Downstream	Downstream	c.*441
+1992	1641	A	Downstream	Downstream	c.*442
+1993	1642	A	Downstream	Downstream	c.*443
+1994	1643	G	Downstream	Downstream	c.*444
+1995	1644	A	Downstream	Downstream	c.*445
+1996	1645	G	Downstream	Downstream	c.*446
+1997	1646	T	Downstream	Downstream	c.*447
+1998	1647	G	Downstream	Downstream	c.*448
+1999	1648	G	Downstream	Downstream	c.*449
+2000	1649	T	Downstream	Downstream	c.*450
+2001	1650	G	Downstream	Downstream	c.*451
+2002	1651	C	Downstream	Downstream	c.*452
+2003	1652	T	Downstream	Downstream	c.*453
+2004	1653	C	Downstream	Downstream	c.*454
+2005	1654	C	Downstream	Downstream	c.*455
+2006	1655	A	Downstream	Downstream	c.*456
+2007	1656	A	Downstream	Downstream	c.*457
+2008	1657	T	Downstream	Downstream	c.*458
+2009	1658	C	Downstream	Downstream	c.*459
+2010	1659	T	Downstream	Downstream	c.*460
+2011	1660	T	Downstream	Downstream	c.*461
+2012	1661	T	Downstream	Downstream	c.*462
+2013	1662	G	Downstream	Downstream	c.*463
+2014	1663	A	Downstream	Downstream	c.*464
+2015	1664	T	Downstream	Downstream	c.*465
+2016	1665	A	Downstream	Downstream	c.*466
+2017	1666	T	Downstream	Downstream	c.*467
+2018	1667	T	Downstream	Downstream	c.*468
+2019	1668	A	Downstream	Downstream	c.*469
+2020	1669	T	Downstream	Downstream	c.*470
+2021	1670	G	Downstream	Downstream	c.*471
+2022	1671	G	Downstream	Downstream	c.*472
+2023	1672	A	Downstream	Downstream	c.*473
+2024	1673	G	Downstream	Downstream	c.*474
+2025	1674	A	Downstream	Downstream	c.*475
+2026	1675	G	Downstream	Downstream	c.*476
+2027	1676	A	Downstream	Downstream	c.*477
+2028	1677	T	Downstream	Downstream	c.*478
+2029	1678	T	Downstream	Downstream	c.*479
+2030	1679	A	Downstream	Downstream	c.*480
+2031	1680	C	Downstream	Downstream	c.*481
+2032	1681	A	Downstream	Downstream	c.*482
+2033	1682	G	Downstream	Downstream	c.*483
+2034	1683	T	Downstream	Downstream	c.*484
+2035	1684	G	Downstream	Downstream	c.*485
+2036	1685	G	Downstream	Downstream	c.*486
+2037	1686	T	Downstream	Downstream	c.*487
+2038	1687	G	Downstream	Downstream	c.*488
+2039	1688	T	Downstream	Downstream	c.*489
+2040	1689	G	Downstream	Downstream	c.*490
+2041	1690	A	Downstream	Downstream	c.*491
+2042	1691	A	Downstream	Downstream	c.*492
+2043	1692	A	Downstream	Downstream	c.*493
+2044	1693	A	Downstream	Downstream	c.*494
+2045	1694	G	Downstream	Downstream	c.*495
+2046	1695	C	Downstream	Downstream	c.*496
+2047	1696	A	Downstream	Downstream	c.*497
+2048	1697	T	Downstream	Downstream	c.*498
+2049	1698	A	Downstream	Downstream	c.*499
+2050	1699	G	Downstream	Downstream	c.*500
+2051	1700	G	Downstream	Downstream	c.*501
+2052	1701	A	Downstream	Downstream	c.*502
+2053	1702	T	Downstream	Downstream	c.*503
+2054	1703	A	Downstream	Downstream	c.*504
+2055	1704	T	Downstream	Downstream	c.*505
+2056	1705	G	Downstream	Downstream	c.*506
+2057	1706	C	Downstream	Downstream	c.*507
+2058	1707	C	Downstream	Downstream	c.*508
+2059	1708	C	Downstream	Downstream	c.*509
+2060	1709	A	Downstream	Downstream	c.*510
+2061	1710	T	Downstream	Downstream	c.*511
+2062	1711	A	Downstream	Downstream	c.*512
+2063	1712	G	Downstream	Downstream	c.*513
+2064	1713	C	Downstream	Downstream	c.*514
+2065	1714	A	Downstream	Downstream	c.*515
+2066	1715	G	Downstream	Downstream	c.*516
+2067	1716	T	Downstream	Downstream	c.*517
+2068	1717	A	Downstream	Downstream	c.*518
+2069	1718	G	Downstream	Downstream	c.*519
+2070	1719	G	Downstream	Downstream	c.*520
+2071	1720	T	Downstream	Downstream	c.*521
+2072	1721	A	Downstream	Downstream	c.*522
+2073	1722	G	Downstream	Downstream	c.*523
+2074	1723	A	Downstream	Downstream	c.*524
+2075	1724	A	Downstream	Downstream	c.*525
+2076	1725	G	Downstream	Downstream	c.*526
+2077	1726	C	Downstream	Downstream	c.*527
+2078	1727	C	Downstream	Downstream	c.*528
+2079	1728	A	Downstream	Downstream	c.*529
+2080	1729	A	Downstream	Downstream	c.*530
+2081	1730	G	Downstream	Downstream	c.*531
+2082	1731	A	Downstream	Downstream	c.*532
+2083	1732	T	Downstream	Downstream	c.*533
+2084	1733	C	Downstream	Downstream	c.*534
+2085	1734	A	Downstream	Downstream	c.*535
+2086	1735	T	Downstream	Downstream	c.*536
+2087	1736	T	Downstream	Downstream	c.*537
+2088	1737	G	Downstream	Downstream	c.*538
+2089	1738	A	Downstream	Downstream	c.*539
+2090	1739	G	Downstream	Downstream	c.*540
+2091	1740	G	Downstream	Downstream	c.*541
+2092	1741	A	Downstream	Downstream	c.*542
+2093	1742	G	Downstream	Downstream	c.*543
+2094	1743	A	Downstream	Downstream	c.*544
+2095	1744	A	Downstream	Downstream	c.*545
+2096	1745	G	Downstream	Downstream	c.*546
+2097	1746	G	Downstream	Downstream	c.*547
+2098	1747	C	Downstream	Downstream	c.*548
+2099	1748	T	Downstream	Downstream	c.*549
+2100	1749	A	Downstream	Downstream	c.*550
+2101	1750	A	Downstream	Downstream	c.*551
+2102	1751	A	Downstream	Downstream	c.*552
+2103	1752	A	Downstream	Downstream	c.*553
+2104	1753	A	Downstream	Downstream	c.*554
+2105	1754	A	Downstream	Downstream	c.*555
+2106	1755	T	Downstream	Downstream	c.*556
+2107	1756	A	Downstream	Downstream	c.*557
+2108	1757	A	Downstream	Downstream	c.*558
+2109	1758	A	Downstream	Downstream	c.*559
+2110	1759	A	Downstream	Downstream	c.*560
+2111	1760	A	Downstream	Downstream	c.*561
+2112	1761	G	Downstream	Downstream	c.*562
+2113	1762	A	Downstream	Downstream	c.*563
+2114	1763	A	Downstream	Downstream	c.*564
+2115	1764	A	Downstream	Downstream	c.*565
+2116	1765	A	Downstream	Downstream	c.*566
+2117	1766	T	Downstream	Downstream	c.*567
+2118	1767	A	Downstream	Downstream	c.*568
+2119	1768	A	Downstream	Downstream	c.*569
+2120	1769	A	Downstream	Downstream	c.*570
+2121	1770	A	Downstream	Downstream	c.*571
+2122	1771	A	Downstream	Downstream	c.*572
+2123	1772	G	Downstream	Downstream	c.*573
+2124	1773	A	Downstream	Downstream	c.*574
+2125	1774	A	Downstream	Downstream	c.*575
+2126	1775	A	Downstream	Downstream	c.*576
+2127	1776	A	Downstream	Downstream	c.*577
+2128	1777	C	Downstream	Downstream	c.*578
+2129	1778	A	Downstream	Downstream	c.*579
+2130	1779	G	Downstream	Downstream	c.*580
+2131	1780	A	Downstream	Downstream	c.*581
+2132	1781	G	Downstream	Downstream	c.*582
+2133	1782	A	Downstream	Downstream	c.*583
+2134	1783	A	Downstream	Downstream	c.*584
+2135	1784	T	Downstream	Downstream	c.*585
+2136	1785	T	Downstream	Downstream	c.*586
+2137	1786	A	Downstream	Downstream	c.*587
+2138	1787	A	Downstream	Downstream	c.*588
+2139	1788	A	Downstream	Downstream	c.*589
+2140	1789	A	Downstream	Downstream	c.*590
+2141	1790	A	Downstream	Downstream	c.*591
+2142	1791	G	Downstream	Downstream	c.*592
+2143	1792	A	Downstream	Downstream	c.*593
+2144	1793	T	Downstream	Downstream	c.*594
+2145	1794	T	Downstream	Downstream	c.*595
+2146	1795	C	Downstream	Downstream	c.*596
+2147	1796	T	Downstream	Downstream	c.*597
+2148	1797	C	Downstream	Downstream	c.*598
+2149	1798	T	Downstream	Downstream	c.*599
+2150	1799	T	Downstream	Downstream	c.*600
+2151	1800	C	Downstream	Downstream	c.*601
+2152	1801	A	Downstream	Downstream	c.*602
+2153	1802	T	Downstream	Downstream	c.*603
+2154	1803	G	Downstream	Downstream	c.*604
+2155	1804	G	Downstream	Downstream	c.*605
+2156	1805	T	Downstream	Downstream	c.*606
+2157	1806	C	Downstream	Downstream	c.*607
+2158	1807	A	Downstream	Downstream	c.*608
+2159	1808	T	Downstream	Downstream	c.*609
+2160	1809	T	Downstream	Downstream	c.*610
+2161	1810	A	Downstream	Downstream	c.*611
+2162	1811	C	Downstream	Downstream	c.*612
+2163	1812	C	Downstream	Downstream	c.*613
+2164	1813	A	Downstream	Downstream	c.*614
+2165	1814	T	Downstream	Downstream	c.*615
+2166	1815	C	Downstream	Downstream	c.*616
+2167	1816	A	Downstream	Downstream	c.*617
+2168	1817	T	Downstream	Downstream	c.*618
+2169	1818	G	Downstream	Downstream	c.*619
+2170	1819	A	Downstream	Downstream	c.*620
+2171	1820	A	Downstream	Downstream	c.*621
+2172	1821	T	Downstream	Downstream	c.*622
+2173	1822	A	Downstream	Downstream	c.*623
+2174	1823	A	Downstream	Downstream	c.*624
+2175	1824	T	Downstream	Downstream	c.*625
+2176	1825	T	Downstream	Downstream	c.*626
+2177	1826	A	Downstream	Downstream	c.*627
+2178	1827	A	Downstream	Downstream	c.*628
+2179	1828	A	Downstream	Downstream	c.*629
+2180	1829	A	Downstream	Downstream	c.*630
+2181	1830	T	Downstream	Downstream	c.*631
+2182	1831	A	Downstream	Downstream	c.*632
+2183	1832	G	Downstream	Downstream	c.*633
+2184	1833	T	Downstream	Downstream	c.*634
+2185	1834	A	Downstream	Downstream	c.*635
+2186	1835	G	Downstream	Downstream	c.*636
+2187	1836	T	Downstream	Downstream	c.*637
+2188	1837	A	Downstream	Downstream	c.*638
+2189	1838	G	Downstream	Downstream	c.*639
+2190	1839	C	Downstream	Downstream	c.*640
+2191	1840	A	Downstream	Downstream	c.*641
+2192	1841	T	Downstream	Downstream	c.*642
+2193	1842	T	Downstream	Downstream	c.*643
+2194	1843	T	Downstream	Downstream	c.*644
+2195	1844	T	Downstream	Downstream	c.*645
+2196	1845	G	Downstream	Downstream	c.*646
+2197	1846	A	Downstream	Downstream	c.*647
+2198	1847	G	Downstream	Downstream	c.*648
+2199	1848	A	Downstream	Downstream	c.*649
+2200	1849	G	Downstream	Downstream	c.*650
+2201	1850	A	Downstream	Downstream	c.*651
+2202	1851	A	Downstream	Downstream	c.*652
+2203	1852	T	Downstream	Downstream	c.*653
+2204	1853	G	Downstream	Downstream	c.*654
+2205	1854	G	Downstream	Downstream	c.*655
+2206	1855	C	Downstream	Downstream	c.*656
+2207	1856	T	Downstream	Downstream	c.*657
+2208	1857	T	Downstream	Downstream	c.*658
+2209	1858	T	Downstream	Downstream	c.*659
+2210	1859	G	Downstream	Downstream	c.*660
+2211	1860	G	Downstream	Downstream	c.*661
+2212	1861	A	Downstream	Downstream	c.*662
+2213	1862	T	Downstream	Downstream	c.*663
+2214	1863	C	Downstream	Downstream	c.*664
+2215	1864	G	Downstream	Downstream	c.*665
+2216	1865	A	Downstream	Downstream	c.*666
+2217	1866	G	Downstream	Downstream	c.*667
+2218	1867	A	Downstream	Downstream	c.*668
+2219	1868	G	Downstream	Downstream	c.*669
+2220	1869	C	Downstream	Downstream	c.*670
+2221	1870	T	Downstream	Downstream	c.*671
+2222	1871	A	Downstream	Downstream	c.*672
+2223	1872	A	Downstream	Downstream	c.*673
+2224	1873	A	Downstream	Downstream	c.*674
+2225	1874	A	Downstream	Downstream	c.*675
+2226	1875	T	Downstream	Downstream	c.*676
+2227	1876	T	Downstream	Downstream	c.*677
+2228	1877	G	Downstream	Downstream	c.*678
+2229	1878	T	Downstream	Downstream	c.*679
+2230	1879	C	Downstream	Downstream	c.*680
+2231	1880	A	Downstream	Downstream	c.*681
+2232	1881	T	Downstream	Downstream	c.*682
+2233	1882	G	Downstream	Downstream	c.*683
+2234	1883	A	Downstream	Downstream	c.*684
+2235	1884	A	Downstream	Downstream	c.*685
+2236	1885	A	Downstream	Downstream	c.*686
+2237	1886	T	Downstream	Downstream	c.*687
+2238	1887	G	Downstream	Downstream	c.*688
+2239	1888	A	Downstream	Downstream	c.*689
+2240	1889	G	Downstream	Downstream	c.*690
+2241	1890	T	Downstream	Downstream	c.*691
+2242	1891	G	Downstream	Downstream	c.*692
+2243	1892	G	Downstream	Downstream	c.*693
+2244	1893	G	Downstream	Downstream	c.*694
+2245	1894	A	Downstream	Downstream	c.*695
+2246	1895	G	Downstream	Downstream	c.*696
+2247	1896	T	Downstream	Downstream	c.*697
+2248	1897	G	Downstream	Downstream	c.*698
+2249	1898	A	Downstream	Downstream	c.*699
+2250	1899	C	Downstream	Downstream	c.*700
+2251	1900	T	Downstream	Downstream	c.*701
+2252	1901	G	Downstream	Downstream	c.*702
+2253	1902	A	Downstream	Downstream	c.*703
+2254	1903	G	Downstream	Downstream	c.*704
+2255	1904	C	Downstream	Downstream	c.*705
+2256	1905	G	Downstream	Downstream	c.*706
+2257	1906	T	Downstream	Downstream	c.*707
+2258	1907	T	Downstream	Downstream	c.*708
+2259	1908	G	Downstream	Downstream	c.*709
+2260	1909	A	Downstream	Downstream	c.*710
+2261	1910	T	Downstream	Downstream	c.*711
+2262	1911	A	Downstream	Downstream	c.*712
+2263	1912	G	Downstream	Downstream	c.*713
+2264	1913	A	Downstream	Downstream	c.*714
+2265	1914	T	Downstream	Downstream	c.*715
+2266	1915	G	Downstream	Downstream	c.*716
+2267	1916	A	Downstream	Downstream	c.*717
+2268	1917	T	Downstream	Downstream	c.*718
+2269	1918	T	Downstream	Downstream	c.*719
+2270	1919	T	Downstream	Downstream	c.*720
+2271	1920	C	Downstream	Downstream	c.*721
+2272	1921	A	Downstream	Downstream	c.*722
+2273	1922	A	Downstream	Downstream	c.*723
+2274	1923	C	Downstream	Downstream	c.*724
+2275	1924	A	Downstream	Downstream	c.*725
+2276	1925	A	Downstream	Downstream	c.*726
+2277	1926	G	Downstream	Downstream	c.*727
+2278	1927	A	Downstream	Downstream	c.*728
+2279	1928	G	Downstream	Downstream	c.*729
+2280	1929	G	Downstream	Downstream	c.*730
+2281	1930	A	Downstream	Downstream	c.*731
+2282	1931	A	Downstream	Downstream	c.*732
+2283	1932	T	Downstream	Downstream	c.*733
+2284	1933	A	Downstream	Downstream	c.*734
+2285	1934	A	Downstream	Downstream	c.*735
+2286	1935	G	Downstream	Downstream	c.*736
+2287	1936	T	Downstream	Downstream	c.*737
+2288	1937	G	Downstream	Downstream	c.*738
+2289	1938	A	Downstream	Downstream	c.*739
+2290	1939	T	Downstream	Downstream	c.*740
+2291	1940	A	Downstream	Downstream	c.*741
+2292	1941	G	Downstream	Downstream	c.*742
+2293	1942	A	Downstream	Downstream	c.*743
+2294	1943	G	Downstream	Downstream	c.*744
+2295	1944	T	Downstream	Downstream	c.*745
+2296	1945	C	Downstream	Downstream	c.*746
+2297	1946	T	Downstream	Downstream	c.*747
+2298	1947	T	Downstream	Downstream	c.*748
+2299	1948	T	Downstream	Downstream	c.*749
+2300	1949	C	Downstream	Downstream	c.*750
+2301	1950	A	Downstream	Downstream	c.*751
+2302	1951	A	Downstream	Downstream	c.*752
+2303	1952	T	Downstream	Downstream	c.*753
+2304	1953	A	Downstream	Downstream	c.*754
+2305	1954	T	Downstream	Downstream	c.*755
+2306	1955	G	Downstream	Downstream	c.*756
+2307	1956	A	Downstream	Downstream	c.*757
+2308	1957	G	Downstream	Downstream	c.*758
+2309	1958	A	Downstream	Downstream	c.*759
+2310	1959	T	Downstream	Downstream	c.*760
+2311	1960	C	Downstream	Downstream	c.*761
+2312	1961	C	Downstream	Downstream	c.*762
+2313	1962	A	Downstream	Downstream	c.*763
+2314	1963	A	Downstream	Downstream	c.*764
+2315	1964	A	Downstream	Downstream	c.*765
+2316	1965	A	Downstream	Downstream	c.*766
+2317	1966	C	Downstream	Downstream	c.*767
+2318	1967	T	Downstream	Downstream	c.*768
+2319	1968	A	Downstream	Downstream	c.*769
+2320	1969	T	Downstream	Downstream	c.*770
+2321	1970	G	Downstream	Downstream	c.*771
+2322	1971	G	Downstream	Downstream	c.*772
+2323	1972	A	Downstream	Downstream	c.*773
+2324	1973	T	Downstream	Downstream	c.*774
+2325	1974	T	Downstream	Downstream	c.*775
+2326	1975	A	Downstream	Downstream	c.*776
+2327	1976	T	Downstream	Downstream	c.*777
+2328	1977	G	Downstream	Downstream	c.*778
+2329	1978	A	Downstream	Downstream	c.*779
+2330	1979	G	Downstream	Downstream	c.*780
+2331	1980	T	Downstream	Downstream	c.*781
+2332	1981	G	Downstream	Downstream	c.*782
+2333	1982	T	Downstream	Downstream	c.*783
+2334	1983	A	Downstream	Downstream	c.*784
+2335	1984	A	Downstream	Downstream	c.*785
+2336	1985	A	Downstream	Downstream	c.*786
+2337	1986	G	Downstream	Downstream	c.*787
+2338	1987	G	Downstream	Downstream	c.*788
+2339	1988	G	Downstream	Downstream	c.*789
+2340	1989	T	Downstream	Downstream	c.*790
+2341	1990	G	Downstream	Downstream	c.*791
+2342	1991	G	Downstream	Downstream	c.*792
+2343	1992	G	Downstream	Downstream	c.*793
+2344	1993	G	Downstream	Downstream	c.*794
+2345	1994	A	Downstream	Downstream	c.*795
+2346	1995	A	Downstream	Downstream	c.*796
+2347	1996	A	Downstream	Downstream	c.*797
+2348	1997	T	Downstream	Downstream	c.*798
+2349	1998	G	Downstream	Downstream	c.*799
+2350	1999	T	Downstream	Downstream	c.*800
+2351	2000	A	Downstream	Downstream	c.*801
+2352	2001	A	Downstream	Downstream	c.*802
+2353	2002	A	Downstream	Downstream	c.*803
+2354	2003	G	Downstream	Downstream	c.*804
+2355	2004	A	Downstream	Downstream	c.*805
+2356	2005	A	Downstream	Downstream	c.*806
+2357	2006	A	Downstream	Downstream	c.*807
+2358	2007	C	Downstream	Downstream	c.*808
+2359	2008	T	Downstream	Downstream	c.*809
+2360	2009	A	Downstream	Downstream	c.*810
+2361	2010	G	Downstream	Downstream	c.*811
+2362	2011	C	Downstream	Downstream	c.*812
+2363	2012	A	Downstream	Downstream	c.*813
+2364	2013	A	Downstream	Downstream	c.*814
+2365	2014	A	Downstream	Downstream	c.*815
+2366	2015	G	Downstream	Downstream	c.*816
+2367	2016	T	Downstream	Downstream	c.*817
+2368	2017	G	Downstream	Downstream	c.*818
+2369	2018	A	Downstream	Downstream	c.*819
+2370	2019	G	Downstream	Downstream	c.*820
+2371	2020	G	Downstream	Downstream	c.*821
+2372	2021	C	Downstream	Downstream	c.*822
+2373	2022	A	Downstream	Downstream	c.*823
+2374	2023	C	Downstream	Downstream	c.*824
+2375	2024	A	Downstream	Downstream	c.*825
+2376	2025	T	Downstream	Downstream	c.*826
+2377	2026	T	Downstream	Downstream	c.*827
+2378	2027	G	Downstream	Downstream	c.*828
+2379	2028	G	Downstream	Downstream	c.*829
+2380	2029	A	Downstream	Downstream	c.*830
+2381	2030	A	Downstream	Downstream	c.*831
+2382	2031	A	Downstream	Downstream	c.*832
+2383	2032	C	Downstream	Downstream	c.*833
+2384	2033	C	Downstream	Downstream	c.*834
+2385	2034	A	Downstream	Downstream	c.*835
+2386	2035	G	Downstream	Downstream	c.*836
+2387	2036	C	Downstream	Downstream	c.*837
+2388	2037	C	Downstream	Downstream	c.*838
+2389	2038	C	Downstream	Downstream	c.*839
+2390	2039	A	Downstream	Downstream	c.*840
+2391	2040	T	Downstream	Downstream	c.*841
+2392	2041	C	Downstream	Downstream	c.*842
+2393	2042	T	Downstream	Downstream	c.*843
+2394	2043	G	Downstream	Downstream	c.*844
+2395	2044	G	Downstream	Downstream	c.*845
+2396	2045	T	Downstream	Downstream	c.*846
+2397	2046	T	Downstream	Downstream	c.*847
+2398	2047	T	Downstream	Downstream	c.*848
+2399	2048	G	Downstream	Downstream	c.*849
+2400	2049	C	Downstream	Downstream	c.*850
+2401	2050	A	Downstream	Downstream	c.*851
+2402	2051	G	Downstream	Downstream	c.*852
+2403	2052	C	Downstream	Downstream	c.*853
+2404	2053	A	Downstream	Downstream	c.*854
+2405	2054	A	Downstream	Downstream	c.*855
+2406	2055	T	Downstream	Downstream	c.*856
+2407	2056	A	Downstream	Downstream	c.*857
+2408	2057	T	Downstream	Downstream	c.*858
+2409	2058	G	Downstream	Downstream	c.*859
+2410	2059	G	Downstream	Downstream	c.*860
+2411	2060	G	Downstream	Downstream	c.*861
+2412	2061	G	Downstream	Downstream	c.*862
+2413	2062	G	Downstream	Downstream	c.*863
+2414	2063	A	Downstream	Downstream	c.*864
+2415	2064	T	Downstream	Downstream	c.*865
+2416	2065	A	Downstream	Downstream	c.*866
+2417	2066	A	Downstream	Downstream	c.*867
+2418	2067	G	Downstream	Downstream	c.*868
+2419	2068	G	Downstream	Downstream	c.*869
+2420	2069	C	Downstream	Downstream	c.*870
+2421	2070	A	Downstream	Downstream	c.*871
+2422	2071	A	Downstream	Downstream	c.*872
+2423	2072	C	Downstream	Downstream	c.*873
+2424	2073	C	Downstream	Downstream	c.*874
+2425	2074	C	Downstream	Downstream	c.*875
+2426	2075	C	Downstream	Downstream	c.*876
+2427	2076	T	Downstream	Downstream	c.*877
+2428	2077	A	Downstream	Downstream	c.*878
+2429	2078	T	Downstream	Downstream	c.*879
+2430	2079	G	Downstream	Downstream	c.*880
+2431	2080	T	Downstream	Downstream	c.*881
+2432	2081	A	Downstream	Downstream	c.*882
+2433	2082	T	Downstream	Downstream	c.*883
+2434	2083	C	Downstream	Downstream	c.*884
+2435	2084	A	Downstream	Downstream	c.*885
+2436	2085	C	Downstream	Downstream	c.*886
+2437	2086	T	Downstream	Downstream	c.*887
+2438	2087	G	Downstream	Downstream	c.*888
+2439	2088	C	Downstream	Downstream	c.*889
+2440	2089	T	Downstream	Downstream	c.*890
+2441	2090	G	Downstream	Downstream	c.*891
+2442	2091	C	Downstream	Downstream	c.*892
+2443	2092	A	Downstream	Downstream	c.*893
+2444	2093	G	Downstream	Downstream	c.*894
+2445	2094	G	Downstream	Downstream	c.*895
+2446	2095	A	Downstream	Downstream	c.*896
+2447	2096	G	Downstream	Downstream	c.*897
+2448	2097	A	Downstream	Downstream	c.*898
+2449	2098	G	Downstream	Downstream	c.*899
+2450	2099	G	Downstream	Downstream	c.*900
+2451	2100	G	Downstream	Downstream	c.*901
+2452	2101	A	Downstream	Downstream	c.*902
+2453	2102	G	Downstream	Downstream	c.*903
+2454	2103	T	Downstream	Downstream	c.*904
+2455	2104	G	Downstream	Downstream	c.*905
+2456	2105	T	Downstream	Downstream	c.*906
+2457	2106	C	Downstream	Downstream	c.*907
+2458	2107	T	Downstream	Downstream	c.*908
+2459	2108	C	Downstream	Downstream	c.*909
+2460	2109	A	Downstream	Downstream	c.*910
+2461	2110	G	Downstream	Downstream	c.*911
+2462	2111	G	Downstream	Downstream	c.*912
+2463	2112	G	Downstream	Downstream	c.*913
+2464	2113	A	Downstream	Downstream	c.*914
+2465	2114	A	Downstream	Downstream	c.*915
+2466	2115	G	Downstream	Downstream	c.*916
+2467	2116	A	Downstream	Downstream	c.*917
+2468	2117	C	Downstream	Downstream	c.*918
+2469	2118	C	Downstream	Downstream	c.*919
+2470	2119	A	Downstream	Downstream	c.*920
+2471	2120	A	Downstream	Downstream	c.*921
+2472	2121	T	Downstream	Downstream	c.*922
+2473	2122	T	Downstream	Downstream	c.*923
+2474	2123	T	Downstream	Downstream	c.*924
+2475	2124	T	Downstream	Downstream	c.*925
+2476	2125	T	Downstream	Downstream	c.*926
+2477	2126	A	Downstream	Downstream	c.*927
+2478	2127	A	Downstream	Downstream	c.*928
+2479	2128	G	Downstream	Downstream	c.*929
+2480	2129	T	Downstream	Downstream	c.*930
+2481	2130	T	Downstream	Downstream	c.*931
+2482	2131	C	Downstream	Downstream	c.*932
+2483	2132	A	Downstream	Downstream	c.*933
+2484	2133	A	Downstream	Downstream	c.*934
+2485	2134	G	Downstream	Downstream	c.*935
+2486	2135	G	Downstream	Downstream	c.*936
+2487	2136	C	Downstream	Downstream	c.*937
+2488	2137	A	Downstream	Downstream	c.*938
+2489	2138	G	Downstream	Downstream	c.*939
+2490	2139	A	Downstream	Downstream	c.*940
+2491	2140	A	Downstream	Downstream	c.*941
+2492	2141	G	Downstream	Downstream	c.*942
+2493	2142	T	Downstream	Downstream	c.*943
+2494	2143	G	Downstream	Downstream	c.*944
+2495	2144	A	Downstream	Downstream	c.*945
+2496	2145	A	Downstream	Downstream	c.*946
+2497	2146	G	Downstream	Downstream	c.*947
+2498	2147	C	Downstream	Downstream	c.*948
+2499	2148	A	Downstream	Downstream	c.*949
+2500	2149	G	Downstream	Downstream	c.*950
+2501	2150	A	Downstream	Downstream	c.*951
+2502	2151	A	Downstream	Downstream	c.*952
+2503	2152	T	Downstream	Downstream	c.*953
+2504	2153	A	Downstream	Downstream	c.*954
+2505	2154	A	Downstream	Downstream	c.*955
+2506	2155	C	Downstream	Downstream	c.*956
+2507	2156	T	Downstream	Downstream	c.*957
+2508	2157	C	Downstream	Downstream	c.*958
+2509	2158	A	Downstream	Downstream	c.*959
+2510	2159	G	Downstream	Downstream	c.*960
+2511	2160	A	Downstream	Downstream	c.*961
+2512	2161	G	Downstream	Downstream	c.*962
+2513	2162	A	Downstream	Downstream	c.*963
+2514	2163	A	Downstream	Downstream	c.*964
+2515	2164	G	Downstream	Downstream	c.*965
+2516	2165	A	Downstream	Downstream	c.*966
+2517	2166	G	Downstream	Downstream	c.*967
+2518	2167	G	Downstream	Downstream	c.*968
+2519	2168	T	Downstream	Downstream	c.*969
+2520	2169	A	Downstream	Downstream	c.*970
+2521	2170	A	Downstream	Downstream	c.*971
+2522	2171	A	Downstream	Downstream	c.*972
+2523	2172	G	Downstream	Downstream	c.*973
+2524	2173	G	Downstream	Downstream	c.*974
+2525	2174	T	Downstream	Downstream	c.*975
+2526	2175	A	Downstream	Downstream	c.*976
+2527	2176	A	Downstream	Downstream	c.*977
+2528	2177	G	Downstream	Downstream	c.*978
+2529	2178	G	Downstream	Downstream	c.*979
+2530	2179	G	Downstream	Downstream	c.*980
+2531	2180	G	Downstream	Downstream	c.*981
+2532	2181	A	Downstream	Downstream	c.*982
+2533	2182	G	Downstream	Downstream	c.*983
+2534	2183	T	Downstream	Downstream	c.*984
+2535	2184	T	Downstream	Downstream	c.*985
+2536	2185	T	Downstream	Downstream	c.*986
+2537	2186	C	Downstream	Downstream	c.*987
+2538	2187	A	Downstream	Downstream	c.*988
+2539	2188	G	Downstream	Downstream	c.*989
+2540	2189	T	Downstream	Downstream	c.*990
+2541	2190	C	Downstream	Downstream	c.*991
+2542	2191	A	Downstream	Downstream	c.*992
+2543	2192	T	Downstream	Downstream	c.*993
+2544	2193	G	Downstream	Downstream	c.*994
+2545	2194	A	Downstream	Downstream	c.*995
+2546	2195	C	Downstream	Downstream	c.*996
+2547	2196	T	Downstream	Downstream	c.*997
+2548	2197	A	Downstream	Downstream	c.*998
+2549	2198	G	Downstream	Downstream	c.*999
+2550	2199	T	Downstream	Downstream	c.*1000
+2551	2200	G	Downstream	Downstream	c.*1001
+2552	2201	A	Downstream	Downstream	c.*1002
+2553	2202	T	Downstream	Downstream	c.*1003
+2554	2203	G	Downstream	Downstream	c.*1004
+2555	2204	G	Downstream	Downstream	c.*1005
+2556	2205	G	Downstream	Downstream	c.*1006
+2557	2206	T	Downstream	Downstream	c.*1007
+2558	2207	T	Downstream	Downstream	c.*1008
+2559	2208	C	Downstream	Downstream	c.*1009
+2560	2209	C	Downstream	Downstream	c.*1010
+2561	2210	A	Downstream	Downstream	c.*1011
+2562	2211	G	Downstream	Downstream	c.*1012
+2563	2212	A	Downstream	Downstream	c.*1013
+2564	2213	A	Downstream	Downstream	c.*1014
+2565	2214	A	Downstream	Downstream	c.*1015
+2566	2215	A	Downstream	Downstream	c.*1016
+2567	2216	C	Downstream	Downstream	c.*1017
+2568	2217	T	Downstream	Downstream	c.*1018
+2569	2218	C	Downstream	Downstream	c.*1019
+2570	2219	A	Downstream	Downstream	c.*1020
+2571	2220	A	Downstream	Downstream	c.*1021
+2572	2221	G	Downstream	Downstream	c.*1022
+2573	2222	A	Downstream	Downstream	c.*1023
+2574	2223	G	Downstream	Downstream	c.*1024
+2575	2224	A	Downstream	Downstream	c.*1025
+2576	2225	A	Downstream	Downstream	c.*1026
+2577	2226	G	Downstream	Downstream	c.*1027
+2578	2227	A	Downstream	Downstream	c.*1028
+2579	2228	A	Downstream	Downstream	c.*1029
+2580	2229	T	Downstream	Downstream	c.*1030
+2581	2230	T	Downstream	Downstream	c.*1031
+2582	2231	T	Downstream	Downstream	c.*1032
+2583	2232	C	Downstream	Downstream	c.*1033
+2584	2233	A	Downstream	Downstream	c.*1034
+2585	2234	G	Downstream	Downstream	c.*1035
+2586	2235	T	Downstream	Downstream	c.*1036
+2587	2236	C	Downstream	Downstream	c.*1037
+2588	2237	C	Downstream	Downstream	c.*1038
+2589	2238	A	Downstream	Downstream	c.*1039
+2590	2239	G	Downstream	Downstream	c.*1040
+2591	2240	G	Downstream	Downstream	c.*1041
+2592	2241	A	Downstream	Downstream	c.*1042
+2593	2242	T	Downstream	Downstream	c.*1043
+2594	2243	T	Downstream	Downstream	c.*1044
+2595	2244	G	Downstream	Downstream	c.*1045
+2596	2245	G	Downstream	Downstream	c.*1046
+2597	2246	G	Downstream	Downstream	c.*1047
+2598	2247	A	Downstream	Downstream	c.*1048
+2599	2248	G	Downstream	Downstream	c.*1049
+2600	2249	A	Downstream	Downstream	c.*1050
+2601	2250	A	Downstream	Downstream	c.*1051
+2602	2251	A	Downstream	Downstream	c.*1052
+2603	2252	G	Downstream	Downstream	c.*1053
+2604	2253	A	Downstream	Downstream	c.*1054
+2605	2254	G	Downstream	Downstream	c.*1055
+2606	2255	A	Downstream	Downstream	c.*1056
+2607	2256	G	Downstream	Downstream	c.*1057
+2608	2257	A	Downstream	Downstream	c.*1058
+2609	2258	A	Downstream	Downstream	c.*1059
+2610	2259	G	Downstream	Downstream	c.*1060
+2611	2260	A	Downstream	Downstream	c.*1061
+2612	2261	T	Downstream	Downstream	c.*1062
+2613	2262	G	Downstream	Downstream	c.*1063
+2614	2263	G	Downstream	Downstream	c.*1064
+2615	2264	G	Downstream	Downstream	c.*1065
+2616	2265	G	Downstream	Downstream	c.*1066
+2617	2266	G	Downstream	Downstream	c.*1067
+2618	2267	C	Downstream	Downstream	c.*1068
+2619	2268	A	Downstream	Downstream	c.*1069
+2620	2269	A	Downstream	Downstream	c.*1070
+2621	2270	A	Downstream	Downstream	c.*1071
+2622	2271	C	Downstream	Downstream	c.*1072
+2623	2272	A	Downstream	Downstream	c.*1073
+2624	2273	T	Downstream	Downstream	c.*1074
+2625	2274	A	Downstream	Downstream	c.*1075
+2626	2275	G	Downstream	Downstream	c.*1076
+2627	2276	G	Downstream	Downstream	c.*1077
+2628	2277	A	Downstream	Downstream	c.*1078
+2629	2278	A	Downstream	Downstream	c.*1079
+2630	2279	T	Downstream	Downstream	c.*1080
+2631	2280	G	Downstream	Downstream	c.*1081
+2632	2281	T	Downstream	Downstream	c.*1082
+2633	2282	G	Downstream	Downstream	c.*1083
+2634	2283	C	Downstream	Downstream	c.*1084
+2635	2284	A	Downstream	Downstream	c.*1085
+2636	2285	G	Downstream	Downstream	c.*1086
+2637	2286	A	Downstream	Downstream	c.*1087
+2638	2287	G	Downstream	Downstream	c.*1088
+2639	2288	C	Downstream	Downstream	c.*1089
+2640	2289	C	Downstream	Downstream	c.*1090
+2641	2290	C	Downstream	Downstream	c.*1091
+2642	2291	T	Downstream	Downstream	c.*1092
+2643	2292	G	Downstream	Downstream	c.*1093
+2644	2293	T	Downstream	Downstream	c.*1094
+2645	2294	G	Downstream	Downstream	c.*1095
+2646	2295	G	Downstream	Downstream	c.*1096
+2647	2296	G	Downstream	Downstream	c.*1097
+2648	2297	G	Downstream	Downstream	c.*1098
+2649	2298	A	Downstream	Downstream	c.*1099
+2650	2299	T	Downstream	Downstream	c.*1100
+2651	2300	T	Downstream	Downstream	c.*1101
+2652	2301	A	Downstream	Downstream	c.*1102
+2653	2302	G	Downstream	Downstream	c.*1103
+2654	2303	A	Downstream	Downstream	c.*1104
+2655	2304	G	Downstream	Downstream	c.*1105
+2656	2305	A	Downstream	Downstream	c.*1106
+2657	2306	A	Downstream	Downstream	c.*1107
+2658	2307	G	Downstream	Downstream	c.*1108
+2659	2308	A	Downstream	Downstream	c.*1109
+2660	2309	G	Downstream	Downstream	c.*1110
+2661	2310	G	Downstream	Downstream	c.*1111
+2662	2311	T	Downstream	Downstream	c.*1112
+2663	2312	G	Downstream	Downstream	c.*1113
+2664	2313	A	Downstream	Downstream	c.*1114
+2665	2314	T	Downstream	Downstream	c.*1115
+2666	2315	G	Downstream	Downstream	c.*1116
+2667	2316	A	Downstream	Downstream	c.*1117
+2668	2317	G	Downstream	Downstream	c.*1118
+2669	2318	T	Downstream	Downstream	c.*1119
+2670	2319	C	Downstream	Downstream	c.*1120
+2671	2320	A	Downstream	Downstream	c.*1121
+2672	2321	T	Downstream	Downstream	c.*1122
+2673	2322	C	Downstream	Downstream	c.*1123
+2674	2323	A	Downstream	Downstream	c.*1124
+2675	2324	G	Downstream	Downstream	c.*1125
+2676	2325	G	Downstream	Downstream	c.*1126
+2677	2326	G	Downstream	Downstream	c.*1127
+2678	2327	A	Downstream	Downstream	c.*1128
+2679	2328	A	Downstream	Downstream	c.*1129
+2680	2329	T	Downstream	Downstream	c.*1130
+2681	2330	C	Downstream	Downstream	c.*1131
+2682	2331	C	Downstream	Downstream	c.*1132
+2683	2332	C	Downstream	Downstream	c.*1133
+2684	2333	T	Downstream	Downstream	c.*1134
+2685	2334	A	Downstream	Downstream	c.*1135
+2686	2335	C	Downstream	Downstream	c.*1136
+2687	2336	C	Downstream	Downstream	c.*1137
+2688	2337	T	Downstream	Downstream	c.*1138
+2689	2338	T	Downstream	Downstream	c.*1139
+2690	2339	C	Downstream	Downstream	c.*1140
+2691	2340	T	Downstream	Downstream	c.*1141
+2692	2341	T	Downstream	Downstream	c.*1142
+2693	2342	A	Downstream	Downstream	c.*1143
+2694	2343	T	Downstream	Downstream	c.*1144
+2695	2344	G	Downstream	Downstream	c.*1145
+2696	2345	G	Downstream	Downstream	c.*1146
+2697	2346	T	Downstream	Downstream	c.*1147
+2698	2347	G	Downstream	Downstream	c.*1148
+2699	2348	G	Downstream	Downstream	c.*1149
+2700	2349	T	Downstream	Downstream	c.*1150
+2701	2350	C	Downstream	Downstream	c.*1151
+2702	2351	A	Downstream	Downstream	c.*1152
+2703	2352	C	Downstream	Downstream	c.*1153
+2704	2353	T	Downstream	Downstream	c.*1154
+2705	2354	A	Downstream	Downstream	c.*1155
+2706	2355	C	Downstream	Downstream	c.*1156
+2707	2356	C	Downstream	Downstream	c.*1157
+2708	2357	A	Downstream	Downstream	c.*1158
+2709	2358	T	Downstream	Downstream	c.*1159
+2710	2359	A	Downstream	Downstream	c.*1160
+2711	2360	A	Downstream	Downstream	c.*1161
+2712	2361	G	Downstream	Downstream	c.*1162
+2713	2362	A	Downstream	Downstream	c.*1163
+2714	2363	G	Downstream	Downstream	c.*1164
+2715	2364	C	Downstream	Downstream	c.*1165
+2716	2365	G	Downstream	Downstream	c.*1166
+2717	2366	A	Downstream	Downstream	c.*1167
+2718	2367	T	Downstream	Downstream	c.*1168
+2719	2368	A	Downstream	Downstream	c.*1169
+2720	2369	A	Downstream	Downstream	c.*1170
+2721	2370	T	Downstream	Downstream	c.*1171
+2722	2371	T	Downstream	Downstream	c.*1172
+2723	2372	G	Downstream	Downstream	c.*1173
+2724	2373	C	Downstream	Downstream	c.*1174
+2725	2374	C	Downstream	Downstream	c.*1175
+2726	2375	A	Downstream	Downstream	c.*1176
+2727	2376	T	Downstream	Downstream	c.*1177
+2728	2377	G	Downstream	Downstream	c.*1178
+2729	2378	G	Downstream	Downstream	c.*1179
+2730	2379	T	Downstream	Downstream	c.*1180
+2731	2380	A	Downstream	Downstream	c.*1181
+2732	2381	A	Downstream	Downstream	c.*1182
+2733	2382	T	Downstream	Downstream	c.*1183
+2734	2383	A	Downstream	Downstream	c.*1184
+2735	2384	T	Downstream	Downstream	c.*1185
+2736	2385	T	Downstream	Downstream	c.*1186
+2737	2386	A	Downstream	Downstream	c.*1187
+2738	2387	G	Downstream	Downstream	c.*1188
+2739	2388	T	Downstream	Downstream	c.*1189
+2740	2389	C	Downstream	Downstream	c.*1190
+2741	2390	T	Downstream	Downstream	c.*1191
+2742	2391	T	Downstream	Downstream	c.*1192
+2743	2392	G	Downstream	Downstream	c.*1193
+2744	2393	A	Downstream	Downstream	c.*1194
+2745	2394	T	Downstream	Downstream	c.*1195
+2746	2395	G	Downstream	Downstream	c.*1196
+2747	2396	A	Downstream	Downstream	c.*1197
+2748	2397	T	Downstream	Downstream	c.*1198
+2749	2398	G	Downstream	Downstream	c.*1199
+2750	2399	C	Downstream	Downstream	c.*1200
+2751	2400	C	Downstream	Downstream	c.*1201
+2752	2401	A	Downstream	Downstream	c.*1202
+2753	2402	G	Downstream	Downstream	c.*1203
+2754	2403	A	Downstream	Downstream	c.*1204
+2755	2404	G	Downstream	Downstream	c.*1205
+2756	2405	C	Downstream	Downstream	c.*1206
+2757	2406	T	Downstream	Downstream	c.*1207
+2758	2407	T	Downstream	Downstream	c.*1208
+2759	2408	T	Downstream	Downstream	c.*1209
+2760	2409	G	Downstream	Downstream	c.*1210
+2761	2410	A	Downstream	Downstream	c.*1211
+2762	2411	T	Downstream	Downstream	c.*1212
+2763	2412	C	Downstream	Downstream	c.*1213
+2764	2413	A	Downstream	Downstream	c.*1214
+2765	2414	T	Downstream	Downstream	c.*1215
+2766	2415	T	Downstream	Downstream	c.*1216
+2767	2416	G	Downstream	Downstream	c.*1217
+2768	2417	G	Downstream	Downstream	c.*1218
+2769	2418	T	Downstream	Downstream	c.*1219
+2770	2419	G	Downstream	Downstream	c.*1220
+2771	2420	G	Downstream	Downstream	c.*1221
+2772	2421	G	Downstream	Downstream	c.*1222
+2773	2422	T	Downstream	Downstream	c.*1223
+2774	2423	A	Downstream	Downstream	c.*1224
+2775	2424	T	Downstream	Downstream	c.*1225
+2776	2425	A	Downstream	Downstream	c.*1226
+2777	2426	G	Downstream	Downstream	c.*1227
+2778	2427	A	Downstream	Downstream	c.*1228
+2779	2428	A	Downstream	Downstream	c.*1229
+2780	2429	A	Downstream	Downstream	c.*1230
+2781	2430	C	Downstream	Downstream	c.*1231
+2782	2431	A	Downstream	Downstream	c.*1232
+2783	2432	T	Downstream	Downstream	c.*1233
+2784	2433	G	Downstream	Downstream	c.*1234
+2785	2434	T	Downstream	Downstream	c.*1235
+2786	2435	T	Downstream	Downstream	c.*1236
+2787	2436	T	Downstream	Downstream	c.*1237
+2788	2437	G	Downstream	Downstream	c.*1238
+2789	2438	G	Downstream	Downstream	c.*1239
+2790	2439	A	Downstream	Downstream	c.*1240
+2791	2440	G	Downstream	Downstream	c.*1241
+2792	2441	A	Downstream	Downstream	c.*1242
+2793	2442	A	Downstream	Downstream	c.*1243
+2794	2443	T	Downstream	Downstream	c.*1244
+2795	2444	A	Downstream	Downstream	c.*1245
+2796	2445	A	Downstream	Downstream	c.*1246
+2797	2446	T	Downstream	Downstream	c.*1247
+2798	2447	A	Downstream	Downstream	c.*1248
+2799	2448	T	Downstream	Downstream	c.*1249
+2800	2449	G	Downstream	Downstream	c.*1250
+2801	2450	T	Downstream	Downstream	c.*1251
+2802	2451	A	Downstream	Downstream	c.*1252
+2803	2452	G	Downstream	Downstream	c.*1253
+2804	2453	A	Downstream	Downstream	c.*1254
+2805	2454	A	Downstream	Downstream	c.*1255
+2806	2455	T	Downstream	Downstream	c.*1256
+2807	2456	A	Downstream	Downstream	c.*1257
+2808	2457	G	Downstream	Downstream	c.*1258
+2809	2458	G	Downstream	Downstream	c.*1259
+2810	2459	A	Downstream	Downstream	c.*1260
+2811	2460	G	Downstream	Downstream	c.*1261
+2812	2461	T	Downstream	Downstream	c.*1262
+2813	2462	T	Downstream	Downstream	c.*1263
+2814	2463	C	Downstream	Downstream	c.*1264
+2815	2464	T	Downstream	Downstream	c.*1265
+2816	2465	T	Downstream	Downstream	c.*1266
+2817	2466	T	Downstream	Downstream	c.*1267
+2818	2467	C	Downstream	Downstream	c.*1268
+2819	2468	C	Downstream	Downstream	c.*1269
+2820	2469	A	Downstream	Downstream	c.*1270
+2821	2470	G	Downstream	Downstream	c.*1271
+2822	2471	G	Downstream	Downstream	c.*1272
+2823	2472	A	Downstream	Downstream	c.*1273
+2824	2473	G	Downstream	Downstream	c.*1274
+2825	2474	A	Downstream	Downstream	c.*1275
+2826	2475	G	Downstream	Downstream	c.*1276
+2827	2476	T	Downstream	Downstream	c.*1277
+2828	2477	G	Downstream	Downstream	c.*1278
+2829	2478	T	Downstream	Downstream	c.*1279
+2830	2479	A	Downstream	Downstream	c.*1280
+2831	2480	G	Downstream	Downstream	c.*1281
+2832	2481	C	Downstream	Downstream	c.*1282
+2833	2482	T	Downstream	Downstream	c.*1283
+2834	2483	T	Downstream	Downstream	c.*1284
+2835	2484	T	Downstream	Downstream	c.*1285
+2836	2485	C	Downstream	Downstream	c.*1286
+2837	2486	T	Downstream	Downstream	c.*1287
+2838	2487	G	Downstream	Downstream	c.*1288
+2839	2488	G	Downstream	Downstream	c.*1289
+2840	2489	A	Downstream	Downstream	c.*1290
+2841	2490	G	Downstream	Downstream	c.*1291
+2842	2491	C	Downstream	Downstream	c.*1292
+2843	2492	T	Downstream	Downstream	c.*1293
+2844	2493	G	Downstream	Downstream	c.*1294
+2845	2494	T	Downstream	Downstream	c.*1295
+2846	2495	C	Downstream	Downstream	c.*1296
+2847	2496	T	Downstream	Downstream	c.*1297
+2848	2497	C	Downstream	Downstream	c.*1298
+2849	2498	T	Downstream	Downstream	c.*1299
+2850	2499	T	Downstream	Downstream	c.*1300
+2851	2500	A	Downstream	Downstream	c.*1301
+2852	2501	A	Downstream	Downstream	c.*1302
+2853	2502	T	Downstream	Downstream	c.*1303
+2854	2503	C	Downstream	Downstream	c.*1304
+2855	2504	A	Downstream	Downstream	c.*1305
+2856	2505	G	Downstream	Downstream	c.*1306
+2857	2506	C	Downstream	Downstream	c.*1307
+2858	2507	A	Downstream	Downstream	c.*1308
+2859	2508	C	Downstream	Downstream	c.*1309
+2860	2509	C	Downstream	Downstream	c.*1310
+2861	2510	A	Downstream	Downstream	c.*1311
+2862	2511	A	Downstream	Downstream	c.*1312
+2863	2512	C	Downstream	Downstream	c.*1313
+2864	2513	A	Downstream	Downstream	c.*1314
+2865	2514	G	Downstream	Downstream	c.*1315
+2866	2515	A	Downstream	Downstream	c.*1316
+2867	2516	A	Downstream	Downstream	c.*1317
+2868	2517	G	Downstream	Downstream	c.*1318
+2869	2518	T	Downstream	Downstream	c.*1319
+2870	2519	G	Downstream	Downstream	c.*1320
+2871	2520	A	Downstream	Downstream	c.*1321
+2872	2521	A	Downstream	Downstream	c.*1322
+2873	2522	A	Downstream	Downstream	c.*1323
+2874	2523	T	Downstream	Downstream	c.*1324
+2875	2524	G	Downstream	Downstream	c.*1325
+2876	2525	T	Downstream	Downstream	c.*1326
+2877	2526	T	Downstream	Downstream	c.*1327
+2878	2527	C	Downstream	Downstream	c.*1328
+2879	2528	G	Downstream	Downstream	c.*1329
+2880	2529	G	Downstream	Downstream	c.*1330
+2881	2530	G	Downstream	Downstream	c.*1331
+2882	2531	T	Downstream	Downstream	c.*1332
+2883	2532	A	Downstream	Downstream	c.*1333
+2884	2533	A	Downstream	Downstream	c.*1334
+2885	2534	G	Downstream	Downstream	c.*1335
+2886	2535	G	Downstream	Downstream	c.*1336
+2887	2536	G	Downstream	Downstream	c.*1337
+2888	2537	C	Downstream	Downstream	c.*1338
+2889	2538	G	Downstream	Downstream	c.*1339
+2890	2539	G	Downstream	Downstream	c.*1340
+2891	2540	A	Downstream	Downstream	c.*1341
+2892	2541	T	Downstream	Downstream	c.*1342
+2893	2542	C	Downstream	Downstream	c.*1343
+2894	2543	T	Downstream	Downstream	c.*1344
+2895	2544	G	Downstream	Downstream	c.*1345
+2896	2545	C	Downstream	Downstream	c.*1346
+2897	2546	T	Downstream	Downstream	c.*1347
+2898	2547	T	Downstream	Downstream	c.*1348
+2899	2548	G	Downstream	Downstream	c.*1349
+2900	2549	G	Downstream	Downstream	c.*1350
+2901	2550	A	Downstream	Downstream	c.*1351
+2902	2551	G	Downstream	Downstream	c.*1352
+2903	2552	C	Downstream	Downstream	c.*1353
+2904	2553	C	Downstream	Downstream	c.*1354
+2905	2554	T	Downstream	Downstream	c.*1355
+2906	2555	G	Downstream	Downstream	c.*1356
+2907	2556	A	Downstream	Downstream	c.*1357
+2908	2557	C	Downstream	Downstream	c.*1358
+2909	2558	G	Downstream	Downstream	c.*1359
+2910	2559	G	Downstream	Downstream	c.*1360
+2911	2560	T	Downstream	Downstream	c.*1361
+2912	2561	T	Downstream	Downstream	c.*1362
+2913	2562	C	Downstream	Downstream	c.*1363
+2914	2563	C	Downstream	Downstream	c.*1364
+2915	2564	C	Downstream	Downstream	c.*1365
+2916	2565	T	Downstream	Downstream	c.*1366
+2917	2566	C	Downstream	Downstream	c.*1367
+2918	2567	T	Downstream	Downstream	c.*1368
+2919	2568	T	Downstream	Downstream	c.*1369
+2920	2569	G	Downstream	Downstream	c.*1370
+2921	2570	A	Downstream	Downstream	c.*1371
+2922	2571	G	Downstream	Downstream	c.*1372
+2923	2572	G	Downstream	Downstream	c.*1373
+2924	2573	T	Downstream	Downstream	c.*1374
+2925	2574	G	Downstream	Downstream	c.*1375
+2926	2575	T	Downstream	Downstream	c.*1376
+2927	2576	G	Downstream	Downstream	c.*1377
+2928	2577	C	Downstream	Downstream	c.*1378
+2929	2578	C	Downstream	Downstream	c.*1379
+2930	2579	T	Downstream	Downstream	c.*1380
+2931	2580	G	Downstream	Downstream	c.*1381
+2932	2581	T	Downstream	Downstream	c.*1382
+2933	2582	G	Downstream	Downstream	c.*1383
+2934	2583	G	Downstream	Downstream	c.*1384
+2935	2584	T	Downstream	Downstream	c.*1385
+2936	2585	A	Downstream	Downstream	c.*1386
+2937	2586	C	Downstream	Downstream	c.*1387
+2938	2587	A	Downstream	Downstream	c.*1388
+2939	2588	C	Downstream	Downstream	c.*1389
+2940	2589	A	Downstream	Downstream	c.*1390
+2941	2590	C	Downstream	Downstream	c.*1391
+2942	2591	C	Downstream	Downstream	c.*1392
+2943	2592	T	Downstream	Downstream	c.*1393
+2944	2593	G	Downstream	Downstream	c.*1394
+2945	2594	A	Downstream	Downstream	c.*1395
+2946	2595	G	Downstream	Downstream	c.*1396
+2947	2596	A	Downstream	Downstream	c.*1397
+2948	2597	A	Downstream	Downstream	c.*1398
+2949	2598	C	Downstream	Downstream	c.*1399
+2950	2599	T	Downstream	Downstream	c.*1400
+2951	2600	C	Downstream	Downstream	c.*1401
+2952	2601	T	Downstream	Downstream	c.*1402
+2953	2602	G	Downstream	Downstream	c.*1403
+2954	2603	G	Downstream	Downstream	c.*1404
+2955	2604	G	Downstream	Downstream	c.*1405
+2956	2605	G	Downstream	Downstream	c.*1406
+2957	2606	C	Downstream	Downstream	c.*1407
+2958	2607	T	Downstream	Downstream	c.*1408
+2959	2608	A	Downstream	Downstream	c.*1409
+2960	2609	A	Downstream	Downstream	c.*1410
+2961	2610	A	Downstream	Downstream	c.*1411
+2962	2611	A	Downstream	Downstream	c.*1412
+2963	2612	C	Downstream	Downstream	c.*1413
+2964	2613	C	Downstream	Downstream	c.*1414
+2965	2614	T	Downstream	Downstream	c.*1415
+2966	2615	A	Downstream	Downstream	c.*1416
+2967	2616	T	Downstream	Downstream	c.*1417
+2968	2617	T	Downstream	Downstream	c.*1418
+2969	2618	G	Downstream	Downstream	c.*1419
+2970	2619	G	Downstream	Downstream	c.*1420
+2971	2620	A	Downstream	Downstream	c.*1421
+2972	2621	C	Downstream	Downstream	c.*1422
+2973	2622	A	Downstream	Downstream	c.*1423
+2974	2623	T	Downstream	Downstream	c.*1424
+2975	2624	A	Downstream	Downstream	c.*1425
+2976	2625	G	Downstream	Downstream	c.*1426
+2977	2626	G	Downstream	Downstream	c.*1427
+2978	2627	T	Downstream	Downstream	c.*1428
+2979	2628	T	Downstream	Downstream	c.*1429
+2980	2629	T	Downstream	Downstream	c.*1430
+2981	2630	T	Downstream	Downstream	c.*1431
+2982	2631	A	Downstream	Downstream	c.*1432
+2983	2632	C	Downstream	Downstream	c.*1433
+2984	2633	A	Downstream	Downstream	c.*1434
+2985	2634	G	Downstream	Downstream	c.*1435
+2986	2635	A	Downstream	Downstream	c.*1436
+2987	2636	T	Downstream	Downstream	c.*1437
+2988	2637	C	Downstream	Downstream	c.*1438
+2989	2638	T	Downstream	Downstream	c.*1439
+2990	2639	A	Downstream	Downstream	c.*1440
+2991	2640	C	Downstream	Downstream	c.*1441
+2992	2641	A	Downstream	Downstream	c.*1442
+2993	2642	G	Downstream	Downstream	c.*1443
+2994	2643	G	Downstream	Downstream	c.*1444
+2995	2644	A	Downstream	Downstream	c.*1445
+2996	2645	T	Downstream	Downstream	c.*1446
+2997	2646	A	Downstream	Downstream	c.*1447
+2998	2647	C	Downstream	Downstream	c.*1448
+2999	2648	A	Downstream	Downstream	c.*1449
+3000	2649	G	Downstream	Downstream	c.*1450
+3001	2650	A	Downstream	Downstream	c.*1451
+3002	2651	T	Downstream	Downstream	c.*1452
+3003	2652	C	Downstream	Downstream	c.*1453
+3004	2653	T	Downstream	Downstream	c.*1454
+3005	2654	C	Downstream	Downstream	c.*1455
+3006	2655	A	Downstream	Downstream	c.*1456
+3007	2656	G	Downstream	Downstream	c.*1457
+3008	2657	A	Downstream	Downstream	c.*1458
+3009	2658	G	Downstream	Downstream	c.*1459
+3010	2659	A	Downstream	Downstream	c.*1460
+3011	2660	T	Downstream	Downstream	c.*1461
+3012	2661	T	Downstream	Downstream	c.*1462
+3013	2662	T	Downstream	Downstream	c.*1463
+3014	2663	T	Downstream	Downstream	c.*1464
+3015	2664	A	Downstream	Downstream	c.*1465
+3016	2665	T	Downstream	Downstream	c.*1466
+3017	2666	T	Downstream	Downstream	c.*1467
+3018	2667	T	Downstream	Downstream	c.*1468
+3019	2668	G	Downstream	Downstream	c.*1469
+3020	2669	T	Downstream	Downstream	c.*1470
+3021	2670	A	Downstream	Downstream	c.*1471
+3022	2671	T	Downstream	Downstream	c.*1472
+3023	2672	T	Downstream	Downstream	c.*1473
+3024	2673	C	Downstream	Downstream	c.*1474
+3025	2674	A	Downstream	Downstream	c.*1475
+3026	2675	T	Downstream	Downstream	c.*1476
+3027	2676	T	Downstream	Downstream	c.*1477
+3028	2677	T	Downstream	Downstream	c.*1478
+3029	2678	A	Downstream	Downstream	c.*1479
+3030	2679	A	Downstream	Downstream	c.*1480
+3031	2680	T	Downstream	Downstream	c.*1481
+3032	2681	A	Downstream	Downstream	c.*1482
+3033	2682	T	Downstream	Downstream	c.*1483
+3034	2683	A	Downstream	Downstream	c.*1484
+3035	2684	A	Downstream	Downstream	c.*1485
+3036	2685	A	Downstream	Downstream	c.*1486
+3037	2686	T	Downstream	Downstream	c.*1487
+3038	2687	T	Downstream	Downstream	c.*1488
+3039	2688	A	Downstream	Downstream	c.*1489
+3040	2689	A	Downstream	Downstream	c.*1490
+3041	2690	C	Downstream	Downstream	c.*1491
+3042	2691	T	Downstream	Downstream	c.*1492
+3043	2692	G	Downstream	Downstream	c.*1493
+3044	2693	C	Downstream	Downstream	c.*1494
+3045	2694	T	Downstream	Downstream	c.*1495
+3046	2695	C	Downstream	Downstream	c.*1496
+3047	2696	T	Downstream	Downstream	c.*1497
+3048	2697	A	Downstream	Downstream	c.*1498
+3049	2698	A	Downstream	Downstream	c.*1499
+3050	2699	A	Downstream	Downstream	c.*1500
+3051	2700	A	Downstream	Downstream	c.*1501
+3052	2701	T	Downstream	Downstream	c.*1502
+3053	2702	T	Downstream	Downstream	c.*1503
+3054	2703	T	Downstream	Downstream	c.*1504
+3055	2704	A	Downstream	Downstream	c.*1505
+3056	2705	T	Downstream	Downstream	c.*1506
+3057	2706	A	Downstream	Downstream	c.*1507
+3058	2707	A	Downstream	Downstream	c.*1508
+3059	2708	T	Downstream	Downstream	c.*1509
+3060	2709	A	Downstream	Downstream	c.*1510
+3061	2710	T	Downstream	Downstream	c.*1511
+3062	2711	G	Downstream	Downstream	c.*1512
+3063	2712	C	Downstream	Downstream	c.*1513
+3064	2713	A	Downstream	Downstream	c.*1514
+3065	2714	A	Downstream	Downstream	c.*1515
+3066	2715	A	Downstream	Downstream	c.*1516
+3067	2716	T	Downstream	Downstream	c.*1517
+3068	2717	A	Downstream	Downstream	c.*1518
+3069	2718	T	Downstream	Downstream	c.*1519
+3070	2719	C	Downstream	Downstream	c.*1520
+3071	2720	A	Downstream	Downstream	c.*1521
+3072	2721	T	Downstream	Downstream	c.*1522
+3073	2722	A	Downstream	Downstream	c.*1523
+3074	2723	C	Downstream	Downstream	c.*1524
+3075	2724	A	Downstream	Downstream	c.*1525
+3076	2725	A	Downstream	Downstream	c.*1526
+3077	2726	T	Downstream	Downstream	c.*1527
+3078	2727	T	Downstream	Downstream	c.*1528
+3079	2728	A	Downstream	Downstream	c.*1529
+3080	2729	A	Downstream	Downstream	c.*1530
+3081	2730	T	Downstream	Downstream	c.*1531
+3082	2731	C	Downstream	Downstream	c.*1532
+3083	2732	T	Downstream	Downstream	c.*1533
+3084	2733	A	Downstream	Downstream	c.*1534
+3085	2734	A	Downstream	Downstream	c.*1535
+3086	2735	T	Downstream	Downstream	c.*1536
+3087	2736	T	Downstream	Downstream	c.*1537
+3088	2737	A	Downstream	Downstream	c.*1538
+3089	2738	G	Downstream	Downstream	c.*1539
+3090	2739	G	Downstream	Downstream	c.*1540
+3091	2740	T	Downstream	Downstream	c.*1541
+3092	2741	G	Downstream	Downstream	c.*1542
+3093	2742	T	Downstream	Downstream	c.*1543
+3094	2743	T	Downstream	Downstream	c.*1544
+3095	2744	G	Downstream	Downstream	c.*1545
+3096	2745	A	Downstream	Downstream	c.*1546
+3097	2746	A	Downstream	Downstream	c.*1547
+3098	2747	T	Downstream	Downstream	c.*1548
+3099	2748	C	Downstream	Downstream	c.*1549
+3100	2749	T	Downstream	Downstream	c.*1550
+3101	2750	A	Downstream	Downstream	c.*1551
+3102	2751	T	Downstream	Downstream	c.*1552
+3103	2752	A	Downstream	Downstream	c.*1553
+3104	2753	A	Downstream	Downstream	c.*1554
+3105	2754	T	Downstream	Downstream	c.*1555
+3106	2755	G	Downstream	Downstream	c.*1556
+3107	2756	T	Downstream	Downstream	c.*1557
+3108	2757	G	Downstream	Downstream	c.*1558
+3109	2758	C	Downstream	Downstream	c.*1559
+3110	2759	C	Downstream	Downstream	c.*1560
+3111	2760	A	Downstream	Downstream	c.*1561
+3112	2761	G	Downstream	Downstream	c.*1562
+3113	2762	G	Downstream	Downstream	c.*1563
+3114	2763	C	Downstream	Downstream	c.*1564
+3115	2764	A	Downstream	Downstream	c.*1565
+3116	2765	T	Downstream	Downstream	c.*1566
+3117	2766	T	Downstream	Downstream	c.*1567
+3118	2767	A	Downstream	Downstream	c.*1568
+3119	2768	T	Downstream	Downstream	c.*1569
+3120	2769	G	Downstream	Downstream	c.*1570
+3121	2770	T	Downstream	Downstream	c.*1571
+3122	2771	A	Downstream	Downstream	c.*1572
+3123	2772	A	Downstream	Downstream	c.*1573
+3124	2773	G	Downstream	Downstream	c.*1574
+3125	2774	G	Downstream	Downstream	c.*1575
+3126	2775	C	Downstream	Downstream	c.*1576
+3127	2776	A	Downstream	Downstream	c.*1577
+3128	2777	C	Downstream	Downstream	c.*1578
+3129	2778	T	Downstream	Downstream	c.*1579
+3130	2779	T	Downstream	Downstream	c.*1580
+3131	2780	T	Downstream	Downstream	c.*1581
+3132	2781	A	Downstream	Downstream	c.*1582
+3133	2782	C	Downstream	Downstream	c.*1583
+3134	2783	A	Downstream	Downstream	c.*1584
+3135	2784	T	Downstream	Downstream	c.*1585
+3136	2785	A	Downstream	Downstream	c.*1586
+3137	2786	C	Downstream	Downstream	c.*1587
+3138	2787	A	Downstream	Downstream	c.*1588
+3139	2788	C	Downstream	Downstream	c.*1589
+3140	2789	T	Downstream	Downstream	c.*1590
+3141	2790	A	Downstream	Downstream	c.*1591
+3142	2791	A	Downstream	Downstream	c.*1592
+3143	2792	A	Downstream	Downstream	c.*1593
+3144	2793	T	Downstream	Downstream	c.*1594
+3145	2794	C	Downstream	Downstream	c.*1595
+3146	2795	T	Downstream	Downstream	c.*1596
+3147	2796	T	Downstream	Downstream	c.*1597
+3148	2797	T	Downstream	Downstream	c.*1598
+3149	2798	A	Downstream	Downstream	c.*1599
+3150	2799	T	Downstream	Downstream	c.*1600
+3151	2800	T	Downstream	Downstream	c.*1601
+3152	2801	C	Downstream	Downstream	c.*1602
+3153	2802	C	Downstream	Downstream	c.*1603
+3154	2803	A	Downstream	Downstream	c.*1604
+3155	2804	A	Downstream	Downstream	c.*1605
+3156	2805	A	Downstream	Downstream	c.*1606
+3157	2806	T	Downstream	Downstream	c.*1607
+3158	2807	A	Downstream	Downstream	c.*1608
+3159	2808	T	Downstream	Downstream	c.*1609
+3160	2809	A	Downstream	Downstream	c.*1610
+3161	2810	G	Downstream	Downstream	c.*1611
+3162	2811	A	Downstream	Downstream	c.*1612
+3163	2812	C	Downstream	Downstream	c.*1613
+3164	2813	T	Downstream	Downstream	c.*1614
+3165	2814	T	Downstream	Downstream	c.*1615
+3166	2815	C	Downstream	Downstream	c.*1616
+3167	2816	T	Downstream	Downstream	c.*1617
+3168	2817	T	Downstream	Downstream	c.*1618
+3169	2818	A	Downstream	Downstream	c.*1619
+3170	2819	C	Downstream	Downstream	c.*1620
+3171	2820	T	Downstream	Downstream	c.*1621
+3172	2821	T	Downstream	Downstream	c.*1622
+3173	2822	T	Downstream	Downstream	c.*1623
+3174	2823	A	Downstream	Downstream	c.*1624
+3175	2824	T	Downstream	Downstream	c.*1625
+3176	2825	A	Downstream	Downstream	c.*1626
+3177	2826	G	Downstream	Downstream	c.*1627
+3178	2827	A	Downstream	Downstream	c.*1628
+3179	2828	T	Downstream	Downstream	c.*1629
+3180	2829	G	Downstream	Downstream	c.*1630
+3181	2830	A	Downstream	Downstream	c.*1631
+3182	2831	G	Downstream	Downstream	c.*1632
+3183	2832	T	Downstream	Downstream	c.*1633
+3184	2833	G	Downstream	Downstream	c.*1634
+3185	2834	C	Downstream	Downstream	c.*1635
+3186	2835	A	Downstream	Downstream	c.*1636
+3187	2836	C	Downstream	Downstream	c.*1637
+3188	2837	T	Downstream	Downstream	c.*1638
+3189	2838	G	Downstream	Downstream	c.*1639
+3190	2839	A	Downstream	Downstream	c.*1640
+3191	2840	T	Downstream	Downstream	c.*1641
+3192	2841	G	Downstream	Downstream	c.*1642
+3193	2842	C	Downstream	Downstream	c.*1643
+3194	2843	T	Downstream	Downstream	c.*1644
+3195	2844	C	Downstream	Downstream	c.*1645
+3196	2845	A	Downstream	Downstream	c.*1646
+3197	2846	G	Downstream	Downstream	c.*1647
+3198	2847	A	Downstream	Downstream	c.*1648
+3199	2848	A	Downstream	Downstream	c.*1649
+3200	2849	A	Downstream	Downstream	c.*1650
+3201	2850	T	Downstream	Downstream	c.*1651
+3202	2851	G	Downstream	Downstream	c.*1652
+3203	2852	G	Downstream	Downstream	c.*1653
+3204	2853	T	Downstream	Downstream	c.*1654
+3205	2854	A	Downstream	Downstream	c.*1655
+3206	2855	A	Downstream	Downstream	c.*1656
+3207	2856	A	Downstream	Downstream	c.*1657
+3208	2857	T	Downstream	Downstream	c.*1658
+3209	2858	A	Downstream	Downstream	c.*1659
+3210	2859	A	Downstream	Downstream	c.*1660
+3211	2860	C	Downstream	Downstream	c.*1661
+3212	2861	C	Downstream	Downstream	c.*1662
+3213	2862	T	Downstream	Downstream	c.*1663
+3214	2863	A	Downstream	Downstream	c.*1664
+3215	2864	C	Downstream	Downstream	c.*1665
+3216	2865	T	Downstream	Downstream	c.*1666
+3217	2866	G	Downstream	Downstream	c.*1667
+3218	2867	A	Downstream	Downstream	c.*1668
+3219	2868	T	Downstream	Downstream	c.*1669
+3220	2869	G	Downstream	Downstream	c.*1670
+3221	2870	T	Downstream	Downstream	c.*1671
+3222	2871	T	Downstream	Downstream	c.*1672
+3223	2872	T	Downstream	Downstream	c.*1673
+3224	2873	A	Downstream	Downstream	c.*1674
+3225	2874	T	Downstream	Downstream	c.*1675
+3226	2875	A	Downstream	Downstream	c.*1676
+3227	2876	C	Downstream	Downstream	c.*1677
+3228	2877	T	Downstream	Downstream	c.*1678
+3229	2878	G	Downstream	Downstream	c.*1679
+3230	2879	C	Downstream	Downstream	c.*1680
+3231	2880	T	Downstream	Downstream	c.*1681
+3232	2881	G	Downstream	Downstream	c.*1682
+3233	2882	G	Downstream	Downstream	c.*1683
+3234	2883	C	Downstream	Downstream	c.*1684
+3235	2884	A	Downstream	Downstream	c.*1685
+3236	2885	G	Downstream	Downstream	c.*1686
+3237	2886	G	Downstream	Downstream	c.*1687
+3238	2887	T	Downstream	Downstream	c.*1688
+3239	2888	A	Downstream	Downstream	c.*1689
+3240	2889	G	Downstream	Downstream	c.*1690
+3241	2890	C	Downstream	Downstream	c.*1691
+3242	2891	A	Downstream	Downstream	c.*1692
+3243	2892	G	Downstream	Downstream	c.*1693
+3244	2893	A	Downstream	Downstream	c.*1694
+3245	2894	G	Downstream	Downstream	c.*1695
+3246	2895	A	Downstream	Downstream	c.*1696
+3247	2896	C	Downstream	Downstream	c.*1697
+3248	2897	A	Downstream	Downstream	c.*1698
+3249	2898	T	Downstream	Downstream	c.*1699
+3250	2899	A	Downstream	Downstream	c.*1700
+3251	2900	T	Downstream	Downstream	c.*1701
+3252	2901	C	Downstream	Downstream	c.*1702
+3253	2902	G	Downstream	Downstream	c.*1703
+3254	2903	G	Downstream	Downstream	c.*1704
+3255	2904	C	Downstream	Downstream	c.*1705
+3256	2905	A	Downstream	Downstream	c.*1706
+3257	2906	T	Downstream	Downstream	c.*1707
+3258	2907	T	Downstream	Downstream	c.*1708
+3259	2908	T	Downstream	Downstream	c.*1709
+3260	2909	A	Downstream	Downstream	c.*1710
+3261	2910	A	Downstream	Downstream	c.*1711
+3262	2911	G	Downstream	Downstream	c.*1712
+3263	2912	T	Downstream	Downstream	c.*1713
+3264	2913	C	Downstream	Downstream	c.*1714
+3265	2914	T	Downstream	Downstream	c.*1715
+3266	2915	T	Downstream	Downstream	c.*1716
+3267	2916	T	Downstream	Downstream	c.*1717
+3268	2917	C	Downstream	Downstream	c.*1718
+3269	2918	A	Downstream	Downstream	c.*1719
+3270	2919	G	Downstream	Downstream	c.*1720
+3271	2920	A	Downstream	Downstream	c.*1721
+3272	2921	C	Downstream	Downstream	c.*1722
+3273	2922	T	Downstream	Downstream	c.*1723
+3274	2923	T	Downstream	Downstream	c.*1724
+3275	2924	C	Downstream	Downstream	c.*1725
+3276	2925	A	Downstream	Downstream	c.*1726
+3277	2926	A	Downstream	Downstream	c.*1727
+3278	2927	A	Downstream	Downstream	c.*1728
+3279	2928	G	Downstream	Downstream	c.*1729
+3280	2929	G	Downstream	Downstream	c.*1730
+3281	2930	C	Downstream	Downstream	c.*1731
+3282	2931	C	Downstream	Downstream	c.*1732
+3283	2932	A	Downstream	Downstream	c.*1733
+3284	2933	T	Downstream	Downstream	c.*1734
+3285	2934	G	Downstream	Downstream	c.*1735
+3286	2935	A	Downstream	Downstream	c.*1736
+3287	2936	T	Downstream	Downstream	c.*1737
+3288	2937	A	Downstream	Downstream	c.*1738
+3289	2938	T	Downstream	Downstream	c.*1739
+3290	2939	T	Downstream	Downstream	c.*1740
+3291	2940	T	Downstream	Downstream	c.*1741
+3292	2941	C	Downstream	Downstream	c.*1742
+3293	2942	A	Downstream	Downstream	c.*1743
+3294	2943	T	Downstream	Downstream	c.*1744
+3295	2944	C	Downstream	Downstream	c.*1745
+3296	2945	A	Downstream	Downstream	c.*1746
+3297	2946	G	Downstream	Downstream	c.*1747
+3298	2947	A	Downstream	Downstream	c.*1748
+3299	2948	G	Downstream	Downstream	c.*1749
+3300	2949	C	Downstream	Downstream	c.*1750
+3301	2950	T	Downstream	Downstream	c.*1751
+3302	2951	G	Downstream	Downstream	c.*1752
+3303	2952	T	Downstream	Downstream	c.*1753
+3304	2953	G	Downstream	Downstream	c.*1754
+3305	2954	A	Downstream	Downstream	c.*1755
+3306	2955	T	Downstream	Downstream	c.*1756
+3307	2956	A	Downstream	Downstream	c.*1757
+3308	2957	G	Downstream	Downstream	c.*1758
+3309	2958	C	Downstream	Downstream	c.*1759
+3310	2959	C	Downstream	Downstream	c.*1760
+3311	2960	G	Downstream	Downstream	c.*1761
+3312	2961	T	Downstream	Downstream	c.*1762
+3313	2962	T	Downstream	Downstream	c.*1763
+3314	2963	C	Downstream	Downstream	c.*1764
+3315	2964	C	Downstream	Downstream	c.*1765
+3316	2965	T	Downstream	Downstream	c.*1766
+3317	2966	G	Downstream	Downstream	c.*1767
+3318	2967	A	Downstream	Downstream	c.*1768
+3319	2968	A	Downstream	Downstream	c.*1769
+3320	2969	A	Downstream	Downstream	c.*1770
+3321	2970	A	Downstream	Downstream	c.*1771
+3322	2971	A	Downstream	Downstream	c.*1772
+3323	2972	A	Downstream	Downstream	c.*1773
+3324	2973	A	Downstream	Downstream	c.*1774
+3325	2974	T	Downstream	Downstream	c.*1775
+3326	2975	A	Downstream	Downstream	c.*1776
+3327	2976	T	Downstream	Downstream	c.*1777
+3328	2977	C	Downstream	Downstream	c.*1778
+3329	2978	A	Downstream	Downstream	c.*1779
+3330	2979	G	Downstream	Downstream	c.*1780
+3331	2980	C	Downstream	Downstream	c.*1781
+3332	2981	T	Downstream	Downstream	c.*1782
+3333	2982	G	Downstream	Downstream	c.*1783
+3334	2983	A	Downstream	Downstream	c.*1784
+3335	2984	T	Downstream	Downstream	c.*1785
+3336	2985	T	Downstream	Downstream	c.*1786
+3337	2986	C	Downstream	Downstream	c.*1787
+3338	2987	T	Downstream	Downstream	c.*1788
+3339	2988	T	Downstream	Downstream	c.*1789
+3340	2989	T	Downstream	Downstream	c.*1790
+3341	2990	A	Downstream	Downstream	c.*1791
+3342	2991	A	Downstream	Downstream	c.*1792
+3343	2992	A	Downstream	Downstream	c.*1793
+3344	2993	T	Downstream	Downstream	c.*1794
+3345	2994	C	Downstream	Downstream	c.*1795
+3346	2995	A	Downstream	Downstream	c.*1796
+3347	2996	A	Downstream	Downstream	c.*1797
+3348	2997	T	Downstream	Downstream	c.*1798
+3349	2998	T	Downstream	Downstream	c.*1799
+3350	2999	T	Downstream	Downstream	c.*1800
+3351	3000	T	Downstream	Downstream	c.*1801
+3352	3001	T	Downstream	Downstream	c.*1802
+3353	3002	G	Downstream	Downstream	c.*1803
+3354	3003	T	Downstream	Downstream	c.*1804
+3355	3004	C	Downstream	Downstream	c.*1805
+3356	3005	A	Downstream	Downstream	c.*1806
+3357	3006	T	Downstream	Downstream	c.*1807
+3358	3007	C	Downstream	Downstream	c.*1808
+3359	3008	T	Downstream	Downstream	c.*1809
+3360	3009	A	Downstream	Downstream	c.*1810
+3361	3010	A	Downstream	Downstream	c.*1811
+3362	3011	C	Downstream	Downstream	c.*1812
+3363	3012	T	Downstream	Downstream	c.*1813
+3364	3013	G	Downstream	Downstream	c.*1814
+3365	3014	A	Downstream	Downstream	c.*1815
+3366	3015	T	Downstream	Downstream	c.*1816
+3367	3016	G	Downstream	Downstream	c.*1817
+3368	3017	C	Downstream	Downstream	c.*1818
+3369	3018	G	Downstream	Downstream	c.*1819
+3370	3019	T	Downstream	Downstream	c.*1820
+3371	3020	G	Downstream	Downstream	c.*1821
+3372	3021	G	Downstream	Downstream	c.*1822
+3373	3022	C	Downstream	Downstream	c.*1823
+3374	3023	T	Downstream	Downstream	c.*1824
+3375	3024	G	Downstream	Downstream	c.*1825
+3376	3025	T	Downstream	Downstream	c.*1826
+3377	3026	T	Downstream	Downstream	c.*1827
+3378	3027	A	Downstream	Downstream	c.*1828
+3379	3028	G	Downstream	Downstream	c.*1829
+3380	3029	C	Downstream	Downstream	c.*1830
+3381	3030	A	Downstream	Downstream	c.*1831
+3382	3031	T	Downstream	Downstream	c.*1832
+3383	3032	A	Downstream	Downstream	c.*1833
+3384	3033	A	Downstream	Downstream	c.*1834
+3385	3034	T	Downstream	Downstream	c.*1835
+3386	3035	A	Downstream	Downstream	c.*1836
+3387	3036	T	Downstream	Downstream	c.*1837
+3388	3037	T	Downstream	Downstream	c.*1838
+3389	3038	G	Downstream	Downstream	c.*1839
+3390	3039	A	Downstream	Downstream	c.*1840
+3391	3040	T	Downstream	Downstream	c.*1841
+3392	3041	C	Downstream	Downstream	c.*1842
+3393	3042	T	Downstream	Downstream	c.*1843
+3394	3043	T	Downstream	Downstream	c.*1844
+3395	3044	G	Downstream	Downstream	c.*1845
+3396	3045	A	Downstream	Downstream	c.*1846
+3397	3046	A	Downstream	Downstream	c.*1847
+3398	3047	A	Downstream	Downstream	c.*1848
+3399	3048	G	Downstream	Downstream	c.*1849
+3400	3049	A	Downstream	Downstream	c.*1850
+3401	3050	T	Downstream	Downstream	c.*1851
+3402	3051	G	Downstream	Downstream	c.*1852
+3403	3052	T	Downstream	Downstream	c.*1853
+3404	3053	T	Downstream	Downstream	c.*1854
+3405	3054	T	Downstream	Downstream	c.*1855
+3406	3055	T	Downstream	Downstream	c.*1856
+3407	3056	G	Downstream	Downstream	c.*1857
+3408	3057	C	Downstream	Downstream	c.*1858
+3409	3058	A	Downstream	Downstream	c.*1859
+3410	3059	A	Downstream	Downstream	c.*1860
+3411	3060	C	Downstream	Downstream	c.*1861
+3412	3061	A	Downstream	Downstream	c.*1862
+3413	3062	T	Downstream	Downstream	c.*1863
+3414	3063	C	Downstream	Downstream	c.*1864
+3415	3064	T	Downstream	Downstream	c.*1865
+3416	3065	T	Downstream	Downstream	c.*1866
+3417	3066	T	Downstream	Downstream	c.*1867
+3418	3067	C	Downstream	Downstream	c.*1868
+3419	3068	C	Downstream	Downstream	c.*1869
+3420	3069	C	Downstream	Downstream	c.*1870
+3421	3070	C	Downstream	Downstream	c.*1871
+3422	3071	T	Downstream	Downstream	c.*1872
+3423	3072	G	Downstream	Downstream	c.*1873
+3424	3073	G	Downstream	Downstream	c.*1874
+3425	3074	T	Downstream	Downstream	c.*1875
+3426	3075	G	Downstream	Downstream	c.*1876
+3427	3076	T	Downstream	Downstream	c.*1877
+3428	3077	A	Downstream	Downstream	c.*1878
+3429	3078	C	Downstream	Downstream	c.*1879
+3430	3079	T	Downstream	Downstream	c.*1880
+3431	3080	C	Downstream	Downstream	c.*1881
+3432	3081	T	Downstream	Downstream	c.*1882
+3433	3082	T	Downstream	Downstream	c.*1883
+3434	3083	G	Downstream	Downstream	c.*1884
+3435	3084	T	Downstream	Downstream	c.*1885
+3436	3085	T	Downstream	Downstream	c.*1886
+3437	3086	T	Downstream	Downstream	c.*1887
+3438	3087	T	Downstream	Downstream	c.*1888
+3439	3088	T	Downstream	Downstream	c.*1889
+3440	3089	C	Downstream	Downstream	c.*1890
+3441	3090	C	Downstream	Downstream	c.*1891
+3442	3091	A	Downstream	Downstream	c.*1892
+3443	3092	T	Downstream	Downstream	c.*1893
+3444	3093	G	Downstream	Downstream	c.*1894
+3445	3094	A	Downstream	Downstream	c.*1895
+3446	3095	T	Downstream	Downstream	c.*1896
+3447	3096	C	Downstream	Downstream	c.*1897
+3448	3097	C	Downstream	Downstream	c.*1898
+3449	3098	C	Downstream	Downstream	c.*1899
+3450	3099	A	Downstream	Downstream	c.*1900
+3451	3100	C	Downstream	Downstream	c.*1901
+3452	3101	A	Downstream	Downstream	c.*1902
+3453	3102	A	Downstream	Downstream	c.*1903
+3454	3103	A	Downstream	Downstream	c.*1904
+3455	3104	A	Downstream	Downstream	c.*1905
+3456	3105	T	Downstream	Downstream	c.*1906
+3457	3106	G	Downstream	Downstream	c.*1907
+3458	3107	A	Downstream	Downstream	c.*1908
+3459	3108	G	Downstream	Downstream	c.*1909
+3460	3109	C	Downstream	Downstream	c.*1910
+3461	3110	A	Downstream	Downstream	c.*1911
+3462	3111	G	Downstream	Downstream	c.*1912
+3463	3112	T	Downstream	Downstream	c.*1913
+3464	3113	C	Downstream	Downstream	c.*1914
+3465	3114	T	Downstream	Downstream	c.*1915
+3466	3115	A	Downstream	Downstream	c.*1916
+3467	3116	A	Downstream	Downstream	c.*1917
+3468	3117	T	Downstream	Downstream	c.*1918
+3469	3118	T	Downstream	Downstream	c.*1919
+3470	3119	A	Downstream	Downstream	c.*1920
+3471	3120	T	Downstream	Downstream	c.*1921
+3472	3121	T	Downstream	Downstream	c.*1922
+3473	3122	T	Downstream	Downstream	c.*1923
+3474	3123	A	Downstream	Downstream	c.*1924
+3475	3124	C	Downstream	Downstream	c.*1925
+3476	3125	A	Downstream	Downstream	c.*1926
+3477	3126	C	Downstream	Downstream	c.*1927
+3478	3127	A	Downstream	Downstream	c.*1928
+3479	3128	A	Downstream	Downstream	c.*1929
+3480	3129	T	Downstream	Downstream	c.*1930
+3481	3130	T	Downstream	Downstream	c.*1931
+3482	3131	A	Downstream	Downstream	c.*1932
+3483	3132	G	Downstream	Downstream	c.*1933
+3484	3133	G	Downstream	Downstream	c.*1934
+3485	3134	A	Downstream	Downstream	c.*1935
+3486	3135	A	Downstream	Downstream	c.*1936
+3487	3136	G	Downstream	Downstream	c.*1937
+3488	3137	A	Downstream	Downstream	c.*1938
+3489	3138	G	Downstream	Downstream	c.*1939
+3490	3139	A	Downstream	Downstream	c.*1940
+3491	3140	A	Downstream	Downstream	c.*1941
+3492	3141	A	Downstream	Downstream	c.*1942
+3493	3142	A	Downstream	Downstream	c.*1943
+3494	3143	G	Downstream	Downstream	c.*1944
+3495	3144	G	Downstream	Downstream	c.*1945
+3496	3145	G	Downstream	Downstream	c.*1946
+3497	3146	G	Downstream	Downstream	c.*1947
+3498	3147	C	Downstream	Downstream	c.*1948
+3499	3148	A	Downstream	Downstream	c.*1949
+3500	3149	C	Downstream	Downstream	c.*1950
