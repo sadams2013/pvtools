@@ -5,6 +5,42 @@ import json
 import numpy as np
 import pandas as pd
 
+class LookupTable:
+    """Store liftover data for a gene.
+
+    Parameters
+    ----------
+    ng : Sequence
+        Sequence object for RefSeqGene.
+    g7 : Sequence
+        Sequence object for GRCh37.
+    g8 : Sequence
+        Sequence object for GRCh38.
+    """
+    def __init__(self, ng, g7, g8):
+        self.ng = ng
+        self.g7 = g7
+        self.g8 = g8
+        self.df = self._build_lookup_table(ng, g7, g8)
+
+    def _build_lookup_table(self, ng, g7, g8):
+        ng_pos1 = np.arange(1, len(ng.seq)+1)
+        ng_pos2 = ng_pos1 - ng.data['CDSStarts'][0]
+        ng_pos3 = ng.liftover()
+        g7_pos = list(range(g7.data['Start'], g7.data['End']+1))
+        g8_pos = list(range(g8.data['Start'], g8.data['End']+1))
+        allele = np.array(list(ng.seq))
+        annot1 = ng.annotate(cds=False)
+        annot2 = ng.annotate(cds=True)
+        d = {'Start_Position': ng_pos1, 'ATG_Position': ng_pos2,
+             'Transcript_Position': ng_pos3, 'GRCh37_Position': g7_pos,
+             'GRCh38_Position': g8_pos, 'Allele': allele,
+             'Exon_Annotation': annot1, 'CDS_Annotation': annot2}
+        return pd.DataFrame(d)
+
+    def to_tsv(self, f):
+        self.df.to_csv(f, sep='\t', index=False)
+
 class Sequence:
     """Store data for a single DNA sequence from a FASTA file.
 
@@ -174,16 +210,6 @@ class Sequence:
             annotations += [r.Name] * n
         return annotations
 
-    def to_dataframe(self):
-        pos1 = np.arange(1, len(self.seq)+1)
-        pos2 = pos1 - self.data['CDSStarts'][0]
-        df = pd.DataFrame({'Position1': pos1, 'Position2': pos2})
-        df['Allele'] = np.array(list(self.seq))
-        df['Annotation1'] = self.annotate(cds=False)
-        df['Annotation2'] = self.annotate(cds=True)
-        df['Position3'] = self.liftover()
-        return df
-
     def liftover(self):
         cds_df = self.get_cds_dataframe()
         cds_pos = []
@@ -223,9 +249,6 @@ class Sequence:
             raise ValueError(f"LiftOver length error: expected {self.len} bp, "
                              f"but generated: {len(cds_pos)} bp")
         return [f'c.{x}' for x in cds_pos]
-
-    def to_tsv(self, f):
-        self.to_dataframe().to_csv(f, sep='\t', index=False)
 
     def get_atg_pos(self):
         return self.data['CDSStarts'][0]

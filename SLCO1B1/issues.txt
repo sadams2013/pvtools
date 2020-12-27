@@ -1,0 +1,3 @@
+* rs139257324 is currently annotated as causing A57W. However, it should be R57W.
+* A variant at [ GRCh37 Position = 21279127 ] is outside of NG_011745.1 and thus cannot be liftover'ed.
+* A variant at [ NM_006446.5 (ATG=+1) = c.-314 ] is said to have 'T' allele but it should have 'G'.
