@@ -5,6 +5,31 @@ import json
 import numpy as np
 import pandas as pd
 
+class dbSNP:
+    """Store dbSNP data for a gene.
+
+    Parameters
+    ----------
+    dbsnp_file : str
+        Path to a dbSNP file containing variant information.
+
+    Attributes
+    ----------
+    df : pandas.DataFrame
+        Dataframe containing dbSNP data.
+    """
+    def __init__(self, dbsnp_file):
+        self.df = pd.read_table(dbsnp_file)
+
+    def get_ref(self, start, end):
+        """Return reference allele."""
+        try:
+            i = (self.df['chromStart'] == start) & (self.df['chromEnd'] == end)
+            result = self.df[i]['name'].values[0]
+        except IndexError:
+            result = None
+        return result
+
 class LookupTable:
     """Store liftover data for a gene.
 
@@ -16,6 +41,17 @@ class LookupTable:
         Sequence object for GRCh37.
     g8 : Sequence
         Sequence object for GRCh38.
+
+    Attributes
+    ----------
+    ng : Sequence
+        Sequence object for RefSeqGene.
+    g7 : Sequence
+        Sequence object for GRCh37.
+    g8 : Sequence
+        Sequence object for GRCh38.
+    df : pandas.DataFrame
+        Dataframe containing liftover data.
     """
     def __init__(self, ng, g7, g8):
         self.ng = ng
@@ -41,16 +77,33 @@ class LookupTable:
     def to_tsv(self, f):
         self.df.to_csv(f, sep='\t', index=False)
 
+    def find(self, system1, system2, value):
+        try:
+            result = self.df[self.df[system1] == value][system2].values[0]
+        except IndexError:
+            result = None
+        return result
+
 class Sequence:
-    """Store data for a single DNA sequence from a FASTA file.
+    """Store sequence data for a gene.
 
     Parameters
     ----------
     fasta_file : str
         Path to a FASTA file containing the DNA sequence.
-
     json_file : str
         Path to a JSON file containing metadata for the DNA sequence.
+
+    Attributes
+    ----------
+    name : str
+        Sequence identifier with the leading character '>' removed.
+    seq : str
+        DNA sequence.
+    len : int
+        Length of the DNA sequence.
+    data : dict
+        Metadata of the DNA sequence.
     """
     def __init__(self, fasta_file, json_file=None):
         self.name, self.seq = self._read_fasta_file(fasta_file)
